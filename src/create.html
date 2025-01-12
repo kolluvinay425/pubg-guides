@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Achievement Data Form</title>
+    <style>
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        min-height: 100vh;
+        background-color: #f0f0f0;
+        margin: 0;
+        padding: 20px;
+      }
+      form {
+        background-color: #ffffff;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        width: 400px;
+      }
+      h3 {
+        margin-top: 0;
+      }
+      label {
+        display: block;
+        margin-bottom: 8px;
+        font-weight: bold;
+      }
+      input,
+      textarea,
+      button {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        box-sizing: border-box;
+      }
+      button {
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        cursor: pointer;
+      }
+      button:hover {
+        background-color: #0056b3;
+      }
+      .section {
+        margin-bottom: 20px;
+      }
+      .section div {
+        margin-bottom: 10px;
+      }
+      .add-button {
+        background-color: #28a745;
+        margin-bottom: 10px;
+      }
+      .add-button:hover {
+        background-color: #218838;
+      }
+    </style>
+  </head>
+  <body>
+    <form id="dataForm" enctype="multipart/form-data">
+      <div>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required />
+        <label for="image">Image:</label>
+        <input type="file" id="image" name="image" accept="image/*" required />
+        <label for="description">Description:</label>
+        <textarea id="description" name="description" required></textarea>
+        <label for="points">Points:</label>
+        <input type="number" id="points" name="points" required />
+        <label for="hardness">Hardness:</label>
+        <input type="text" id="hardness" name="hardness" required />
+        <label for="category">Category:</label>
+        <input type="text" id="category" name="category" required />
+      </div>
+
+      <div class="section" id="requirementsSection">
+        <h3>Requirements</h3>
+        <button type="button" class="add-button" onclick="addRequirement()">
+          Add Requirement
+        </button>
+      </div>
+
+      <div class="section" id="tipsTricksSection">
+        <h3>Tips and Tricks</h3>
+        <button type="button" class="add-button" onclick="addTipsTricks()">
+          Add Tips and Tricks
+        </button>
+      </div>
+
+      <button type="submit">Submit</button>
+    </form>
+
+    <script>
+      function addRequirement() {
+        const requirementsSection = document.getElementById(
+          "requirementsSection"
+        );
+        const requirementDiv = document.createElement("div");
+        requirementDiv.innerHTML = `
+        <label>Heading:</label>
+        <input type="text" name="requirements[heading][]" required>
+        <label>Image:</label>
+        <input type="file" name="requirements[image][]" accept="image/*" required>
+        <label>Icon Image URL:</label>
+        <input type="text" name="requirements[icon_image][]" required>
+        <label>Description:</label>
+        <textarea name="requirements[description][]" required></textarea>
+      `;
+        requirementsSection.appendChild(requirementDiv);
+      }
+
+      function addTipsTricks() {
+        const tipsTricksSection = document.getElementById("tipsTricksSection");
+        const tipsTricksDiv = document.createElement("div");
+        tipsTricksDiv.innerHTML = `
+        <label>Heading:</label>
+        <input type="text" name="tipsTricks[heading][]" required>
+        <label>Image:</label>
+        <input type="file" name="tipsTricks[image][]" accept="image/*" required>
+        <label>Description:</label>
+        <textarea name="tipsTricks[description][]" required></textarea>
+      `;
+        tipsTricksSection.appendChild(tipsTricksDiv);
+      }
+
+      document
+        .getElementById("dataForm")
+        .addEventListener("submit", async (event) => {
+          event.preventDefault();
+          const formData = new FormData(event.target);
+
+          try {
+            const response = await fetch("/api/achievements", {
+              method: "POST",
+              body: formData,
+            });
+            const result = await response.json();
+            alert("Data saved successfully");
+          } catch (error) {
+            console.error("Error saving data:", error);
+          }
+        });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Update Achievement</title>
+    <style>
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        min-height: 100vh;
+        background-color: #f0f0f0;
+        margin: 0;
+        padding: 20px;
+      }
+      .container {
+        width: 800px;
+        background-color: #ffffff;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+      form {
+        margin-bottom: 40px;
+      }
+      h3 {
+        margin-top: 0;
+      }
+      label {
+        display: block;
+        margin-bottom: 8px;
+        font-weight: bold;
+      }
+      input,
+      textarea,
+      button {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        box-sizing: border-box;
+      }
+      button {
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        cursor: pointer;
+      }
+      button:hover {
+        background-color: #0056b3;
+      }
+      .section {
+        margin-bottom: 20px;
+      }
+      .section div {
+        margin-bottom: 10px;
+      }
+      .add-button {
+        background-color: #28a745;
+        margin-bottom: 10px;
+      }
+      .add-button:hover {
+        background-color: #218838;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h3>Update Achievement</h3>
+      <form id="updateForm" enctype="multipart/form-data">
+        <label for="searchName">Search by Name:</label>
+        <input type="text" id="searchName" name="searchName" required />
+        <button type="button" onclick="searchAchievement()">Search</button>
+
+        <div id="updateFields" style="display: none">
+          <label for="updateName">Name:</label>
+          <input type="text" id="updateName" name="name" />
+          <label for="updateImage">Image:</label>
+          <input type="file" id="updateImage" name="image" accept="image/*" />
+          <label for="updateDescription">Description:</label>
+          <textarea id="updateDescription" name="description"></textarea>
+          <label for="updatePoints">Points:</label>
+          <input type="number" id="updatePoints" name="points" />
+          <label for="updateHardness">Hardness:</label>
+          <input type="text" id="updateHardness" name="hardness" />
+          <label for="updateCategory">Category:</label>
+          <input type="text" id="updateCategory" name="category" />
+
+          <div class="section" id="updateRequirementsSection">
+            <h3>Requirements</h3>
+            <button
+              type="button"
+              class="add-button"
+              onclick="addUpdateRequirement()"
+            >
+              Add Requirement
+            </button>
+          </div>
+
+          <div class="section" id="updateTipsTricksSection">
+            <h3>Tips and Tricks</h3>
+            <button
+              type="button"
+              class="add-button"
+              onclick="addUpdateTipsTricks()"
+            >
+              Add Tips and Tricks
+            </button>
+          </div>
+
+          <button type="submit">Update</button>
+        </div>
+      </form>
+    </div>
+
+    <script>
+      function addUpdateRequirement() {
+        const requirementsSection = document.getElementById(
+          "updateRequirementsSection"
+        );
+        const requirementDiv = document.createElement("div");
+        requirementDiv.innerHTML = `
+        <label>Heading:</label>
+        <input type="text" name="requirements[heading]">
+        <label>Image:</label>
+        <input type="file" name="requirements[image]" accept="image/*">
+        <label>Icon Image URL:</label>
+        <input type="text" name="requirements[icon_image]">
+        <label>Description:</label>
+        <textarea name="requirements[description]"></textarea>
+      `;
+        requirementsSection.appendChild(requirementDiv);
+      }
+
+      function addUpdateTipsTricks() {
+        const tipsTricksSection = document.getElementById(
+          "updateTipsTricksSection"
+        );
+        const tipsTricksDiv = document.createElement("div");
+        tipsTricksDiv.innerHTML = `
+        <label>Heading:</label>
+        <input type="text" name="tipsTricks[heading][]">
+        <label>Image:</label>
+        <input type="file" name="tipsTricks[image][]" accept="image/*">
+        <label>Description:</label>
+        <textarea name="tipsTricks[description][]"></textarea>
+      `;
+        tipsTricksSection.appendChild(tipsTricksDiv);
+      }
+
+      async function searchAchievement() {
+        const searchName = document.getElementById("searchName").value;
+        try {
+          const response = await fetch(
+            `/api/achievements?name=${encodeURIComponent(searchName)}`
+          );
+          const result = await response.json();
+          if (result) {
+            document.getElementById("updateFields").style.display = "block";
+            document.getElementById("updateName").value = result.name;
+            // Clear the file input fields as they cannot be pre-filled
+            document.getElementById("updateImage").value = "";
+            document.getElementById("updateDescription").value =
+              result.description;
+            document.getElementById("updatePoints").value = result.points;
+            document.getElementById("updateHardness").value = result.hardness;
+            document.getElementById("updateCategory").value = result.category;
+
+            // Populate requirements and tipsTricks
+            const updateRequirementsSection = document.getElementById(
+              "updateRequirementsSection"
+            );
+            updateRequirementsSection.innerHTML =
+              '<h3>Requirements</h3><button type="button" class="add-button" onclick="addUpdateRequirement()">Add Requirement</button>';
+            result.requirements.forEach((req) => {
+              const requirementDiv = document.createElement("div");
+              requirementDiv.innerHTML = `
+              <label>Heading:</label>
+              <input type="text" name="requirements[heading]" value="${req.heading}">
+              <label>Image:</label>
+              <input type="file" name="requirements[image]" accept="image/*">
+              <label>Icon Image URL:</label>
+              <input type="text" name="requirements[icon_image]" value="${req.icon_image}">
+              <label>Description:</label>
+              <textarea name="requirements[description]">${req.description}</textarea>
+            `;
+              updateRequirementsSection.appendChild(requirementDiv);
+            });
+
+            const updateTipsTricksSection = document.getElementById(
+              "updateTipsTricksSection"
+            );
+            updateTipsTricksSection.innerHTML =
+              '<h3>Tips and Tricks</h3><button type="button" class="add-button" onclick="addUpdateTipsTricks()">Add Tips and Tricks</button>';
+            result.tipsTricks.forEach((tip) => {
+              const tipsTricksDiv = document.createElement("div");
+              tipsTricksDiv.innerHTML = `
+              <label>Heading:</label>
+              <input type="text" name="tipsTricks[heading][]" value="${tip.heading}">
+              <label>Image:</label>
+              <input type="file" name="tipsTricks[image][]" accept="image/*">
+              <label>Description:</label>
+              <textarea name="tipsTricks[description][]">${tip.description}</textarea>
+            `;
+              updateTipsTricksSection.appendChild(tipsTricksDiv);
+            });
+          } else {
+            alert("Achievement not found");
+          }
+        } catch (error) {
+          console.error("Error fetching achievement:", error);
+        }
+      }
+
+      document
+        .getElementById("updateForm")
+        .addEventListener("submit", async (event) => {
+          event.preventDefault();
+          const formData = new FormData(event.target);
+
+          try {
+            const searchName = document.getElementById("searchName").value;
+            const response = await fetch(
+              `/api/achievements/${encodeURIComponent(searchName)}`,
+              {
+                method: "PUT",
+                body: formData,
+              }
+            );
+            const result = await response.json();
+            alert("Data updated successfully");
+          } catch (error) {
+            console.error("Error updating data:", error);
+          }
+        });
+    </script>
+  </body>
+</html>
