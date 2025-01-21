@@ -1,0 +1,37 @@
+
+how to complete pubg "Armour Expert" mission which has requirements: Pick up the following attachments.
+Muzzle
+Stock
+Magazine
+Foregrip
+Scope
+
+
+{
+    "name": "",
+    "image": "",
+    "description": "",
+    "points": 10,
+    "category": "matches",
+    "hardness": "",
+    "rewards": {
+      "title": "",
+      "titleImage": "",
+      "extra": ""
+    },
+    "tipsTricks": [
+      {
+        "heading": "",
+        "image": "",
+        "description": ""
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "",
+        "image": "",
+        "icon_image": "",
+        "description": ""
+      }
+    ]
+  },

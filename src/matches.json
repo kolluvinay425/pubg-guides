@@ -1,0 +1,1137 @@
+[
+  {
+    "name": "Finisher",
+    "image": "url_to_finisher_image",
+    "description": "Survive to the end of 3 Classic Mode matches with less than 5 health remaining while at Gold tier or higher.",
+    "points": 50,
+    "category": "matches",
+    "hardness": "Very Hard",
+    "rewards": {
+      "title": "Finisher",
+      "titleImage": "url_to_title_image",
+      "extra": "Exclusive title and achievement points upon completion."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Control Your Health in the Final Circle",
+        "image": "url_to_health_control_image",
+        "description": "Use a Molotov or stand in the play zone to reduce your health to less than 5 just before securing the final kill."
+      },
+      {
+        "heading": "Land in Low-Population Zones",
+        "image": "url_to_safe_zone_image",
+        "description": "Start in remote areas to avoid early confrontations and improve your chances of surviving to the final circle."
+      },
+      {
+        "heading": "Play Defensively",
+        "image": "url_to_defensive_play_image",
+        "description": "Avoid unnecessary fights and use stealth to outlast other players. Stay within safe zones and position yourself strategically."
+      },
+      {
+        "heading": "Carry Healing Supplies",
+        "image": "url_to_healing_items_image",
+        "description": "Bring plenty of bandages, medkits, and boosters to maintain health while ensuring you can lower it intentionally at the right time."
+      },
+      {
+        "heading": "Use Solo Mode",
+        "image": "url_to_solo_mode_image",
+        "description": "Attempt this mission in Solo Mode for better control over the final circle and the last opponent."
+      },
+      {
+        "heading": "Check Your Tier",
+        "image": "url_to_tier_check_image",
+        "description": "Ensure you are in Gold tier or higher in Classic Mode before attempting this mission."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Gold Tier or Higher",
+        "image": "url_to_tier_requirement_image",
+        "icon_image": "url_to_gold_tier_icon",
+        "description": "You must be at least in Gold tier in Classic Mode to qualify for this mission."
+      },
+      {
+        "heading": "Win with Less than 5 Health",
+        "image": "url_to_health_requirement_image",
+        "icon_image": "url_to_health_icon",
+        "description": "Survive to the end of the match with your health bar below 5 HP."
+      },
+      {
+        "heading": "Survive 3 Matches",
+        "image": "url_to_matches_requirement_image",
+        "icon_image": "url_to_matches_icon",
+        "description": "Complete this requirement in 3 separate Classic Mode matches."
+      }
+    ]
+  },
+  {
+    "name": "Veteran",
+    "image": "url_to_veteran_image",
+    "description": "Complete any 4 of the following weapon-specific mystery missions: SMG Mystery, Sniper Mystery, Shotgun Mystery, Melee Mystery, Assault Mystery, or Pistol Mystery.",
+    "points": 40,
+    "category": "matches",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Veteran",
+      "titleImage": "url_to_veteran_title_image",
+      "extra": "Achievement points and a prestigious in-game title."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Focus on One Mission at a Time",
+        "image": "url_to_focus_image",
+        "description": "Choose one weapon category per match to streamline progress towards completing its specific mystery."
+      },
+      {
+        "heading": "Use the Right Map",
+        "image": "url_to_map_image",
+        "description": "Select maps with the highest likelihood of finding the required weapons (e.g., Miramar for snipers, Sanhok for shotguns)."
+      },
+      {
+        "heading": "Engage in Close-Range Combat for Melee and Shotguns",
+        "image": "url_to_close_combat_image",
+        "description": "Land in areas with high player density to maximize melee and shotgun opportunities in close-range fights."
+      },
+      {
+        "heading": "Play in Lower Tiers",
+        "image": "url_to_tier_image",
+        "description": "Playing in lower-ranked lobbies increases the chances of encountering bots, making it easier to complete weapon-specific challenges."
+      },
+      {
+        "heading": "Track Your Progress",
+        "image": "url_to_progress_tracking_image",
+        "description": "Keep an eye on your mission progress after each match to determine which mysteries are close to completion."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Complete SMG Mystery",
+        "image": "url_to_smg_image",
+        "icon_image": "url_to_smg_icon",
+        "description": "Eliminate enemies using Sub-Machine Guns like UMP45, Vector, or Micro Uzi."
+      },
+      {
+        "heading": "Complete Sniper Mystery",
+        "image": "url_to_sniper_image",
+        "icon_image": "url_to_sniper_icon",
+        "description": "Achieve kills using sniper rifles such as Kar98k, M24, or AWM."
+      },
+      {
+        "heading": "Complete Shotgun Mystery",
+        "image": "url_to_shotgun_image",
+        "icon_image": "url_to_shotgun_icon",
+        "description": "Secure eliminations with shotguns like S686, S1897, or S12K."
+      },
+      {
+        "heading": "Complete Melee Mystery",
+        "image": "url_to_melee_image",
+        "icon_image": "url_to_melee_icon",
+        "description": "Take down enemies with melee weapons such as Pan, Crowbar, or Sickle."
+      },
+      {
+        "heading": "Complete Assault Mystery",
+        "image": "url_to_ar_image",
+        "icon_image": "url_to_ar_icon",
+        "description": "Finish enemies using assault rifles like M416, AKM, or SCAR-L."
+      },
+      {
+        "heading": "Complete Pistol Mystery",
+        "image": "url_to_pistol_image",
+        "icon_image": "url_to_pistol_icon",
+        "description": "Eliminate enemies with pistols such as P1911, R1895, or Desert Eagle."
+      }
+    ]
+  },
+  {
+    "name": "Predator V",
+    "image": "url_to_predator_image",
+    "description": "Eliminate 20 enemies in a single Classic Mode match to complete this challenging achievement.",
+    "points": 40,
+    "category": "matches",
+    "hardness": "Very Hard",
+    "rewards": {
+      "title": "Predator",
+      "titleImage": "url_to_predator_title_image",
+      "extra": "Achievement points and an exclusive in-game title."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Land in High-Traffic Areas",
+        "image": "url_to_landing_image",
+        "description": "Choose hot-drop locations like Pochinki (Erangel), Bootcamp (Sanhok), or Hacienda del Patrón (Miramar) for maximum engagement opportunities."
+      },
+      {
+        "heading": "Engage Early",
+        "image": "url_to_engagement_image",
+        "description": "Try to secure a weapon quickly after landing and engage nearby players to accumulate kills early in the match."
+      },
+      {
+        "heading": "Carry an Effective Loadout",
+        "image": "url_to_loadout_image",
+        "description": "Use versatile weapons like an M416 for medium to long-range and a Micro Uzi or shotgun for close-range combat."
+      },
+      {
+        "heading": "Utilize Bots to Your Advantage",
+        "image": "url_to_bots_image",
+        "description": "In lower-ranked lobbies, bots can help pad your kill count. Be vigilant to identify and eliminate them quickly."
+      },
+      {
+        "heading": "Play Solo Mode",
+        "image": "url_to_solo_image",
+        "description": "Playing solo allows you to avoid sharing kills with teammates, increasing your chances of reaching the 20-kill goal."
+      },
+      {
+        "heading": "Stay in High-Traffic Zones",
+        "image": "url_to_traffic_image",
+        "description": "Position yourself near areas with frequent player movement, such as bridges, supply drops, or the center of the safe zone."
+      },
+      {
+        "heading": "Use Vehicles Strategically",
+        "image": "url_to_vehicle_image",
+        "description": "Vehicles can help you quickly move between engagements and chase down fleeing enemies."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 20 Enemies in a Single Match",
+        "image": "url_to_kill_count_image",
+        "icon_image": "url_to_icon_image",
+        "description": "Secure at least 20 eliminations in a single Classic Mode match to complete the Predator V mission."
+      },
+      {
+        "heading": "Play Classic Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_icon",
+        "description": "Ensure you are playing in Classic Mode as eliminations in other modes will not count towards this mission."
+      }
+    ]
+  },
+  {
+    "name": "Predator  IV",
+    "image": "url_to_predator_vi_image",
+    "description": "Eliminate 15 enemies in a single Classic Mode match to achieve the Predator  IV milestone.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Predator  IV",
+      "titleImage": "url_to_predator_vi_title_image",
+      "extra": "Achievement points and a recognition badge."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Land in Busy Areas",
+        "image": "url_to_hotdrop_image",
+        "description": "Drop at high-action locations like Pochinki, School, or Military Base (Erangel) to engage with more players early on."
+      },
+      {
+        "heading": "Prioritize Fast Looting",
+        "image": "url_to_looting_image",
+        "description": "Quickly gather weapons, armor, and health items to prepare for immediate combat after landing."
+      },
+      {
+        "heading": "Carry a Versatile Loadout",
+        "image": "url_to_loadout_image",
+        "description": "Opt for a balanced weapon combination like an M416 or AKM for mid to long-range and a Micro Uzi or shotgun for close quarters."
+      },
+      {
+        "heading": "Stay Mobile",
+        "image": "url_to_mobility_image",
+        "description": "Use vehicles to move between engagements and cover large areas of the map to find more enemies."
+      },
+      {
+        "heading": "Engage Bots When Possible",
+        "image": "url_to_bot_tips_image",
+        "description": "In lower-tier matches, take advantage of bots to increase your kill count."
+      },
+      {
+        "heading": "Dominate Mid-Game",
+        "image": "url_to_midgame_image",
+        "description": "Focus on holding high-traffic areas during the mid-game phase to increase chances of encountering other players."
+      },
+      {
+        "heading": "Control the Final Circles",
+        "image": "url_to_final_circle_image",
+        "description": "Position yourself strategically in the final zones to maximize your eliminations before the match ends."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 15 Enemies in One Match",
+        "image": "url_to_kill_count_image",
+        "icon_image": "url_to_icon_image",
+        "description": "Achieve at least 15 eliminations in a single Classic Mode match to complete this mission."
+      },
+      {
+        "heading": "Play Classic Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_icon",
+        "description": "Ensure you are playing Classic Mode as eliminations in other modes do not count."
+      }
+    ]
+  },
+  {
+    "name": "Predator III",
+    "image": "url_to_predator_iii_image",
+    "description": "Eliminate 10 enemies in a single Classic Mode match to complete the Predator III mission.",
+    "points": 15,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Predator III",
+      "titleImage": "url_to_predator_iii_title_image",
+      "extra": "Achievement points and a progression badge."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Land in Moderate-Traffic Areas",
+        "image": "url_to_landing_image",
+        "description": "Choose locations like Rozhok (Erangel), Paradise Resort (Sanhok), or Pecado (Miramar) to encounter a manageable number of enemies."
+      },
+      {
+        "heading": "Stay Aggressive",
+        "image": "url_to_aggression_image",
+        "description": "Engage actively and pursue enemies, focusing on clearing nearby areas to secure your eliminations early."
+      },
+      {
+        "heading": "Maintain Ammo and Healing Items",
+        "image": "url_to_items_image",
+        "description": "Carry enough ammo and healing supplies to ensure sustained combat during the match."
+      },
+      {
+        "heading": "Use a Reliable Loadout",
+        "image": "url_to_loadout_image",
+        "description": "Combine weapons like an M416 or Scar-L for mid-range and a close-combat weapon such as a Micro Uzi or shotgun."
+      },
+      {
+        "heading": "Monitor the Map",
+        "image": "url_to_map_image",
+        "description": "Pay attention to sound cues and the minimap to track enemy locations effectively."
+      },
+      {
+        "heading": "Control Mid-Game Engagements",
+        "image": "url_to_midgame_image",
+        "description": "Focus on controlling key buildings or ridges during the mid-game phase to encounter more enemies."
+      },
+      {
+        "heading": "Optimize Final Circles",
+        "image": "url_to_final_circle_image",
+        "description": "Position yourself strategically in the safe zone and take advantage of players rotating into the circle."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 10 Enemies in One Match",
+        "image": "url_to_kill_count_image",
+        "icon_image": "url_to_icon_image",
+        "description": "Achieve at least 10 eliminations in a single Classic Mode match to complete this mission."
+      },
+      {
+        "heading": "Play Classic Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_icon",
+        "description": "Ensure you are playing Classic Mode as eliminations in other modes will not count."
+      }
+    ]
+  },
+  {
+    "name": "Predator II",
+    "image": "url_to_predator_ii_image",
+    "description": "Eliminate 5 enemies in a single Classic Mode match to complete the Predator II mission.",
+    "points": 10,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Predator II",
+      "titleImage": "url_to_predator_ii_title_image",
+      "extra": "Achievement points and a recognition badge."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Land in Semi-Populated Areas",
+        "image": "url_to_landing_image",
+        "description": "Drop in areas like Georgopol Containers, Bootcamp (Sanhok), or Hacienda (Miramar) to find a mix of bots and players."
+      },
+      {
+        "heading": "Engage Early",
+        "image": "url_to_early_engagement_image",
+        "description": "Take advantage of the initial landing phase to secure eliminations while players are still looting."
+      },
+      {
+        "heading": "Use Common Weapons",
+        "image": "url_to_weapons_image",
+        "description": "Pick up versatile and easily accessible weapons such as AKM, M416, or UMP45 to engage enemies effectively."
+      },
+      {
+        "heading": "Stay Alert",
+        "image": "url_to_alertness_image",
+        "description": "Keep an eye on the minimap and listen for footsteps or gunfire to locate enemies nearby."
+      },
+      {
+        "heading": "Be Ready for Close-Combat Fights",
+        "image": "url_to_close_combat_image",
+        "description": "Carry a shotgun or SMG for quick eliminations in close-range situations."
+      },
+      {
+        "heading": "Use Bots to Your Advantage",
+        "image": "url_to_bot_tips_image",
+        "description": "Lower-tier matches often include bots. Eliminate them for easy kills to meet the mission goal."
+      },
+      {
+        "heading": "Position Smartly",
+        "image": "url_to_positioning_image",
+        "description": "Hold strong positions like rooftops or ridges to spot and eliminate enemies easily."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 5 Enemies in One Match",
+        "image": "url_to_kill_count_image",
+        "icon_image": "url_to_icon_image",
+        "description": "Achieve at least 5 eliminations in a single Classic Mode match to complete this mission."
+      },
+      {
+        "heading": "Play Classic Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_icon",
+        "description": "Ensure you are playing Classic Mode as eliminations in other modes will not count."
+      }
+    ]
+  },
+  {
+    "name": "Predator I",
+    "image": "url_to_predator_i_image",
+    "description": "Eliminate 3 enemies in a single Classic Mode match to complete the Predator I mission.",
+    "points": 5,
+    "category": "matches",
+    "hardness": "Very Easy",
+    "rewards": {
+      "title": "Predator I",
+      "titleImage": "url_to_predator_i_title_image",
+      "extra": "Achievement points and progression rewards."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Land in Low-Traffic Areas",
+        "image": "url_to_landing_image",
+        "description": "Choose quiet landing spots like small compounds or outer areas to loot and prepare for combat."
+      },
+      {
+        "heading": "Prioritize Early Engagements",
+        "image": "url_to_early_engagement_image",
+        "description": "Engage nearby enemies during the initial phase to secure quick eliminations."
+      },
+      {
+        "heading": "Use Effective Loadouts",
+        "image": "url_to_weapons_image",
+        "description": "Stick to beginner-friendly weapons like M416, UMP45, or AKM for reliable damage output."
+      },
+      {
+        "heading": "Take Advantage of Bots",
+        "image": "url_to_bot_tips_image",
+        "description": "Eliminate bots in lower-tier matches to easily meet the elimination requirement."
+      },
+      {
+        "heading": "Monitor Sound Cues",
+        "image": "url_to_sound_tips_image",
+        "description": "Use headphones to track gunfire and footsteps, making it easier to locate enemies."
+      },
+      {
+        "heading": "Stay Aggressive but Safe",
+        "image": "url_to_safe_aggression_image",
+        "description": "Engage enemies cautiously, avoiding overly risky situations that could lead to elimination."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 3 Enemies in One Match",
+        "image": "url_to_kill_count_image",
+        "icon_image": "url_to_icon_image",
+        "description": "Achieve at least 3 eliminations in a single Classic Mode match to complete this mission."
+      },
+      {
+        "heading": "Play Classic Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_icon",
+        "description": "Ensure you are playing Classic Mode as eliminations in other modes will not count."
+      }
+    ]
+  },
+  {
+    "name": "Field Medic V",
+    "image": "url_to_field_medic_image",
+    "description": "Rescue teammates 500 times in Classic Mode matches to complete the Field Medic V mission.",
+    "points": 40,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Field Medic",
+      "titleImage": "url_to_field_medic_title_image",
+      "extra": "Achievement points and recognition for assisting your team."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Stay Close to Your Team",
+        "image": "url_to_teamwork_image",
+        "description": "To rescue teammates, stay near them and keep an eye on your teammates' health. The quicker you respond, the higher the chances of saving them."
+      },
+      {
+        "heading": "Be Prepared with Medkits and Bandages",
+        "image": "url_to_medkit_image",
+        "description": "Always carry extra medkits, bandages, and other healing items to assist teammates when they're down."
+      },
+      {
+        "heading": "Use Communication to Coordinate Rescues",
+        "image": "url_to_communication_image",
+        "description": "Ensure you are using voice or text chat to communicate with teammates. They can ping their location for you to rush over and revive them."
+      },
+      {
+        "heading": "Rescue in Safe Zones",
+        "image": "url_to_safe_zone_image",
+        "description": "Attempt rescues when you're in the safety of a secure zone to reduce the risks from external gunfire or the blue zone."
+      },
+      {
+        "heading": "Engage in Team Strategies",
+        "image": "url_to_strategic_play_image",
+        "description": "Plan ahead with your squad to focus on healing and rescuing each other during combat engagements."
+      },
+      {
+        "heading": "Use Smoke Grenades",
+        "image": "url_to_smoke_grenade_image",
+        "description": "Throwing a smoke grenade around downed teammates can provide cover, making rescues easier and safer."
+      },
+      {
+        "heading": "Rescue During Calm Moments",
+        "image": "url_to_rescue_safety_image",
+        "description": "During moments of calm in the match, focus on healing your teammates to ensure you're ready for future battles."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Rescue 500 Teammates",
+        "image": "url_to_rescue_image",
+        "icon_image": "url_to_rescue_icon",
+        "description": "Complete the mission by rescuing your teammates 500 times. Every match counts, and your teamwork is key!"
+      },
+      {
+        "heading": "Play Classic Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_icon",
+        "description": "Ensure you are playing Classic Mode as rescues in other modes do not count towards this mission."
+      }
+    ]
+  },
+  {
+    "name": "Field Medic IV",
+    "image": "url_to_field_medic_iv_image",
+    "description": "Rescue teammates 100 times in Classic Mode matches to complete the Field Medic IV mission.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Field Medic IV",
+      "titleImage": "url_to_field_medic_iv_title_image",
+      "extra": "Achievement points and recognition for being a key member of your squad."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Stay Close and Alert",
+        "image": "url_to_alert_image",
+        "description": "Constantly keep an eye on your teammates' health and listen for distress signals to be ready for rescues."
+      },
+      {
+        "heading": "Carry Extra Healing Items",
+        "image": "url_to_medkit_image",
+        "description": "Ensure you always have plenty of healing items like medkits and bandages in your inventory for fast rescue operations."
+      },
+      {
+        "heading": "Use Voice or Text Chat",
+        "image": "url_to_chat_image",
+        "description": "Communicate with your teammates to know their locations when they're down, which helps you reach them faster and more effectively."
+      },
+      {
+        "heading": "Look for Cover During Rescues",
+        "image": "url_to_cover_image",
+        "description": "When rescuing teammates, always look for nearby cover to avoid being shot while reviving them."
+      },
+      {
+        "heading": "Use Smoke for Protection",
+        "image": "url_to_smoke_grenade_image",
+        "description": "Deploy smoke grenades around downed teammates to provide cover and reduce the risk of enemy fire while you revive them."
+      },
+      {
+        "heading": "Engage in Team Combat",
+        "image": "url_to_team_combat_image",
+        "description": "Fight together as a team, helping each other out. Focus on picking up teammates as soon as it's safe."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Rescue 100 Teammates",
+        "image": "url_to_rescue_image",
+        "icon_image": "url_to_rescue_icon",
+        "description": "To complete the mission, rescue 100 teammates. Every rescue counts, so make sure to be an active contributor to your team's survival."
+      },
+      {
+        "heading": "Play Classic Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_icon",
+        "description": "This mission is only available in Classic Mode. Make sure to play Classic Mode to track your progress."
+      }
+    ]
+  },
+  {
+    "name": "Field Medic III",
+    "image": "url_to_field_medic_iii_image",
+    "description": "Rescue teammates 30 times in Classic Mode matches to complete the Field Medic III mission.",
+    "points": 15,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Field Medic III",
+      "titleImage": "url_to_field_medic_iii_title_image",
+      "extra": "Achievement points and recognition for being a reliable rescuer in your squad."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Stay Near Teammates",
+        "image": "url_to_staying_near_team_image",
+        "description": "Always be close to your teammates and keep an eye on their health. The quicker you respond, the easier it is to save them."
+      },
+      {
+        "heading": "Carry Healing Items",
+        "image": "url_to_healing_items_image",
+        "description": "Keep an abundance of medkits, bandages, and other healing items in your inventory so you are always prepared for a rescue."
+      },
+      {
+        "heading": "Use Communication Effectively",
+        "image": "url_to_communication_image",
+        "description": "Use voice or text chat to coordinate with your teammates. Knowing their location makes rescues faster and more efficient."
+      },
+      {
+        "heading": "Be Ready for Safe Rescues",
+        "image": "url_to_safe_rescue_image",
+        "description": "Try to revive teammates when you're in a safe position, or when the enemy is distracted or eliminated."
+      },
+      {
+        "heading": "Use Smoke Grenades for Cover",
+        "image": "url_to_smoke_grenade_image",
+        "description": "Throwing a smoke grenade around your downed teammates can provide cover, allowing you to revive them without exposing yourself to enemy fire."
+      },
+      {
+        "heading": "Rescue Teammates in Calm Moments",
+        "image": "url_to_rescue_in_peace_image",
+        "description": "During quiet moments in the game, focus on rescuing your teammates to ensure they are ready for any upcoming battles."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Rescue 30 Teammates",
+        "image": "url_to_rescue_30_image",
+        "icon_image": "url_to_rescue_icon",
+        "description": "Complete the mission by rescuing 30 teammates. Keep track of your rescues and continue assisting your squad."
+      },
+      {
+        "heading": "Play Classic Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon",
+        "description": "This mission only counts rescues in Classic Mode, so make sure to play Classic Mode matches to earn progress."
+      }
+    ]
+  },
+  {
+    "name": "Field Medic II",
+    "image": "url_to_field_medic_ii_image",
+    "description": "Rescue teammates 10 times in Classic Mode matches to complete the Field Medic II mission.",
+    "points": 10,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Field Medic II",
+      "titleImage": "url_to_field_medic_ii_title_image",
+      "extra": "Achievement points for being a helpful teammate and rescuer."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Stay Close to Teammates",
+        "image": "url_to_staying_near_team_image",
+        "description": "Being close to your teammates increases the chances of rescuing them when they go down. Keep track of their health status during the match."
+      },
+      {
+        "heading": "Always Carry Healing Supplies",
+        "image": "url_to_healing_items_image",
+        "description": "Always have medkits, bandages, and first aid kits in your inventory to rescue teammates efficiently when needed."
+      },
+      {
+        "heading": "Use Smoke Grenades for Protection",
+        "image": "url_to_smoke_grenade_image",
+        "description": "Using smoke grenades when rescuing teammates can provide cover, protecting both you and your teammate from enemy attacks during the revive process."
+      },
+      {
+        "heading": "Rescue During Lulls in Combat",
+        "image": "url_to_rescue_in_peace_image",
+        "description": "Rescue your teammates during breaks in enemy fire or when the combat slows down, ensuring the process is safe and fast."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Rescue 10 Teammates",
+        "image": "url_to_rescue_10_image",
+        "icon_image": "url_to_rescue_icon",
+        "description": "The mission is completed once you have rescued a total of 10 teammates in Classic Mode matches."
+      },
+      {
+        "heading": "Play Classic Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon",
+        "description": "This mission only counts rescues in Classic Mode. Make sure you play Classic Mode to make progress."
+      }
+    ]
+  },
+  {
+    "name": "Field Medic I",
+    "image": "url_to_field_medic_i_image",
+    "description": "Rescue 5 teammates in Classic Mode matches to complete the Field Medic I mission.",
+    "points": 5,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Field Medic I",
+      "titleImage": "url_to_field_medic_i_title_image",
+      "extra": "Earn achievement points for rescuing teammates in critical moments."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Stay Close to Your Team",
+        "image": "url_to_staying_near_team_image",
+        "description": "Being near your teammates during the match increases the chances of rescuing them when they get knocked out."
+      },
+      {
+        "heading": "Always Carry Medkits and Bandages",
+        "image": "url_to_healing_items_image",
+        "description": "Make sure you always have medkits, bandages, and first aid kits to perform rescues."
+      },
+      {
+        "heading": "Use Smoke Grenades for Protection",
+        "image": "url_to_smoke_grenade_image",
+        "description": "Deploy smoke grenades to cover your revives and avoid enemy detection while rescuing your teammate."
+      },
+      {
+        "heading": "Wait for Safe Opportunities",
+        "image": "url_to_safe_revive_image",
+        "description": "Only attempt a rescue when it is safe, either during lulls in combat or when enemies are distracted."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Rescue 5 Teammates",
+        "image": "url_to_rescue_5_image",
+        "icon_image": "url_to_rescue_icon",
+        "description": "To complete this mission, you need to rescue 5 teammates in Classic Mode."
+      },
+      {
+        "heading": "Play Classic Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon",
+        "description": "The mission is specifically designed for Classic Mode. Ensure you're playing that mode to make progress."
+      }
+    ]
+  },
+  {
+    "name": "Skull Collector V",
+    "image": "url_to_skull_collector_v_image",
+    "description": "Eliminate 200 enemies with headshots in Classic Mode to complete the Skull Collector V mission.",
+    "points": 50,
+    "category": "matches",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Skull Collector V",
+      "titleImage": "url_to_skull_collector_v_title_image",
+      "extra": "Earn achievement points for eliminating enemies with perfect headshots."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Aim for the Head",
+        "image": "url_to_aim_head_image",
+        "description": "Always aim for the head when engaging enemies. Use weapons with high accuracy like the M416, AKM, or Mini 14."
+      },
+      {
+        "heading": "Use Scope Attachments",
+        "image": "url_to_scope_attachment_image",
+        "description": "Scopes like the 3x, 4x, or 6x can help with precision aiming, allowing you to more consistently hit headshots."
+      },
+      {
+        "heading": "Practice in Training Mode",
+        "image": "url_to_training_mode_image",
+        "description": "Spend time in Training Mode to get used to the recoil and headshot mechanics of different weapons."
+      },
+      {
+        "heading": "Choose Sniper Rifles for Long-Range Headshots",
+        "image": "url_to_sniper_rifle_image",
+        "description": "Sniper rifles like the Kar98k, M24, or AWM are ideal for long-range headshots, so focus on using them for greater precision."
+      },
+      {
+        "heading": "Keep Moving and Take Your Shots Carefully",
+        "image": "url_to_steady_aim_image",
+        "description": "Take your time and ensure your aim is steady before shooting. Avoid rushing headshots unless necessary, as accuracy is key."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 200 Enemies with Headshots",
+        "image": "url_to_200_headshots_image",
+        "icon_image": "url_to_headshot_icon",
+        "description": "To complete this mission, you must eliminate 200 enemies with headshots in Classic Mode."
+      },
+      {
+        "heading": "Play Classic Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon",
+        "description": "This mission is exclusive to Classic Mode, so ensure you're playing that mode for progress."
+      }
+    ]
+  },
+  {
+    "name": "Skull Collector IV",
+    "image": "url_to_skull_collector_iv_image",
+    "description": "Eliminate 30 enemies with headshots in Classic Mode to complete the Skull Collector IV mission.",
+    "points": 40,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Skull Collector IV",
+      "titleImage": "url_to_skull_collector_iv_title_image",
+      "extra": "Earn achievement points for eliminating enemies with perfect headshots."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Aim for the Head",
+        "image": "url_to_aim_head_image",
+        "description": "Always focus on headshots for quick eliminations. Use weapons like M416, AKM, or Mini 14 for accuracy."
+      },
+      {
+        "heading": "Use Scope Attachments",
+        "image": "url_to_scope_attachment_image",
+        "description": "Opt for 3x or 4x scopes to enhance your aim for headshots, especially at medium ranges."
+      },
+      {
+        "heading": "Practice in Training Mode",
+        "image": "url_to_training_mode_image",
+        "description": "Training Mode can help you improve your accuracy and recoil control, which is crucial for landing headshots."
+      },
+      {
+        "heading": "Sniper Rifles for Long-Range Headshots",
+        "image": "url_to_sniper_rifle_image",
+        "description": "Use sniper rifles like Kar98k or M24 for long-range headshots. They're highly effective when aimed carefully."
+      },
+      {
+        "heading": "Keep a Safe Distance",
+        "image": "url_to_safety_distance_image",
+        "description": "Engage enemies at mid to long-range where you can control your shots better and have more time to aim for the head."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 30 Enemies with Headshots",
+        "image": "url_to_30_headshots_image",
+        "icon_image": "url_to_headshot_icon",
+        "description": "To complete this mission, you need to eliminate 30 enemies with headshots in Classic Mode."
+      },
+      {
+        "heading": "Play Classic Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon",
+        "description": "This mission can only be completed in Classic Mode, so make sure to play in that mode."
+      }
+    ]
+  },
+  {
+    "name": "Skull Collector III",
+    "image": "url_to_skull_collector_iii_image",
+    "description": "Eliminate 10 enemies with headshots in Classic Mode to complete the Skull Collector III mission.",
+    "points": 10,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Skull Collector III",
+      "titleImage": "url_to_skull_collector_iii_title_image",
+      "extra": "Earn achievement points for eliminating enemies with headshots."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Aim for the Head",
+        "image": "url_to_aim_head_image",
+        "description": "Focus on aiming at the head for quicker eliminations. Headshots are the fastest way to take down enemies."
+      },
+      {
+        "heading": "Use Medium-Range Weapons",
+        "image": "url_to_medium_range_weapons_image",
+        "description": "Weapons like M416 and Scar-L are ideal for mid-range combat, offering both accuracy and damage for headshots."
+      },
+      {
+        "heading": "Use Attachments for Stability",
+        "image": "url_to_attachment_image",
+        "description": "Use attachments like grips and scopes to stabilize your weapon, making headshots more accurate and easier to achieve."
+      },
+      {
+        "heading": "Practice in Training Mode",
+        "image": "url_to_training_mode_image",
+        "description": "Spend time in Training Mode to practice your aim, especially for landing consistent headshots on moving targets."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 10 Enemies with Headshots",
+        "image": "url_to_10_headshots_image",
+        "icon_image": "url_to_headshot_icon",
+        "description": "To complete this mission, you need to eliminate 10 enemies with headshots in Classic Mode."
+      },
+      {
+        "heading": "Play Classic Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon",
+        "description": "This mission can only be completed in Classic Mode, so ensure you're playing in that mode."
+      }
+    ]
+  },
+  {
+    "name": "Skull Collector II",
+    "image": "url_to_skull_collector_ii_image",
+    "description": "Eliminate 5 enemies with headshots in Classic Mode to complete the Skull Collector II mission.",
+    "points": 10,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Skull Collector II",
+      "titleImage": "url_to_skull_collector_ii_title_image",
+      "extra": "Earn achievement points for eliminating enemies with headshots."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Aim for the Head",
+        "image": "url_to_aim_head_image",
+        "description": "Focus on aiming at the head for quicker eliminations. Headshots are the fastest way to take down enemies."
+      },
+      {
+        "heading": "Use Medium-Range Weapons",
+        "image": "url_to_medium_range_weapons_image",
+        "description": "Weapons like M416 and Scar-L are ideal for mid-range combat, offering both accuracy and damage for headshots."
+      },
+      {
+        "heading": "Use Attachments for Stability",
+        "image": "url_to_attachment_image",
+        "description": "Use attachments like grips and scopes to stabilize your weapon, making headshots more accurate and easier to achieve."
+      },
+      {
+        "heading": "Practice in Training Mode",
+        "image": "url_to_training_mode_image",
+        "description": "Spend time in Training Mode to practice your aim, especially for landing consistent headshots on moving targets."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 5 Enemies with Headshots",
+        "image": "url_to_5_headshots_image",
+        "icon_image": "url_to_headshot_icon",
+        "description": "To complete this mission, you need to eliminate 5 enemies with headshots in Classic Mode."
+      },
+      {
+        "heading": "Play Classic Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon",
+        "description": "This mission can only be completed in Classic Mode, so ensure you're playing in that mode."
+      }
+    ]
+  },
+  {
+    "name": "Skull Collector I",
+    "image": "url_to_skull_collector_i_image",
+    "description": "Eliminate 1 enemy with a headshot in Classic Mode to complete the Skull Collector I mission.",
+    "points": 5,
+    "category": "matches",
+    "hardness": "Very Easy",
+    "rewards": {
+      "title": "Skull Collector I",
+      "titleImage": "url_to_skull_collector_i_title_image",
+      "extra": "Earn achievement points for getting your first headshot elimination."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Aim for the Head",
+        "image": "url_to_aim_head_image",
+        "description": "Concentrate on your aim and target the head. It's the fastest way to eliminate an enemy."
+      },
+      {
+        "heading": "Use a Scoped Weapon",
+        "image": "url_to_scoped_weapon_image",
+        "description": "Using a weapon with a scope (like an M416 with a Red Dot or 4x scope) will make headshots easier."
+      },
+      {
+        "heading": "Take Advantage of Standstill Moments",
+        "image": "url_to_standstill_enemy_image",
+        "description": "When enemies are standing still or focused on something else, aim for the head to make your shot count."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 1 Enemy with Headshots",
+        "image": "url_to_1_headshot_image",
+        "icon_image": "url_to_headshot_icon",
+        "description": "To complete this mission, you need to eliminate at least one enemy with a headshot."
+      },
+      {
+        "heading": "Play Classic Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon",
+        "description": "This mission can only be completed in Classic Mode, so ensure you're playing in that mode."
+      }
+    ]
+  },
+  {
+    "name": "Deathbringer V",
+    "image": "url_to_deathbringer_v_image",
+    "description": "Eliminate 2000 enemies in Classic Mode to complete the Deathbringer V mission.",
+    "points": 50,
+    "category": "matches",
+    "hardness": "Very Hard",
+    "rewards": {
+      "title": "Deathbringer V",
+      "titleImage": "url_to_deathbringer_v_title_image",
+      "extra": "Earn a massive reward for eliminating 2000 enemies."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Keep Playing Regularly",
+        "image": "url_to_regular_play_image",
+        "description": "To achieve this, you need to play regularly. Focus on getting eliminations in each match."
+      },
+      {
+        "heading": "Play Aggressive",
+        "image": "url_to_aggressive_play_image",
+        "description": "Playing aggressively will increase your chances of encountering and eliminating enemies quickly."
+      },
+      {
+        "heading": "Team Up with Friends",
+        "image": "url_to_team_play_image",
+        "description": "Playing with a coordinated team can help you secure more eliminations and increase your chances of surviving."
+      },
+      {
+        "heading": "Use High-Impact Weapons",
+        "image": "url_to_high_impact_weapons_image",
+        "description": "Weapons like Sniper Rifles, Assault Rifles, and SMGs can help you get eliminations more efficiently."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 2000 Enemies",
+        "image": "url_to_2000_eliminations_image",
+        "icon_image": "url_to_2000_eliminations_icon",
+        "description": "This mission requires you to eliminate a total of 2000 enemies across any number of Classic Mode matches."
+      },
+      {
+        "heading": "Classic Mode Only",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon",
+        "description": "This mission can only be completed in Classic Mode, so make sure you're playing in that mode."
+      }
+    ]
+  },
+  {
+    "name": "Deathbringer IV",
+    "image": "url_to_deathbringer_iv_image",
+    "description": "Eliminate 800 enemies in Classic Mode to complete the Deathbringer IV mission.",
+    "points": 40,
+    "category": "matches",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Deathbringer IV",
+      "titleImage": "url_to_deathbringer_iv_title_image",
+      "extra": "A significant reward for eliminating 800 enemies across multiple matches."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Focus on High-Activity Areas",
+        "image": "url_to_high_activity_area_image",
+        "description": "Areas like military bases, bootcamp, and Pochinki are more populated and can give you more opportunities for eliminations."
+      },
+      {
+        "heading": "Play Aggressively but Strategically",
+        "image": "url_to_aggressive_play_image",
+        "description": "To get more eliminations, try to engage more enemies, but avoid rushing into situations that could get you killed too early."
+      },
+      {
+        "heading": "Use High DPS Weapons",
+        "image": "url_to_dps_weapon_image",
+        "description": "Weapons like the AKM or UMP45 are great for consistent damage and can help secure quick eliminations."
+      },
+      {
+        "heading": "Team Up for Better Chances",
+        "image": "url_to_team_play_image",
+        "description": "Playing with friends increases your chances of survival, which means more time to eliminate enemies."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 800 Enemies",
+        "image": "url_to_800_eliminations_image",
+        "icon_image": "url_to_800_eliminations_icon",
+        "description": "You need to eliminate a total of 800 enemies in Classic Mode to complete this mission."
+      },
+      {
+        "heading": "Classic Mode Only",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon",
+        "description": "This mission can only be completed in Classic Mode, so make sure you're playing in that mode."
+      }
+    ]
+  },
+  {
+    "name": "Deathbringer III",
+    "image": "url_to_deathbringer_iii_image",
+    "description": "Eliminate 200 enemies in Classic Mode to complete the Deathbringer III mission.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Deathbringer III",
+      "titleImage": "url_to_deathbringer_iii_title_image",
+      "extra": "Earn this title by eliminating 200 enemies, showcasing your killing prowess."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Play in Popular Locations",
+        "image": "url_to_popular_location_image",
+        "description": "Try landing in areas with high player traffic, such as Bootcamp or Pochinki, where you're more likely to encounter enemies."
+      },
+      {
+        "heading": "Take Advantage of the Late Game",
+        "image": "url_to_late_game_image",
+        "description": "The later stages of the match usually have more action as the playzone shrinks. Stay alert to increase your eliminations."
+      },
+      {
+        "heading": "Use Burst-Damage Weapons",
+        "image": "url_to_burst_damage_weapon_image",
+        "description": "Weapons like the AKM or M416 are great for dealing significant damage in a short amount of time, which helps with eliminations."
+      },
+      {
+        "heading": "Play Aggressively in Solo Mode",
+        "image": "url_to_aggressive_play_image",
+        "description": "If you’re playing solo, adopt an aggressive playstyle to maximize enemy eliminations. But be mindful of your positioning."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 200 Enemies",
+        "image": "url_to_200_eliminations_image",
+        "icon_image": "url_to_200_eliminations_icon",
+        "description": "You need to eliminate a total of 200 enemies across multiple Classic Mode matches."
+      },
+      {
+        "heading": "Classic Mode Only",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon",
+        "description": "This mission is only available in Classic Mode, so make sure you're playing in that mode."
+      }
+    ]
+  }
+]

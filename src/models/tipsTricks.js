@@ -17,50 +17,26 @@ const i18nStringSchema = new mongoose.Schema(
   { _id: false }
 );
 
-const achievementSchema = new mongoose.Schema({
-  name: {
+const tipsTricksSchema = new mongoose.Schema({
+  heading: {
     type: i18nStringSchema,
     required: true,
   },
-  image: {
-    type: String, // Store as String
+  images: {
+    type: String, // Store as an array of strings
     required: false,
   },
   description: {
     type: i18nStringSchema,
     required: true,
   },
-  points: {
-    type: Number,
+  achievementId: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: "Achievement",
     required: true,
   },
-  hardness: {
-    type: i18nStringSchema,
-    required: true,
-  },
-  rewards: {
-    title: {
-      type: i18nStringSchema,
-      required: false,
-    },
-    titleImage: {
-      type: String,
-      required: false,
-    },
-    extra: {
-      type: i18nStringSchema,
-      required: false,
-    },
-  },
-  category: { type: String, required: true },
-  tipsTricks: [{ type: mongoose.Schema.Types.ObjectId, ref: "TipsTricks" }],
-  requirements: [{ type: mongoose.Schema.Types.ObjectId, ref: "Requirement" }],
 });
 
-const Achievement = mongoose.model(
-  "Achievement",
-  achievementSchema,
-  "Achievements"
-);
+const TipsTricks = mongoose.model("TipsTricks", tipsTricksSchema, "TipsTricks");
 
-export default Achievement;
+export default TipsTricks;

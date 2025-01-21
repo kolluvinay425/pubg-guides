@@ -1,0 +1,771 @@
+[
+  {
+    "name": "Free Chicken Dinner",
+    "image": "url_to_free_chicken_dinner_image",
+    "description": "Win a solo classic match with 0 kills while in Platinum tier or higher in PUBG Mobile. This challenging mission requires a survival-focused strategy and careful planning.",
+    "points": 20,
+    "category": "Achievements",
+    "hardness": "Very Hard",
+    "rewards": {
+      "title": "Free Chicken Dinner",
+      "titleImage": "url_to_title_image",
+      "extra": "Exclusive title and recognition for completing one of the hardest solo challenges."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Land in Remote Locations",
+        "image": "url_to_safe_zone_image",
+        "description": "Choose isolated areas far from the plane's path to avoid early encounters with other players."
+      },
+      {
+        "heading": "Avoid Engagements Entirely",
+        "image": "url_to_stealth_image",
+        "description": "Do not engage enemies under any circumstances. Focus on hiding and avoiding detection throughout the match."
+      },
+      {
+        "heading": "Gather Healing Items",
+        "image": "url_to_loot_image",
+        "description": "Loot first aid kits, bandages, energy drinks, and painkillers. These items will help you survive the final circle."
+      },
+      {
+        "heading": "Stay at the Edge of the Circle",
+        "image": "url_to_safe_rotation_image",
+        "description": "Rotate carefully with the shrinking play zone, staying on the outskirts to minimize contact with other players."
+      },
+      {
+        "heading": "Use Smoke Grenades",
+        "image": "url_to_smokes_image",
+        "description": "Carry smoke grenades to create cover if the circle forces you to move or if you're spotted in the late game."
+      },
+      {
+        "heading": "Patience in the Final Circle",
+        "image": "url_to_final_circle_image",
+        "description": "Remain hidden and let other players fight. Use your healing items to outlast the last opponent during a heal battle."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Play Solo Classic Mode",
+        "image": "url_to_solo_mode_image",
+        "icon_image": "url_to_solo_icon_image",
+        "description": "Ensure you are playing solo in classic mode. This mission cannot be completed in squad or duo modes."
+      },
+      {
+        "heading": "Achieve 0 Kills",
+        "image": "url_to_zero_kills_image",
+        "icon_image": "url_to_zero_kills_icon_image",
+        "description": "Win the match without killing any opponent, even accidentally. Avoid grenades, vehicles, or any damage to players."
+      },
+      {
+        "heading": "Be in Platinum Tier or Higher",
+        "image": "url_to_platinum_tier_image",
+        "icon_image": "url_to_rank_icon_image",
+        "description": "Your rank must be at least Platinum tier or higher in solo mode to qualify for this mission."
+      }
+    ]
+  },
+  {
+    "name": "Weapon Master",
+    "image": "url_to_weapon_master_image",
+    "description": "Complete the Weapon Master mission by finishing 1 enemy with each of the following: an Assault Rifle (AR), Sub-Machine Gun (SMG), Sniper Rifle (SR), Shotgun, Grenade, and a Vehicle. The mission must be completed in a Platinum tier or higher classic match.",
+    "points": 20,
+    "category": "Achievements",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Weapon Master",
+      "titleImage": "url_to_title_image",
+      "extra": "Exclusive title and badge for completing the Weapon Master mission."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Land in High-Loot Zones",
+        "image": "url_to_safe_zone_image",
+        "description": "Land in areas like Pochinki, Sosnovka Military Base, or Georgopol to maximize the chances of finding the required weapons quickly."
+      },
+      {
+        "heading": "Prioritize Weapons Early",
+        "image": "url_to_weapon_inventory_image",
+        "description": "Collect the AR, SMG, and other weapons as soon as possible to start securing kills early in the match."
+      },
+      {
+        "heading": "Use Duos or Squads for Easier Kills",
+        "image": "url_to_duo_squad_image",
+        "description": "Play in Duo or Squad modes to knock enemies down, making it easier to complete the grenade and shotgun kills."
+      },
+      {
+        "heading": "Be Tactical with Vehicle Kills",
+        "image": "url_to_vehicle_kills_image",
+        "description": "Use fast vehicles like the Dacia or Buggy to run over enemies in open fields or near the play zone."
+      },
+      {
+        "heading": "Survive and Complete in Platinum Tier",
+        "image": "url_to_platinum_tier_image",
+        "description": "Ensure your rank is Platinum or higher in classic mode before attempting this mission."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Finish 1 Enemy with an Assault Rifle (AR)",
+        "image": "url_to_assault_rifle_image",
+        "icon_image": "url_to_ar_icon_image",
+        "description": "Use any Assault Rifle, like M416, AKM, or M762, to finish off an enemy in mid-range combat."
+      },
+      {
+        "heading": "Finish 1 Enemy with a Sub-Machine Gun (SMG)",
+        "image": "url_to_smg_image",
+        "icon_image": "url_to_smg_icon_image",
+        "description": "Use an SMG such as UMP45 or Vector to finish an enemy in close-quarters combat."
+      },
+      {
+        "heading": "Finish 1 Enemy with a Sniper Rifle (SR)",
+        "image": "url_to_sniper_rifle_image",
+        "icon_image": "url_to_sr_icon_image",
+        "description": "Use a sniper rifle like the Kar98k or M24 to take out an enemy from a distance."
+      },
+      {
+        "heading": "Finish 1 Enemy with a Shotgun",
+        "image": "url_to_shotgun_image",
+        "icon_image": "url_to_shotgun_icon_image",
+        "description": "Use a shotgun like the S1897 or S686 to eliminate an enemy in close range."
+      },
+      {
+        "heading": "Finish 1 Enemy with a Grenade",
+        "image": "url_to_grenade_image",
+        "icon_image": "url_to_grenade_icon_image",
+        "description": "Use a grenade to finish off an enemy, ideally by knocking them down first."
+      },
+      {
+        "heading": "Finish 1 Enemy by Running Them Over with a Vehicle",
+        "image": "url_to_vehicle_image",
+        "icon_image": "url_to_vehicle_icon_image",
+        "description": "Drive over an enemy with a vehicle like the Dacia or Buggy to complete this requirement."
+      },
+      {
+        "heading": "Be in Platinum Tier or Higher",
+        "image": "url_to_platinum_tier_image",
+        "icon_image": "url_to_platinum_icon_image",
+        "description": "You must be in Platinum tier or above in classic mode to complete this mission."
+      }
+    ]
+  },
+  {
+    "name": "Chicken Expert",
+    "image": "path/to/image.jpg",
+    "description": "Chicken Expert achievement showcases a player's skill and versatility in PUBG. To earn this title, players must win 10 Solo Classic matches in the Platinum tier or higher, with each final kill made using a different weapon type. These include SMG, Assault Rifle, Pistol, LMG, Sniper Rifle, Shotgun, Melee Weapons, Crossbow, Vehicle, and Throwable. This achievement tests adaptability and weapon proficiency, highlighting strategic gameplay and mastery of PUBG.",
+    "points": 50,
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Chicken Master",
+      "titleImage": "path/to/titleImage.jpg",
+      "extra": "Special Badge awarded for mastering the Chicken Dinner strategy."
+    },
+    "category": "glorious_moments",
+    "requirements": [
+      {
+        "heading": "Win 10 Solo Classic Matches",
+        "image": "path/to/requirementImage1.jpg",
+        "icon_image": "path/to/iconImage1.png",
+        "description": "You need to win 10 Solo Classic matches while being in the Platinum tier or higher. This demonstrates consistent performance and mastery of the game mechanics."
+      },
+      {
+        "heading": "Different Weapons for Final Kills",
+        "image": "path/to/requirementImage2.jpg",
+        "icon_image": "path/to/iconImage2.png",
+        "description": "Each match must end with a final kill using a different weapon type. The required weapons include SMG, Assault Rifle, Pistol, LMG, Sniper Rifle, Shotgun, Melee Weapons, Crossbow, Vehicle, and Throwable (grenades, molotovs, etc.)."
+      }
+    ],
+    "tipsTricks": [
+      {
+        "heading": "Choose Your Landing Spot Wisely",
+        "image": "path/to/tipsImage1.jpg",
+        "description": "Opt for less crowded areas to avoid early fights and gather loot safely. This gives you a better chance of surviving the initial stages of the game."
+      },
+      {
+        "heading": "Master the Art of Looting",
+        "image": "path/to/tipsImage2.jpg",
+        "description": "Prioritize finding Tier 2 or Tier 3 armor and essential weapons. Efficient looting ensures you're well-prepared for engagements."
+      },
+      {
+        "heading": "Stay Within the Safe Zone",
+        "image": "path/to/tipsImage3.jpg",
+        "description": "Keep an eye on the shrinking circle and plan your movements accordingly. Staying within the safe zone is crucial to avoid unnecessary damage."
+      },
+      {
+        "heading": "Use Sound to Your Advantage",
+        "image": "path/to/tipsImage4.jpg",
+        "description": "Wear a headset to listen for enemy movements and gunshots. Sound can give you a significant tactical advantage."
+      },
+      {
+        "heading": "Play with Caution and Patience",
+        "image": "path/to/tipsImage5.jpg",
+        "description": "Evaluate situations before engaging in combat. Sometimes, avoiding a fight is the best strategy to ensure your survival until the end."
+      },
+      {
+        "heading": "Team Up with a Friend",
+        "image": "path/to/tipsImage6.jpg",
+        "description": "If possible, team up with a friend who is also aiming for the Chicken Master title. Coordinating efforts can increase your chances of survival."
+      },
+      {
+        "heading": "Communicate with the Last Opponent",
+        "image": "path/to/tipsImage7.jpg",
+        "description": "In certain matches, try to communicate with the last opponent and form a temporary team to choose the right weapon for the final kill."
+      },
+      {
+        "heading": "Practice and Patience",
+        "image": "path/to/tipsImage8.jpg",
+        "description": "The more you play, the better you'll become at predicting enemy movements and surviving until the end. Practice makes perfect!"
+      }
+    ]
+  },
+  {
+    "name": "sharp shooter",
+    "image": "path/to/image.jpg",
+    "description": "The Chicken Master achievement is awarded to players who demonstrate exceptional skill and versatility in PUBG. To earn this prestigious title, players must win 10 Solo Classic matches in the Platinum tier or higher. What's more, each final kill in these matches must be achieved using a different weapon type. The required weapon types include SMG (Submachine Gun), Assault Rifle, Pistol, Light Machine Gun (LMG), Sniper Rifle, Shotgun, Melee Weapons, Crossbow, Vehicle, and Throwable (Grenades, Molotovs, etc.). This achievement tests a player's ability to adapt to different combat scenarios and showcases their proficiency with a wide range of weapons. Successfully completing these challenges not only earns you the Chicken Master title but also highlights your strategic gameplay and mastery of PUBG.",
+    "points": 30,
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Chicken Master",
+      "titleImage": "path/to/titleImage.jpg",
+      "extra": "Special Badge awarded for mastering the Chicken Dinner strategy."
+    },
+    "category": "Achievements",
+    "requirements": [
+      {
+        "heading": "Win 10 Solo Classic Matches",
+        "image": "path/to/requirementImage1.jpg",
+        "icon_image": "path/to/iconImage1.png",
+        "description": "You need to win 10 Solo Classic matches while being in the Platinum tier or higher. This demonstrates consistent performance and mastery of the game mechanics."
+      },
+      {
+        "heading": "Different Weapons for Final Kills",
+        "image": "path/to/requirementImage2.jpg",
+        "icon_image": "path/to/iconImage2.png",
+        "description": "Each match must end with a final kill using a different weapon type. The required weapons include SMG, Assault Rifle, Pistol, LMG, Sniper Rifle, Shotgun, Melee Weapons, Crossbow, Vehicle, and Throwable (grenades, molotovs, etc.)."
+      }
+    ],
+    "tipsTricks": [
+      {
+        "heading": "Choose Your Landing Spot Wisely",
+        "image": "path/to/tipsImage1.jpg",
+        "description": "Opt for less crowded areas to avoid early fights and gather loot safely. This gives you a better chance of surviving the initial stages of the game."
+      },
+      {
+        "heading": "Master the Art of Looting",
+        "image": "path/to/tipsImage2.jpg",
+        "description": "Prioritize finding Tier 2 or Tier 3 armor and essential weapons. Efficient looting ensures you're well-prepared for engagements."
+      },
+      {
+        "heading": "Stay Within the Safe Zone",
+        "image": "path/to/tipsImage3.jpg",
+        "description": "Keep an eye on the shrinking circle and plan your movements accordingly. Staying within the safe zone is crucial to avoid unnecessary damage."
+      },
+      {
+        "heading": "Use Sound to Your Advantage",
+        "image": "path/to/tipsImage4.jpg",
+        "description": "Wear a headset to listen for enemy movements and gunshots. Sound can give you a significant tactical advantage."
+      },
+      {
+        "heading": "Play with Caution and Patience",
+        "image": "path/to/tipsImage5.jpg",
+        "description": "Evaluate situations before engaging in combat. Sometimes, avoiding a fight is the best strategy to ensure your survival until the end."
+      },
+      {
+        "heading": "Team Up with a Friend",
+        "image": "path/to/tipsImage6.jpg",
+        "description": "If possible, team up with a friend who is also aiming for the Chicken Master title. Coordinating efforts can increase your chances of survival."
+      },
+      {
+        "heading": "Communicate with the Last Opponent",
+        "image": "path/to/tipsImage7.jpg",
+        "description": "In certain matches, try to communicate with the last opponent and form a temporary team to choose the right weapon for the final kill."
+      },
+      {
+        "heading": "Practice and Patience",
+        "image": "path/to/tipsImage8.jpg",
+        "description": "The more you play, the better you'll become at predicting enemy movements and surviving until the end. Practice makes perfect!"
+      }
+    ]
+  },
+  {
+    "name": "Commando",
+    "image": "",
+    "description": "Win 50 times in Classic Mode while Playing Solo at Platinum tier or above without equipping any helmet, vests, or backpacks.",
+    "points": 40,
+    "category": "glorious_moments",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Commando",
+      "titleImage": "",
+      "extra": "Unlock special skins and badges"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Aim Training",
+        "image": "",
+        "description": "Utilize aim training apps or in-game practice to boost your accuracy."
+      },
+      {
+        "heading": "Choose Your Loadout Wisely",
+        "image": "",
+        "description": "Select weapons that match your playstyle, like assault rifles for mid-range combat and shotguns for close encounters."
+      },
+      {
+        "heading": "Master the Map",
+        "image": "",
+        "description": "Learn the map to know where to find loot, high ground, and cover."
+      },
+      {
+        "heading": "Natural Cover",
+        "image": "",
+        "description": "Always use trees, rocks, or buildings for cover to minimize exposure during fights."
+      },
+      {
+        "heading": "Pick Your Battles",
+        "image": "",
+        "description": "Avoid unnecessary fights, especially when low on health or ammo. Choose engagements wisely."
+      },
+      {
+        "heading": "Flanking and Positioning",
+        "image": "",
+        "description": "Use flanking tactics to surprise enemies and take advantage of high ground."
+      },
+
+      {
+        "heading": "Tactical Grenades",
+        "image": "",
+        "description": "Use smoke grenades for cover, flashbangs to disorient enemies, and Molotov cocktails to flush them out of cover."
+      },
+      {
+        "heading": "Heal Strategically",
+        "image": "",
+        "description": "Use healing items wisely during fights; heal in cover to avoid getting shot while vulnerable."
+      },
+      {
+        "heading": "Positioning",
+        "image": "",
+        "description": "Always be aware of the play zone and adjust your position accordingly. Avoid getting caught in the blue zone."
+      },
+      {
+        "heading": "Endgame Strategy",
+        "image": "",
+        "description": "As the circle shrinks, be cautious. Use the terrain and structures to your advantage."
+      },
+
+      {
+        "heading": "Learn from Others",
+        "image": "",
+        "description": "Watch streams or videos of skilled players to pick up new tactics and strategies."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Win 50 Solo Classic Matches",
+        "image": "",
+        "icon_image": "",
+        "description": "Reach Platinum tier or higher in ranked matches and win 50 solo classic matches."
+      },
+      {
+        "heading": "No Helmet, Armor, Backpack, or Auto Pickup",
+        "image": "",
+        "icon_image": "",
+        "description": "Win the match with the final kill without using a helmet, armor, backpack, or auto pickup."
+      }
+    ]
+  },
+  {
+    "name": "Well-Liked",
+    "image": "",
+    "description": "Complete the Well-Liked Achievement Mission to become a popular player in PUBG Mobile.",
+    "points": 50,
+    "category": "glorious_moments",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Well-Liked",
+      "titleImage": "",
+      "extra": "Unlock special skins and badges"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Play with Friends",
+        "image": "",
+        "description": "Team up with friends and ask them to give you likes at the end of each match. This can help you accumulate likes faster."
+      },
+      {
+        "heading": "Stay Active",
+        "image": "",
+        "description": "Participate in as many matches as possible to increase your chances of getting likes."
+      },
+      {
+        "heading": "Be Friendly",
+        "image": "",
+        "description": "Engage with other players in a positive manner. Being kind and helpful can encourage others to like you."
+      },
+      {
+        "heading": "Complete Tasks",
+        "image": "",
+        "description": "Focus on completing tasks that are easier to achieve and grant likes."
+      },
+      {
+        "heading": "Use Social Media",
+        "image": "",
+        "description": "Share your PUBG Mobile achievements on social media to attract more likes from the community."
+      },
+      {
+        "heading": "Join Communities",
+        "image": "",
+        "description": "Be part of PUBG Mobile communities and forums where you can interact with other players and gain more visibility."
+      },
+      {
+        "heading": "Play Regularly",
+        "image": "",
+        "description": "Consistency is key. Regularly playing and interacting with other players will help you reach your goal faster."
+      },
+      {
+        "heading": "Celebrate Wins",
+        "image": "",
+        "description": "Celebrate your wins and achievements with your team, which can lead to more likes from teammates."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Get 1000 Likes",
+        "image": "",
+        "icon_image": "",
+        "description": "Accumulate 1000 likes from other players by consistently playing matches, engaging positively with the community, and completing tasks that grant likes."
+      }
+    ]
+  },
+  {
+    "name": "Unique Destiny",
+    "image": "url_to_unique_destiny_image",
+    "description": "Earn the Unique Destiny achievement by accumulating 6,000 achievement points.",
+    "points": 60,
+    "category": "glorious_moments",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Unique Destiny",
+      "titleImage": "url_to_title_image",
+      "extra": "Exclusive profile badge and bragging rights"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Focus on High-Point Achievements",
+        "image": "url_to_high_point_achievement_image",
+        "description": "Prioritize completing achievements that offer higher points. Look for seasonal missions, weapon challenges, and survival tasks."
+      },
+      {
+        "heading": "Participate in Events",
+        "image": "url_to_event_image",
+        "description": "Engage in limited-time modes and special events that provide unique achievements with bonus points."
+      },
+      {
+        "heading": "Track Progress Regularly",
+        "image": "url_to_progress_tracking_image",
+        "description": "Keep an eye on your achievement points to ensure you’re progressing efficiently. Set milestones to stay motivated."
+      },
+      {
+        "heading": "Team Up with Friends",
+        "image": "url_to_team_image",
+        "description": "Coordinate with friends to complete achievements that require teamwork, such as revives or squad kills."
+      },
+      {
+        "heading": "Switch Modes Strategically",
+        "image": "url_to_modes_image",
+        "description": "Switch between modes like Classic, Arena, and Payload to complete a variety of achievements quickly."
+      },
+      {
+        "heading": "Maximize Daily Missions",
+        "image": "url_to_daily_missions_image",
+        "description": "Log in daily to complete routine missions. These add up over time and provide steady progress."
+      },
+      {
+        "heading": "Use Guides and Communities",
+        "image": "url_to_guides_image",
+        "description": "Join online communities or watch YouTube guides for tips on specific hard-to-complete achievements."
+      },
+      {
+        "heading": "Experiment with Weapons and Vehicles",
+        "image": "url_to_weapons_image",
+        "description": "Use a variety of weapons and vehicles to fulfill diverse achievement criteria like kills or travel distance."
+      },
+      {
+        "heading": "Keep Calm and Play Consistently",
+        "image": "url_to_consistency_image",
+        "description": "Patience and consistency are key. Avoid rushing and focus on gradual progress."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Earn Achievement Points",
+        "image": "url_to_achievement_image",
+        "icon_image": "url_to_icon_image",
+        "description": "Accumulate a total of 6,000 achievement points by completing a variety of missions in the game."
+      },
+      {
+        "heading": "Complete Missions Across Modes",
+        "image": "url_to_mission_image",
+        "icon_image": "url_to_icon_image",
+        "description": "Play in Classic, Arena, and special event modes to fulfill diverse mission criteria."
+      }
+    ]
+  },
+  {
+    "name": "Overachiever",
+    "image": "url_to_overachiever_image",
+    "description": "Complete the Overachiever mission by accumulating 2,800 achievement points in PUBG Mobile.",
+    "points": 50,
+    "category": "Achievements",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Overachiever",
+      "titleImage": "url_to_title_image",
+      "extra": "Exclusive profile badge and title in PUBG Mobile"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Prioritize High-Point Achievements",
+        "image": "url_to_high_point_achievement_image",
+        "description": "Focus on achievements that reward 20+ points, such as survival milestones, kill records, and weapon-based challenges."
+      },
+      {
+        "heading": "Play All Modes",
+        "image": "url_to_modes_image",
+        "description": "Engage in Classic, Arena, and special event modes to complete a diverse set of achievement missions."
+      },
+      {
+        "heading": "Complete Daily and Weekly Missions",
+        "image": "url_to_daily_missions_image",
+        "description": "Regularly complete daily and weekly missions to maintain consistent progress toward your goal."
+      },
+      {
+        "heading": "Team Up with Friends",
+        "image": "url_to_team_play_image",
+        "description": "Coordinate with friends for cooperative missions, such as revives, assists, and squad-based tasks."
+      },
+      {
+        "heading": "Experiment with Weapons and Vehicles",
+        "image": "url_to_weapons_image",
+        "description": "Use a variety of weapons and vehicles to meet criteria for specific achievements, like travel distance or kills with certain guns."
+      },
+      {
+        "heading": "Engage in Seasonal Events",
+        "image": "url_to_events_image",
+        "description": "Participate in limited-time seasonal events and modes to earn unique achievements with bonus points."
+      },
+      {
+        "heading": "Track Progress Regularly",
+        "image": "url_to_progress_tracking_image",
+        "description": "Monitor your achievement points and focus on missions that you can easily complete to stay on track."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Accumulate 2,800 Achievement Points",
+        "image": "url_to_achievement_image",
+        "icon_image": "url_to_icon_image",
+        "description": "Earn achievement points by completing a variety of missions across different categories in PUBG Mobile."
+      },
+      {
+        "heading": "Complete Missions Across Categories",
+        "image": "url_to_categories_image",
+        "icon_image": "url_to_icon_image",
+        "description": "Participate in missions under Combat, Survival, Exploration, Social, Collection, and Special categories to achieve the required points."
+      }
+    ]
+  },
+  {
+    "name": "Collector",
+    "image": "url_to_collector_image",
+    "description": "Complete the Collector mission by owning 300 permanent outfits, 20 permanent parachutes, and 50 permanent weapon finishes in PUBG Mobile.",
+    "points": 50,
+    "category": "Achievements",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Collector",
+      "titleImage": "url_to_title_image",
+      "extra": "Exclusive profile title and badge"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Focus on Free Rewards",
+        "image": "url_to_free_rewards_image",
+        "description": "Participate in events and daily missions to earn permanent outfits, parachutes, and weapon finishes for free."
+      },
+      {
+        "heading": "Invest in Royale Pass",
+        "image": "url_to_royale_pass_image",
+        "description": "Unlock the Royale Pass to gain access to multiple outfits, parachutes, and weapon finishes as rewards."
+      },
+      {
+        "heading": "Use Silver Fragments Wisely",
+        "image": "url_to_silver_fragments_image",
+        "description": "Check the in-game shop regularly to purchase permanent outfits with silver fragments."
+      },
+      {
+        "heading": "Participate in Lucky Spins",
+        "image": "url_to_lucky_spin_image",
+        "description": "Save UC and use it on lucky spins featuring unique weapon finishes."
+      },
+      {
+        "heading": "Open Crates Strategically",
+        "image": "url_to_crates_image",
+        "description": "Focus on opening classic and premium crates that guarantee permanent items."
+      },
+      {
+        "heading": "Track Seasonal Content",
+        "image": "url_to_seasonal_content_image",
+        "description": "Complete seasonal missions and events to earn exclusive rewards like outfits and parachutes."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Own 300 Permanent Outfits",
+        "image": "url_to_outfits_image",
+        "icon_image": "url_to_icon_outfits_image",
+        "description": "Collect permanent outfits by opening crates, participating in events, and redeeming them with silver fragments."
+      },
+      {
+        "heading": "Own 20 Permanent Parachutes",
+        "image": "url_to_parachutes_image",
+        "icon_image": "url_to_icon_parachutes_image",
+        "description": "Collect parachutes from Royale Pass rewards, events, and crates."
+      },
+      {
+        "heading": "Own 50 Permanent Weapon Finishes",
+        "image": "url_to_weapon_finishes_image",
+        "icon_image": "url_to_icon_weapon_finishes_image",
+        "description": "Obtain weapon finishes through lucky spins, crates, and workshop upgrades."
+      }
+    ]
+  },
+  {
+    "name": "Maxed Out",
+    "image": "url_to_maxed_out_image",
+    "description": "Complete the Maxed Out mission by reaching level 100 in PUBG Mobile. Achieving this milestone requires consistent gameplay and earning XP through matches, missions, and events.",
+    "points": 40,
+    "category": "Achievements",
+    "hardness": "Medium-Hard",
+    "rewards": {
+      "title": "Maxed Out",
+      "titleImage": "url_to_maxed_out_title_image",
+      "extra": "Exclusive title and recognition for reaching level 100."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Play Classic Matches Regularly",
+        "image": "url_to_classic_matches_image",
+        "description": "Classic matches provide the most XP, especially if you survive longer, get kills, and achieve high rankings."
+      },
+      {
+        "heading": "Complete Daily and Weekly Missions",
+        "image": "url_to_missions_image",
+        "description": "Focus on completing daily and weekly missions for consistent XP rewards. Check the mission tab regularly."
+      },
+      {
+        "heading": "Participate in Events",
+        "image": "url_to_events_image",
+        "description": "Take advantage of time-limited events that offer XP rewards for completing specific challenges."
+      },
+      {
+        "heading": "Use XP Cards",
+        "image": "url_to_xp_cards_image",
+        "description": "Activate Double XP Cards before playing a long session to maximize your XP gains."
+      },
+      {
+        "heading": "Play with Friends",
+        "image": "url_to_teamplay_image",
+        "description": "Team up with friends to increase survival rates and earn more XP per match."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Reach Level 100",
+        "image": "url_to_level_100_image",
+        "icon_image": "url_to_level_icon_image",
+        "description": "Earn XP through matches, missions, and events to progress to level 100. Consistent gameplay is key."
+      }
+    ]
+  },
+  {
+    "name": "On a Mission",
+    "image": "url_to_on_a_mission_image",
+    "description": "Complete the On a Mission achievement by fulfilling specific objectives for five weapon categories: Sniper Mystery, Pistol Mystery, Shotgun Mystery, SMG Mystery, and Melee Mystery.",
+    "points": 60,
+    "category": "Achievements",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "On a Mission",
+      "titleImage": "url_to_title_image",
+      "extra": "Exclusive title and rewards for completing the mission."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Sniper Mystery",
+        "image": "url_to_sniper_image",
+        "description": "Use sniper rifles like the Kar98k or M24 for medium-to-long range kills. Focus on high-loot areas like Sosnovka Military Base or Georgopol to find snipers easily."
+      },
+      {
+        "heading": "Pistol Mystery",
+        "image": "url_to_pistol_image",
+        "description": "Land in low-population areas to gather pistols without facing early combat. Aim for headshots to maximize damage and finish enemies quickly."
+      },
+      {
+        "heading": "Shotgun Mystery",
+        "image": "url_to_shotgun_image",
+        "description": "Play aggressively in close-quarters combat zones like houses or compounds. Use the S686 or S12K to secure one-shot kills at close range."
+      },
+      {
+        "heading": "SMG Mystery",
+        "image": "url_to_smg_image",
+        "description": "Equip an SMG like the UMP45 or Micro Uzi for early-game fights. Attach extended mags and grips to enhance performance, and focus on close-range skirmishes."
+      },
+      {
+        "heading": "Melee Mystery",
+        "image": "url_to_melee_image",
+        "description": "Knock down an enemy and finish them with a melee weapon like the Pan or Sickle. Use throwable melee weapons to attack enemies from a short distance."
+      },
+      {
+        "heading": "Play in Lower Tiers",
+        "image": "url_to_tier_image",
+        "description": "Attempt these missions in Bronze or Silver lobbies where opponents are less skilled."
+      },
+      {
+        "heading": "Track Mission Progress",
+        "image": "url_to_progress_image",
+        "description": "Monitor your progress in the Achievements tab to see which mysteries still need completion."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Complete Sniper Mystery",
+        "image": "url_to_sniper_requirement_image",
+        "icon_image": "url_to_sniper_icon",
+        "description": "Secure kills using sniper rifles like Kar98k, M24, or AWM. Focus on long-range engagements."
+      },
+      {
+        "heading": "Complete Pistol Mystery",
+        "image": "url_to_pistol_requirement_image",
+        "icon_image": "url_to_pistol_icon",
+        "description": "Get kills using pistols like the P1911 or Desert Eagle. Aim for headshots to maximize efficiency."
+      },
+      {
+        "heading": "Complete Shotgun Mystery",
+        "image": "url_to_shotgun_requirement_image",
+        "icon_image": "url_to_shotgun_icon",
+        "description": "Kill enemies using shotguns like the S686 or S12K. Focus on close-range combat zones."
+      },
+      {
+        "heading": "Complete SMG Mystery",
+        "image": "url_to_smg_requirement_image",
+        "icon_image": "url_to_smg_icon",
+        "description": "Secure kills using SMGs like the UMP45 or Vector. Equip attachments to improve performance."
+      },
+      {
+        "heading": "Complete Melee Mystery",
+        "image": "url_to_melee_requirement_image",
+        "icon_image": "url_to_melee_icon",
+        "description": "Kill enemies with melee weapons such as the Pan or Sickle. Knock down enemies and finish them off with melee attacks."
+      }
+    ]
+  }
+]

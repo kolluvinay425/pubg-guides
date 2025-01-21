@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "decisive-studio-331114",
+  "private_key_id": "807687a4e995b3df1fcb968e8d877fad4f1e89ee",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCuBgFKQwglR2qt\nCD1ynMiuZUV7KcZLClT9X1+FILShHUnKRtfQu3CrXFoKFEfv83wB8s0M/PPxpHPr\n3TYlqbvFbXTRcMAOdJuAXaiIcbz23GUHfWbgYRkimaa0DS2SRpPXQLJyo0z8qgnZ\nmpaQ4TnFoX/8NWXX7XLO+Vzx7KNbgYNRswKMxAzYCpdun12NnDWndUdhE/xqUNrh\nBHd+fPq05OIAxh4vHR+9kyrJKP0sNYwc8OtQGFuO7KbHFq7+ZLzedLGphzOZsqyC\nceiNYG+6AWgxbm2czk99VLnQ58384JMJ72JMByop4PdebtXz7B1nvKpq/pyesr40\n8wa8QD9TAgMBAAECggEAVvyLcop1LOU47osa5Ap4yau3gmwMQYBFoW0l+w6xG4Pf\nWav1vtGi7RU5sKYYm1mzF+o9EwvyCEyy4ShvI35nbLVc2kAo0FD7Vbv7PVDVKvRZ\nz9egL/J5NPFnAcNAj0iWJ9egG2uDVRzN1abPMlZSoXYr2m76nGeFpu3AxvEJavhM\nH9Osu2clBDBd1S77TQAXYXxy2KMWSGIJNBbozgGRTnqYOCbbIBOdTKjB3OtH8D1q\nIWrUIBP+92gBPIvDfWSkgYM6e9tSs1XVOsEv5ajgCu1IS7w9vYeu1przPQp0IJPf\n0vzGnPwbgOc0el2SxJBPMo5GZnqKShMnVE28m1vwIQKBgQDT1l0AMAFXDCrNo/ZD\n+ce7TsdqxKVVpZBnn6SZOj2JtRrpidNDhgFBLe5nd1fjYRlC5t5C69SpgOcpveun\nWHoYXsu/UIC1eCasbf2JiR8cP9tlBu9b8jhXq/bv03zobRMbOmKYiWy8P9ftPKwP\nWi9qhP0tMPjR2wzXm6vocJ30cQKBgQDSTYkw19+c/XaCWIlyYhwyoHtAY0bEH+A4\nUPq9XhqDxwQtKSk77hU9V8K4YbHt4vtCJemaa3f1o/gWzuDuXdNPD1eUokQHV+DA\n6NZ4nFx5+0BwlCdsjW8SWKe5gEa2rnGejIzgkK96auSu0DLwOGOzGwiAcr3mLFhg\nVuxSFxWCAwKBgAeZZgausi2cOyDbY+c2W6rlfZPf8AptgQuml3IDu9dnzspX7mM6\nuGrNKgM+LcHzZsOWopyF90AJZsGBlaWQL/kV1XtMeQGJiOGgpHq9l4cc51Ltd8K1\nor3KZnZeANoZp5jPdGACdgsewzE4fveiBZdto+NuIU7t670EUZtqBtCRAoGBAJ+3\nrULAIJ8NTKzv6utJIds9UH31J/CZuONsdRHO31pHkp9tzFgsmErvVP5NjCF8KpDx\nVDon9oJDVo6T7fZ6oZpAr6Y9mmbtUc+QxhnxvrYRoL4fdtWVkM6hMDjM+GeTksz0\nN6XxnKPffPBbROR2HxoOpOVQv3KJKVF5kp9B0t7bAoGBAMRMFsYnEaGrJonHxlSK\nhIeuVJCN8VCAXTdL91kImAYVeeP9d8cP1da9W+q1fnwSE9Rw7CgTidAQKZwaPEEJ\nvhAALpty4IWKikcxE8wn4mvV+D7FPaTMMBnCUMo9yeUMOOWbSwarPoPL399dTs5s\nvZuJmCggDBLnHvzbED5ZZyce\n-----END PRIVATE KEY-----\n",
+  "client_email": "pubg-guides@decisive-studio-331114.iam.gserviceaccount.com",
+  "client_id": "113407030698229127288",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pubg-guides%40decisive-studio-331114.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
