@@ -1,4 +1,4 @@
-import { jsonAchievements } from "../app.js";
+import { jsonAchievements } from "./helper.js";
 import { Achievement, Requirement, TipsTricks } from "../models/index.js";
 import sequelize from "../sequalize.js";
 import { translateText } from "./helper.js";
@@ -214,7 +214,7 @@ async function updateAchievementTranslations(achievementData, options) {
   console.log("After Save:", existingAchievement);
 }
 
-const updateAchievements = async (req, res) => {
+const updateBulkAchievements = async (req, res) => {
   const achievementsData = JSON.parse(jsonAchievements);
   try {
     await sequelize.transaction(async (t) => {
@@ -231,4 +231,4 @@ const updateAchievements = async (req, res) => {
   }
 };
 
-export { automateAchievements, updateAchievements };
+export { automateAchievements, updateBulkAchievements };
