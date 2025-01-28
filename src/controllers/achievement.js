@@ -1,19 +1,9 @@
-import { google } from "googleapis";
 import stream from "stream";
-import { cwd } from "process";
-import Achievement from "../models/Achievement.js";
+import sequelize from "../sequalize.js";
 
-export const KEYFILEPATH = cwd() + "/pubg-guides-key.json";
-const SCOPES = ["https://www.googleapis.com/auth/drive.file"];
-
-const auth = new google.auth.GoogleAuth({
-  keyFile: KEYFILEPATH,
-  scopes: SCOPES,
-});
-
-const drive = google.drive({ version: "v3", auth });
-
+import { Achievement, TipsTricks, Requirement } from "../models/index.js";
 import fs from "fs";
+import { drive } from "googleapis/build/src/apis/drive/index.js";
 const postAchievement = async (req, res) => {
   console.log(req.body);
   console.log(req.files); // Log the entire req.files object to inspect its structure
@@ -142,5 +132,131 @@ const postAchievement = async (req, res) => {
     res.status(500).json({ error: error.message });
   }
 };
+const updateAchievement = async (req, res) => {
+  try {
+    // Find all achievements in the "Achievements" category
+    const achievements = await Achievement.findAll({
+      where: { category: "Achievements" },
+    });
 
-export { postAchievement };
+    for (const achievement of achievements) {
+      // Update the category to "glorious_moments"
+      await achievement.update({ category: "glorious_moments" });
+
+      console.log(`${achievement.category} updated to glorious_moments`);
+    }
+
+    res.status(200).json({ message: "Achievements updated successfully!" });
+  } catch (error) {
+    console.error("Error updating achievements:", error);
+    res.status(500).json({ error: error.message });
+  }
+};
+
+const getAchievements = async (req, res) => {
+  try {
+    const achievements = await Achievement.findAll({
+      include: [
+        {
+          model: Requirement, // Model name here
+          as: "requirements", // Alias should match the association alias
+        },
+        {
+          model: TipsTricks, // Model name here
+          as: "tipsTricks", // Alias should match the association alias
+        },
+      ],
+    });
+
+    if (achievements) {
+      res.json({ count: achievements.length, achievements: achievements });
+    } else {
+      res.status(404).json({ message: "No achievements found" });
+    }
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+};
+
+const getAchievementByName = async (req, res) => {
+  console.log("first------>", req.query.name);
+  try {
+    const achievement = await Achievement.findOne({
+      where: sequelize.where(sequelize.json("name.en"), req.query.name),
+      include: [
+        {
+          model: Requirement, // Model name here
+          as: "requirements", // Alias should match the association alias
+        },
+        {
+          model: TipsTricks, // Model name here
+          as: "tipsTricks", // Alias should match the association alias
+        },
+      ],
+    });
+    if (achievement) {
+      res.json(achievement);
+    } else {
+      res.status(404).json({ message: "Achievement not found" });
+    }
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+};
+
+const deleteInvalidAchievements = async (req, res) => {
+  try {
+    // Fetch all achievements
+    const achievements = await Achievement.findAll();
+
+    // Filter achievements where `name` is not an object or missing required language keys
+    const invalidAchievements = achievements.filter((achievement) => {
+      const name = achievement.name;
+      if (typeof name !== "object" || name === null) {
+        return true; // Mark as invalid if `name` is not an object
+      }
+
+      // List of required languages
+      const requiredLanguages = [
+        "en",
+        "zh",
+        "ko",
+        "ja",
+        "es",
+        "ru",
+        "fr",
+        "de",
+        "pt",
+        "ar",
+      ];
+      // Check if all required languages are present in the object
+      return !requiredLanguages.every((lang) => lang in name);
+    });
+
+    // Log invalid achievements for reference
+    console.log("Invalid achievements to be deleted:", invalidAchievements);
+
+    // Delete invalid achievements
+    for (const achievement of invalidAchievements) {
+      await Achievement.destroy({
+        where: { id: achievement.id },
+      });
+    }
+
+    res.status(200).json({
+      message: "Invalid achievements deleted successfully.",
+      deletedCount: invalidAchievements.length,
+    });
+  } catch (error) {
+    console.error("Error deleting invalid achievements:", error);
+    res.status(500).json({ error: error.message });
+  }
+};
+
+export {
+  updateAchievement,
+  postAchievement,
+  getAchievements,
+  getAchievementByName,
+  deleteInvalidAchievements,
+};

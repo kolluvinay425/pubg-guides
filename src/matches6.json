@@ -1,0 +1,598 @@
+[
+  {
+    "name": "Shotgun Mastery II",
+    "image": "url_to_shotgun_mastery_ii_image",
+    "description": "Eliminate 30 enemies using shotguns to complete the Shotgun Mastery II mission. Focus on close-range combat and make every shot count.",
+    "points": 10,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Shotgun Specialist",
+      "titleImage": "url_to_shotgun_mastery_ii_title_image",
+      "extra": "Earn the title 'Shotgun Specialist' after eliminating 30 enemies with shotguns."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Pick the Right Shotgun",
+        "image": "url_to_best_shotgun_image",
+        "description": "For close-range combat, the **S12K** and **DBSS** are great choices due to their rapid fire rate and accuracy. Use them to clear tight areas and take enemies by surprise."
+      },
+      {
+        "heading": "Stay in Close-Quarters Combat",
+        "image": "url_to_close_combat_area_image",
+        "description": "Shotguns are most effective at short ranges. Try to land in areas like **Bootcamp** or **Pochinki**, where enemies are more likely to be in confined spaces, making them easier targets for your shotgun."
+      },
+      {
+        "heading": "Utilize Jump-and-Shoot Strategy",
+        "image": "url_to_jump_and_shoot_image",
+        "description": "Use the jump-and-shoot technique to make yourself harder to hit while engaging enemies. Jumping will throw off their aim while you land shots with your shotgun."
+      },
+      {
+        "heading": "Equip the Best Attachments",
+        "image": "url_to_best_shotgun_attachments_image",
+        "description": "To increase your shotgun’s efficiency, use attachments like **choke** for tighter pellet spread and **bullet loops** for faster reloads. These can help you eliminate enemies more quickly and accurately."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 30 Enemies with Shotguns",
+        "image": "url_to_shotgun_image",
+        "icon_image": "url_to_shotgun_icon_image",
+        "description": "Use shotguns to eliminate 30 enemies in matches. These weapons are ideal for short-range, high-damage combat."
+      },
+      {
+        "heading": "Play in Classic or Unranked Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon_image",
+        "description": "This mission can be completed in **Classic Mode** or **Unranked Mode**, so you can practice without worrying about your ranking."
+      }
+    ]
+  },
+  {
+    "name": "Shotgun Mastery I",
+    "image": "url_to_shotgun_mastery_i_image",
+    "description": "Eliminate 10 enemies using shotguns to complete the Shotgun Mastery I mission. Master the art of close-quarters combat to achieve this goal.",
+    "points": 5,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Shotgun Novice",
+      "titleImage": "url_to_shotgun_mastery_i_title_image",
+      "extra": "Earn the title 'Shotgun Novice' after eliminating 10 enemies with shotguns."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Perfect Your Close-Range Skills",
+        "image": "url_to_close_range_combat_image",
+        "description": "Shotguns are best used in close-range combat. Land in areas with high enemy density, such as **Bootcamp** or **Pochinki**, where enemies will be within shotgun range."
+      },
+      {
+        "heading": "Quick Reloading is Key",
+        "image": "url_to_quick_reload_image",
+        "description": "Shotguns often require quick reloads. Use **bullet loops** as an attachment to reduce reload time and ensure you can continue your fight without delay."
+      },
+      {
+        "heading": "Engage Enemies in Small Spaces",
+        "image": "url_to_small_space_combat_image",
+        "description": "In small buildings or rooms, shotguns excel at clearing enemies quickly. Take advantage of these environments where enemies are less likely to escape your shotgun blasts."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 10 Enemies with Shotguns",
+        "image": "url_to_shotgun_image",
+        "icon_image": "url_to_shotgun_icon_image",
+        "description": "Use shotguns to eliminate 10 enemies in matches. Aim for close-range engagements where shotguns deal the most damage."
+      },
+      {
+        "heading": "Play in Classic or Unranked Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon_image",
+        "description": "You can complete this mission in **Classic Mode** or **Unranked Mode**. Unranked Mode is great for practicing without worrying about your ranking."
+      }
+    ]
+  },
+  {
+    "name": "Sniper Mastery V",
+    "image": "",
+    "description": "Eliminate 1000 enemies with a sniper rifle to master sniper gameplay. Aim for headshots and use long-range scopes for optimal performance.",
+    "points": 50,
+    "category": "matches",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Sniper Specialist",
+      "titleImage": "",
+      "extra": "Exclusive Sniper-themed items"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Choose the Right Sniper Rifle",
+        "image": "",
+        "description": "Use rifles like Kar98k, M24, or AWM for best damage. AWM is especially useful for one-shot kills at long range."
+      },
+      {
+        "heading": "Aim for the Head",
+        "image": "",
+        "description": "Headshots are key for fast eliminations. The AWM and Kar98k are great for one-hit kills with a headshot."
+      },
+      {
+        "heading": "Strategic Positioning",
+        "image": "",
+        "description": "Use high ground to gain visibility and stay hidden after taking shots. Move locations to avoid enemy detection."
+      },
+      {
+        "heading": "Use High-Range Scopes",
+        "image": "",
+        "description": "Equip 4x, 8x, or 15x scopes for maximum precision. The higher the scope, the better your long-range targeting will be."
+      },
+      {
+        "heading": "Use Crouch or Prone Position",
+        "image": "",
+        "description": "When firing at long distances, crouch or go prone to improve accuracy and make it harder for enemies to detect your position."
+      },
+      {
+        "heading": "Track Enemy Movement",
+        "image": "",
+        "description": "Watch the enemy’s movements carefully and anticipate their next steps. Patience is key when sniping, so don’t rush your shots."
+      },
+      {
+        "heading": "Play in Unranked Mode (Optional for Rating Protection)",
+        "image": "",
+        "description": "If you're looking to practice without affecting your rank, play in Unranked Mode. This way, you can focus purely on getting sniper eliminations without worrying about your rating."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 1000 Enemies with Sniper Rifle",
+        "image": "",
+        "icon_image": "",
+        "description": "To complete this mission, you must eliminate 1000 enemies using a sniper rifle. Focus on long-range combat for better accuracy."
+      },
+      {
+        "heading": "Use Sniper Rifle in Ranked Matches",
+        "image": "",
+        "icon_image": "",
+        "description": "For faster progress, play in ranked matches where enemies are more likely to be in open spaces for longer shots."
+      },
+      {
+        "heading": "Headshot Elimination",
+        "image": "",
+        "icon_image": "",
+        "description": "Aiming for headshots will speed up your elimination count. Try to land those perfect shots for easier kills."
+      },
+      {
+        "heading": "Long-Range Engagement",
+        "image": "",
+        "icon_image": "",
+        "description": "Use sniper rifles to engage enemies at long ranges where their movement is more predictable and easier to eliminate."
+      }
+    ]
+  },
+  {
+    "name": "Sniper Mastery IV",
+    "image": "",
+    "description": "Eliminate 300 enemies with a sniper rifle to perfect your sniping skills. Use high-velocity sniper rifles and aim for headshots to maximize efficiency.",
+    "points": 40,
+    "category": "matches",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Sniper Marksman",
+      "titleImage": "",
+      "extra": "Exclusive sniper-themed skins"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Perfect Your Aiming",
+        "image": "",
+        "description": "Aim for the head with sniper rifles like Kar98k or M24 for one-hit kills, maximizing your eliminations."
+      },
+      {
+        "heading": "Use the Environment to Your Advantage",
+        "image": "",
+        "description": "Take advantage of high vantage points or secluded areas to set up shots. Use natural cover to avoid enemy detection."
+      },
+      {
+        "heading": "Master the Bullet Drop",
+        "image": "",
+        "description": "Practice adjusting for bullet drop over long distances. Snipers like the AWM require you to account for this at extreme ranges."
+      },
+      {
+        "heading": "Take Shots from a Distance",
+        "image": "",
+        "description": "Use your sniper rifle for long-range eliminations. Staying out of enemy sightlines while engaging from distance will help you secure kills."
+      },
+      {
+        "heading": "Patience and Timing",
+        "image": "",
+        "description": "Sniping requires patience. Wait for the perfect moment, track enemy movements, and don’t rush your shots."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 300 Enemies with Sniper Rifle",
+        "image": "",
+        "icon_image": "",
+        "description": "To complete this mission, you need to eliminate 300 enemies using a sniper rifle. Focus on headshots for efficient kills."
+      },
+      {
+        "heading": "Utilize Long-Range Engagements",
+        "image": "",
+        "icon_image": "",
+        "description": "Use sniper rifles primarily for long-range eliminations. Your goal is to maintain distance from the enemy while eliminating them."
+      },
+      {
+        "heading": "Aim for Headshots",
+        "image": "",
+        "icon_image": "",
+        "description": "Headshots guarantee faster kills. Aim precisely to take out enemies with a single shot."
+      }
+    ]
+  },
+  {
+    "name": "Sniper Mastery III",
+    "image": "",
+    "description": "Eliminate 100 enemies using sniper rifles to enhance your sharpshooting skills. Focus on long-range engagements and perfecting your aim.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Sharpshooter",
+      "titleImage": "",
+      "extra": "Exclusive sniper weapon skins"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Aim for Headshots",
+        "image": "",
+        "description": "Maximize your sniper kills by aiming for the head. Snipers like the Kar98k or M24 offer one-hit headshot kills at long range."
+      },
+      {
+        "heading": "Use High Ground for Better Visibility",
+        "image": "",
+        "description": "Position yourself on elevated terrain for better sightlines. This will give you a clear view of enemy movements, making it easier to land successful shots."
+      },
+      {
+        "heading": "Practice Bullet Drop Compensation",
+        "image": "",
+        "description": "Master bullet drop by practicing long-range shots. Adjust your aim higher to account for the drop over long distances, especially with the AWM or M24."
+      },
+      {
+        "heading": "Take Your Time",
+        "image": "",
+        "description": "Patience is key in sniping. Don't rush your shots. Take time to line up the perfect shot for accuracy and higher chances of a kill."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 100 Enemies with Sniper Rifle",
+        "image": "",
+        "icon_image": "",
+        "description": "To complete this mission, you need to eliminate 100 enemies with a sniper rifle. Be strategic and take your time to secure clean shots."
+      },
+      {
+        "heading": "Utilize Long-Range Combat",
+        "image": "",
+        "icon_image": "",
+        "description": "Use your sniper rifle primarily for long-range engagements. It's most effective when you maintain distance from your enemies."
+      },
+      {
+        "heading": "Stay Hidden After a Shot",
+        "image": "",
+        "icon_image": "",
+        "description": "After taking a shot, reposition yourself to avoid being detected. Enemies will likely try to locate you based on the shot's sound."
+      }
+    ]
+  },
+  {
+    "name": "Sniper Mastery II",
+    "image": "",
+    "description": "Eliminate 30 enemies using sniper rifles to demonstrate your precision in long-range combat. Sharpen your sniping skills and master the art of staying hidden while picking off enemies.",
+    "points": 10,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Precision Shooter",
+      "titleImage": "",
+      "extra": "Exclusive sniper skins or in-game currency"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Aim for the Head",
+        "image": "",
+        "description": "Snipers excel at headshots. To maximize your efficiency, always aim for the head to ensure quicker eliminations."
+      },
+      {
+        "heading": "Use Cover to Stay Hidden",
+        "image": "",
+        "description": "After taking a shot, quickly hide behind cover to avoid being detected. Snipers are most effective when they are hard to spot."
+      },
+      {
+        "heading": "Positioning is Key",
+        "image": "",
+        "description": "Choose high ground or distant spots to engage enemies. Elevated positions provide a better angle and improved visibility."
+      },
+      {
+        "heading": "Know Your Rifle's Bullet Drop",
+        "image": "",
+        "description": "Different sniper rifles have different bullet drops. Practice adjusting your aim for long-range shots, especially with rifles like the M24 or AWM."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 30 Enemies with Sniper Rifle",
+        "image": "",
+        "icon_image": "",
+        "description": "To complete this mission, you need to eliminate 30 enemies using sniper rifles. Focus on accuracy and long-range combat to get the job done."
+      },
+      {
+        "heading": "Use High-Quality Sniper Rifles",
+        "image": "",
+        "icon_image": "",
+        "description": "To ensure your kills are precise, equip powerful sniper rifles like the Kar98k, M24, or AWM, which are most effective at long range."
+      },
+      {
+        "heading": "Take Your Time and Wait for the Perfect Shot",
+        "image": "",
+        "icon_image": "",
+        "description": "Don't rush your shots. Patience is key when sniping. Wait for the perfect opportunity to take down enemies from a safe distance."
+      }
+    ]
+  },
+  {
+    "name": "Sniper Mastery I",
+    "image": "",
+    "description": "Eliminate 10 enemies using a sniper rifle. This mission helps you improve your long-range combat skills and precision. It's a great way to get started with sniper rifles in PUBG.",
+    "points": 5,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Rookie Sniper",
+      "titleImage": "",
+      "extra": "Exclusive sniper rifle skin or in-game currency"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Start with the Basics",
+        "image": "",
+        "description": "If you're new to sniping, start by practicing with less powerful rifles like the Kar98k. Get familiar with the mechanics of aiming and shooting before moving on to more powerful rifles."
+      },
+      {
+        "heading": "Find High Ground",
+        "image": "",
+        "description": "Position yourself on high ground to get a clear view of your enemies. High ground will give you an advantage in spotting and eliminating targets from a distance."
+      },
+      {
+        "heading": "Wait for Perfect Timing",
+        "image": "",
+        "description": "Don't rush your shots. Wait for the perfect moment when your target is stationary or unaware of your position to ensure a higher chance of success."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 10 Enemies with Sniper Rifle",
+        "image": "",
+        "icon_image": "",
+        "description": "To complete this mission, you need to eliminate 10 enemies using sniper rifles. Focus on precision and patience when taking your shots."
+      },
+      {
+        "heading": "Choose the Right Sniper Rifle",
+        "image": "",
+        "icon_image": "",
+        "description": "Select a sniper rifle like the Kar98k or M24. These rifles are effective at long ranges and are great for making those critical shots."
+      }
+    ]
+  },
+  {
+    "name": "Assault Mastery V",
+    "image": "",
+    "description": "Eliminate 2000 enemies using an AR rifle. This high-level mission will challenge your AR rifle skills and test your consistency in combat. Completing this mission will prove your expertise with automatic rifles in PUBG.",
+    "points": 50,
+    "category": "matches",
+    "hardness": "Very Hard",
+    "rewards": {
+      "title": "Master AR Specialist",
+      "titleImage": "",
+      "extra": "Exclusive AR rifle skin or in-game currency"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Master Burst Fire",
+        "image": "",
+        "description": "When using AR rifles, especially in mid-range combat, burst fire can be more accurate than fully automatic fire. Learn to control your recoil with short bursts for greater precision."
+      },
+      {
+        "heading": "Engage at Optimal Ranges",
+        "image": "",
+        "description": "AR rifles are most effective in medium to long-range combat. Focus on taking fights at ranges where your rifle's accuracy and damage are maximized."
+      },
+      {
+        "heading": "Maintain Situational Awareness",
+        "image": "",
+        "description": "When engaging with enemies, always keep an eye on your surroundings. Situational awareness will help you avoid being ambushed while you focus on eliminating targets."
+      },
+      {
+        "heading": "Use Cover Effectively",
+        "image": "",
+        "description": "Use cover effectively to reposition and stay protected while engaging enemies. Move between cover spots to avoid giving away your position."
+      },
+      {
+        "heading": "Play in Unranked Mode (Optional for Rating Protection)",
+        "image": "",
+        "description": "If you're looking to practice without affecting your rank, play in Unranked Mode. This way, you can focus purely on getting AR rifle eliminations without worrying about your rating."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 2000 Enemies with AR Rifle",
+        "image": "",
+        "icon_image": "",
+        "description": "To complete this mission, you need to eliminate 2000 enemies using AR rifles. Prioritize engagements at medium range where your AR rifle excels."
+      },
+      {
+        "heading": "Choose the Right AR Rifle",
+        "image": "",
+        "icon_image": "",
+        "description": "Choose AR rifles like the M416 or AKM, which are effective at medium to long range and have manageable recoil for fast-paced combat."
+      },
+      {
+        "heading": "Play Aggressively and Smart",
+        "image": "",
+        "icon_image": "",
+        "description": "Aggressive play combined with smart positioning will help you get more eliminations. Approach fights strategically and use the AR's versatility in different combat scenarios."
+      }
+    ]
+  },
+  {
+    "name": "Assault Mastery IV",
+    "image": "",
+    "description": "Eliminate 500 enemies using an AR rifle. This mission tests your skills with AR rifles in combat scenarios, requiring precision, strategy, and consistent performance.",
+    "points": 40,
+    "category": "matches",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Elite AR Specialist",
+      "titleImage": "",
+      "extra": "Special AR rifle attachment skin or bonus in-game currency"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Perfect Your Recoil Control",
+        "image": "",
+        "description": "Mastering recoil control is essential for maintaining accuracy with AR rifles. Practice shooting in the training grounds to get a feel for each rifle's recoil pattern."
+      },
+      {
+        "heading": "Utilize Attachments",
+        "image": "",
+        "description": "Equip attachments such as compensators, extended magazines, and scopes to enhance your AR rifle's performance. These will improve accuracy, capacity, and range."
+      },
+      {
+        "heading": "Prioritize Close and Mid-Range Combat",
+        "image": "",
+        "description": "AR rifles are highly effective in close to mid-range fights. Engage enemies in these ranges to maximize your weapon's potential."
+      },
+      {
+        "heading": "Play in Unranked Mode (Optional for Rating Protection)",
+        "image": "",
+        "description": "If you want to focus on eliminations without impacting your rank, play in Unranked Mode. This mode allows you to practice freely and rack up kills with minimal pressure."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 500 Enemies with AR Rifle",
+        "image": "",
+        "icon_image": "",
+        "description": "Take down 500 enemies using AR rifles. Focus on landing consistent shots and maximizing damage output in each engagement."
+      },
+      {
+        "heading": "Choose Versatile AR Rifles",
+        "image": "",
+        "icon_image": "",
+        "description": "Use versatile AR rifles such as the M416 or Scar-L, which offer high accuracy, manageable recoil, and effective damage for various combat situations."
+      },
+      {
+        "heading": "Engage in Frequent Battles",
+        "image": "",
+        "icon_image": "",
+        "description": "Increase your engagement frequency by dropping in high-activity zones like Pochinki or School. This will give you more opportunities to use your AR rifle effectively."
+      }
+    ]
+  },
+  {
+    "name": "Assault Mastery III",
+    "image": "",
+    "description": "Eliminate 150 enemies using an AR rifle. This mission emphasizes precision and tactical gameplay to achieve consistent eliminations.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Skilled AR Marksman",
+      "titleImage": "",
+      "extra": "AR rifle charm or bonus in-game XP"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Stick to Balanced Loadouts",
+        "image": "",
+        "description": "Pair your AR rifle with a sniper or SMG for versatility. This allows you to handle long-range threats and close-quarters combat effectively."
+      },
+      {
+        "heading": "Learn Bullet Spread Patterns",
+        "image": "",
+        "description": "Understand the bullet spread for your preferred AR rifle to improve accuracy. Practice burst firing or single shots for long-range engagements."
+      },
+      {
+        "heading": "Engage in Mid-Range Combat",
+        "image": "",
+        "description": "AR rifles shine in mid-range fights. Use cover and stay at an optimal distance to maximize your weapon's effectiveness."
+      },
+      {
+        "heading": "Play in Unranked Mode (Optional for Rating Protection)",
+        "image": "",
+        "description": "Focus on eliminations without worrying about rank by playing in Unranked Mode. This lets you hone your skills in a stress-free environment."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 150 Enemies with AR Rifle",
+        "image": "",
+        "icon_image": "",
+        "description": "Achieve 150 eliminations with any AR rifle. Focus on consistent aim and tracking during fights to secure kills."
+      },
+      {
+        "heading": "Use Effective Attachments",
+        "image": "",
+        "icon_image": "",
+        "description": "Equip attachments like vertical grips, compensators, and scopes to enhance your AR rifle's stability and accuracy."
+      },
+      {
+        "heading": "Frequent Combat Zones",
+        "image": "",
+        "icon_image": "",
+        "description": "Land in high-activity areas such as Bootcamp or Sosnovka Military Base to increase your engagement opportunities and quickly accumulate kills."
+      }
+    ]
+  },
+  {
+    "name": "Assault Mastery II",
+    "image": "",
+    "description": "Eliminate 50 enemies using an AR rifle. Build accuracy and improve your skills to efficiently complete this task.",
+    "points": 10,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "AR Sharpshooter",
+      "titleImage": "",
+      "extra": "Bonus BP or AR rifle skin"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Choose High-Damage AR Rifles",
+        "image": "",
+        "description": "Use AR rifles like the M416 or AKM for higher damage and reliability during mid-range encounters."
+      },
+      {
+        "heading": "Engage in Close to Mid-Range Fights",
+        "image": "",
+        "description": "Capitalize on the versatility of AR rifles in close and mid-range combat. Keep your aim steady to secure kills quickly."
+      },
+      {
+        "heading": "Use Practice Mode for Recoil Control",
+        "image": "",
+        "description": "Spend time in the training mode to understand and control the recoil patterns of your favorite AR rifles."
+      },
+      {
+        "heading": "Play in Unranked Mode (Optional for Rating Protection)",
+        "image": "",
+        "description": "If you're worried about your rank, switch to Unranked Mode to focus purely on completing the mission without affecting your rating."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 50 Enemies with AR Rifle",
+        "image": "",
+        "icon_image": "",
+        "description": "Achieve 50 eliminations with any AR rifle. Land consistent shots to ensure quick eliminations."
+      }
+    ]
+  }
+]
