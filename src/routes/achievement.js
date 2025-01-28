@@ -3,6 +3,7 @@ import {
   postAchievement,
   getAchievementByName,
   getAchievements,
+  deleteInvalidAchievements,
 } from "../controllers/achievement.js";
 import express from "express";
 import {
@@ -18,5 +19,6 @@ achievementsRouter.post("/", postAchievement);
 achievementsRouter.put("/", updateAchievement);
 achievementsRouter.get("/all", getAchievements);
 achievementsRouter.get("/", getAchievementByName);
+achievementsRouter.delete("/all", deleteInvalidAchievements);
 
 export default achievementsRouter;

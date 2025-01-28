@@ -25,5 +25,5 @@ export async function translateText(text, targetLanguage) {
 }
 
 export const jsonAchievements = await readFile(
-  new URL("../achieveents.json", import.meta.url)
+  new URL("../matches.json", import.meta.url)
 );

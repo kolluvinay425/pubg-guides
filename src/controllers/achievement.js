@@ -203,9 +203,60 @@ const getAchievementByName = async (req, res) => {
     res.status(500).json({ error: error.message });
   }
 };
+
+const deleteInvalidAchievements = async (req, res) => {
+  try {
+    // Fetch all achievements
+    const achievements = await Achievement.findAll();
+
+    // Filter achievements where `name` is not an object or missing required language keys
+    const invalidAchievements = achievements.filter((achievement) => {
+      const name = achievement.name;
+      if (typeof name !== "object" || name === null) {
+        return true; // Mark as invalid if `name` is not an object
+      }
+
+      // List of required languages
+      const requiredLanguages = [
+        "en",
+        "zh",
+        "ko",
+        "ja",
+        "es",
+        "ru",
+        "fr",
+        "de",
+        "pt",
+        "ar",
+      ];
+      // Check if all required languages are present in the object
+      return !requiredLanguages.every((lang) => lang in name);
+    });
+
+    // Log invalid achievements for reference
+    console.log("Invalid achievements to be deleted:", invalidAchievements);
+
+    // Delete invalid achievements
+    for (const achievement of invalidAchievements) {
+      await Achievement.destroy({
+        where: { id: achievement.id },
+      });
+    }
+
+    res.status(200).json({
+      message: "Invalid achievements deleted successfully.",
+      deletedCount: invalidAchievements.length,
+    });
+  } catch (error) {
+    console.error("Error deleting invalid achievements:", error);
+    res.status(500).json({ error: error.message });
+  }
+};
+
 export {
   updateAchievement,
   postAchievement,
   getAchievements,
   getAchievementByName,
+  deleteInvalidAchievements,
 };
