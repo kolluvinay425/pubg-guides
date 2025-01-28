@@ -4,7 +4,7 @@ import bodyParser from "body-parser";
 import { faker } from "@faker-js/faker";
 import morgan from "morgan";
 import cors from "cors";
-import Achievement from "./models/Achievement.js";
+import { Achievement, Requirement, TipsTricks } from "./models/index.js";
 import iconv from "iconv-lite";
 const app = express();
 app.use(express.json());
@@ -26,97 +26,12 @@ app.use(
   )
 );
 
-// var whitelist = ["http://localhost:8000", "http://localhost:8001"];
-
-// const corsOptions = {
-//   credentials: true,
-//   origin: (origin, callback) => {
-//     if (whitelist.indexOf(origin) !== -1) {
-//       callback(null, true);
-//     } else {
-//       callback(new Error(`Origin ${origin} not allowed`));
-//     }
-//   },
-// };
-
 const corsOptions = {
   credentials: true,
   origin: "*",
 };
 
 app.use(cors(corsOptions));
-
-// app.use("/api/v1/profiles", routerProfile);
-
-const generateAchievements = async (req, res) => {
-  const achievements = [];
-
-  const generateTipsTricks = () => {
-    const tips = [];
-    for (let i = 0; i < faker.number.int({ min: 7, max: 12 }); i++) {
-      tips.push({
-        description: faker.lorem.sentences(2),
-        image: faker.image.url(),
-        heading: faker.lorem.words(2),
-      });
-    }
-    return tips;
-  };
-
-  const generateRequirements = () => {
-    const requirements = [];
-    for (let i = 0; i < faker.number.int({ min: 7, max: 12 }); i++) {
-      requirements.push({
-        heading: faker.lorem.words(3),
-        image: faker.image.url(),
-        icon_image: faker.image.url(),
-        description: faker.lorem.sentences(2),
-      });
-    }
-    return requirements;
-  };
-
-  for (let i = 0; i < 1000; i++) {
-    const achievement = {
-      name: faker.lorem.words(3),
-      image: faker.image.url(),
-      description: faker.lorem.sentences(2),
-      points: faker.number.int({ min: 10, max: 100 }),
-      hardness: faker.helpers.arrayElement([
-        "Easy",
-        "Medium",
-        "Hard",
-        "Expert",
-      ]),
-      rewards: {
-        title: faker.company.name(),
-        titleImage: faker.image.url(),
-        extra: faker.lorem.sentence(),
-      },
-      tipsTricks: generateTipsTricks(),
-      category: faker.helpers.arrayElement([
-        "glorious_moments",
-        "matches",
-        "honor",
-        "progress",
-        "items",
-        "social",
-        "general",
-      ]),
-      requirements: generateRequirements(),
-    };
-
-    achievements.push(achievement);
-  }
-
-  Achievement.insertMany(achievements)
-    .then(() => {
-      res.json(achievements);
-    })
-    .catch((error) => {
-      res.status(500).json({ error });
-    });
-};
 
 import path from "path";
 import { fileURLToPath } from "url";
@@ -144,14 +59,22 @@ const auth = new google.auth.GoogleAuth({
 const drive = google.drive({ version: "v3", auth });
 
 const upload = multer({ dest: "uploads/" });
+import Ajv from "ajv";
+import schema from "./validateJson.js";
 
+const ajv = new Ajv();
 // Route to create multiple achievements from the predefined JSON array
 export const jsonAchievements = await readFile(
-  new URL("./matches.json", import.meta.url)
+  new URL("./achieveents.json", import.meta.url)
 );
 
 import { readFile } from "fs/promises";
-import automateAchievements from "./controllers/automate.js";
+
+import { count } from "console";
+import {
+  automateAchievements,
+  updateAchievements,
+} from "./controllers/automate.js";
 async function loadAchievements() {
   const data = await readFile(new URL("./achieveents.json", import.meta.url));
   return JSON.parse(data);
@@ -240,12 +163,23 @@ app.get("/api/achievements", async (req, res) => {
 
 app.get("/api/achievements/all", async (req, res) => {
   try {
-    const achievements = await Achievement.find({}).limit(40);
+    const achievements = await Achievement.findAll({
+      include: [
+        {
+          model: Requirement, // Model name here
+          as: "requirements", // Alias should match the association alias
+        },
+        {
+          model: TipsTricks, // Model name here
+          as: "tipsTricks", // Alias should match the association alias
+        },
+      ],
+    });
 
     if (achievements) {
-      res.json(achievements);
+      res.json({ count: achievements.length, achievements: achievements });
     } else {
-      res.status(404).json({ message: "Something wrong" });
+      res.status(404).json({ message: "No achievements found" });
     }
   } catch (error) {
     res.status(500).json({ error: error.message });
@@ -289,9 +223,8 @@ app.get("/update", (req, res) => {
   res.sendFile(path.join(__dirname, "update.html"));
 });
 
-app.get("/generate", generateAchievements);
-
 app.post("/api/achievements/automate", automateAchievements);
+app.post("/api/achievements/update", updateAchievements);
 
 // Utility function to sanitize and normalize text
 function fixEncoding(value) {

@@ -1,19 +1,7 @@
-import { google } from "googleapis";
 import stream from "stream";
-import { cwd } from "process";
-import Achievement from "../models/Achievement.js";
-
-export const KEYFILEPATH = cwd() + "/pubg-guides-key.json";
-const SCOPES = ["https://www.googleapis.com/auth/drive.file"];
-
-const auth = new google.auth.GoogleAuth({
-  keyFile: KEYFILEPATH,
-  scopes: SCOPES,
-});
-
-const drive = google.drive({ version: "v3", auth });
-
+import { Achievement } from "../models/index.js";
 import fs from "fs";
+import { drive } from "googleapis/build/src/apis/drive/index.js";
 const postAchievement = async (req, res) => {
   console.log(req.body);
   console.log(req.files); // Log the entire req.files object to inspect its structure

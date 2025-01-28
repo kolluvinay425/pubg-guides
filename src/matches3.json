@@ -1,0 +1,1285 @@
+[
+  {
+    "name": "Battlemania IV",
+    "image": "path_to_battlemania_iv_image.png",
+    "description": "Complete 500 matches in any mode (excluding WOW) while using special characters.",
+    "points": 40,
+    "category": "matches",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Battle Veteran",
+      "titleImage": "path_to_battle_veteran_title_image.png",
+      "extra": "A badge showcasing your dedication to PUBG battles."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Focus on Shorter Modes",
+        "image": "path_to_shorter_modes_image.png",
+        "description": "Play shorter matches like Arcade or TDM to complete the requirement faster."
+      },
+      {
+        "heading": "Stick with Special Characters",
+        "image": "path_to_special_characters_image.png",
+        "description": "Ensure you have selected and are using special characters like Andy, Carlo, or Sara for all matches."
+      },
+      {
+        "heading": "Coordinate with Friends",
+        "image": "path_to_teamplay_image.png",
+        "description": "Team up with friends to make the matches more enjoyable and consistent."
+      },
+      {
+        "heading": "Track Your Progress",
+        "image": "path_to_progress_tracking_image.png",
+        "description": "Keep an eye on your mission progress in the Missions tab to know how many matches are left."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Complete 500 Matches with Special Characters",
+        "image": "path_to_matches_requirement_image.png",
+        "icon_image": "path_to_special_characters_icon.png",
+        "description": "Play and finish a total of 500 matches in any mode except WOW while using special characters."
+      }
+    ]
+  },
+  {
+    "name": "Battlemania III",
+    "image": "path_to_battlemania_iv_image.png",
+    "description": "Complete 100 matches in any mode (excluding WOW) while using special characters.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Battle Veteran",
+      "titleImage": "path_to_battle_veteran_title_image.png",
+      "extra": "A badge showcasing your dedication to PUBG battles."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Focus on Shorter Modes",
+        "image": "path_to_shorter_modes_image.png",
+        "description": "Play shorter matches like Arcade or TDM to complete the requirement faster."
+      },
+      {
+        "heading": "Stick with Special Characters",
+        "image": "path_to_special_characters_image.png",
+        "description": "Ensure you have selected and are using special characters like Andy, Carlo, or Sara for all matches."
+      },
+      {
+        "heading": "Coordinate with Friends",
+        "image": "path_to_teamplay_image.png",
+        "description": "Team up with friends to make the matches more enjoyable and consistent."
+      },
+      {
+        "heading": "Track Your Progress",
+        "image": "path_to_progress_tracking_image.png",
+        "description": "Keep an eye on your mission progress in the Missions tab to know how many matches are left."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Complete 100 Matches with Special Characters",
+        "image": "path_to_matches_requirement_image.png",
+        "icon_image": "path_to_special_characters_icon.png",
+        "description": "Play and finish a total of 100 matches in any mode except WOW while using special characters."
+      }
+    ]
+  },
+  {
+    "name": "Battlemania II",
+    "image": "path_to_battlemania_iv_image.png",
+    "description": "Complete 10 matches in any mode (excluding WOW) while using special characters.",
+    "points": 10,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Battle Veteran",
+      "titleImage": "path_to_battle_veteran_title_image.png",
+      "extra": "A badge showcasing your dedication to PUBG battles."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Focus on Shorter Modes",
+        "image": "path_to_shorter_modes_image.png",
+        "description": "Play shorter matches like Arcade or TDM to complete the requirement faster."
+      },
+      {
+        "heading": "Stick with Special Characters",
+        "image": "path_to_special_characters_image.png",
+        "description": "Ensure you have selected and are using special characters like Andy, Carlo, or Sara for all matches."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Complete 10 Matches with Special Characters",
+        "image": "path_to_matches_requirement_image.png",
+        "icon_image": "path_to_special_characters_icon.png",
+        "description": "Play and finish a total of 10 matches in any mode except WOW while using special characters."
+      }
+    ]
+  },
+  {
+    "name": "Battlemania I",
+    "image": "path_to_battlemania_iv_image.png",
+    "description": "Complete 5 matches in any mode (excluding WOW) while using special characters.",
+    "points": 5,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Battle Veteran",
+      "titleImage": "path_to_battle_veteran_title_image.png",
+      "extra": "A badge showcasing your dedication to PUBG battles."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Stick with Special Characters",
+        "image": "path_to_special_characters_image.png",
+        "description": "Ensure you have selected and are using special characters like Andy, Carlo, or Sara for all matches."
+      },
+      {
+        "heading": "Track Your Progress",
+        "image": "path_to_progress_tracking_image.png",
+        "description": "Keep an eye on your mission progress in the Missions tab to know how many matches are left."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Complete 5 Matches with Special Characters",
+        "image": "path_to_matches_requirement_image.png",
+        "icon_image": "path_to_special_characters_icon.png",
+        "description": "Play and finish a total of 5 matches in any mode except WOW while using special characters."
+      }
+    ]
+  },
+  {
+    "name": "Warhorse",
+    "image": "url_to_Warhorse_image",
+    "description": "Complete any 2 of the following weapon-specific mystery missions: SMG Mystery, Sniper Mystery, Shotgun Mystery, Melee Mystery, Assault Mystery, or Pistol Mystery.",
+    "points": 40,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Warhorse",
+      "titleImage": "url_to_warhorse_title_image",
+      "extra": "Achievement points and a prestigious in-game title."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Focus on One Mission at a Time",
+        "image": "url_to_focus_image",
+        "description": "Choose one weapon category per match to streamline progress towards completing its specific mystery."
+      },
+      {
+        "heading": "Use the Right Map",
+        "image": "url_to_map_image",
+        "description": "Select maps with the highest likelihood of finding the required weapons (e.g., Miramar for snipers, Sanhok for shotguns)."
+      },
+      {
+        "heading": "Engage in Close-Range Combat for Melee and Shotguns",
+        "image": "url_to_close_combat_image",
+        "description": "Land in areas with high player density to maximize melee and shotgun opportunities in close-range fights."
+      },
+      {
+        "heading": "Play in Lower Tiers",
+        "image": "url_to_tier_image",
+        "description": "Playing in lower-ranked lobbies increases the chances of encountering bots, making it easier to complete weapon-specific challenges."
+      },
+      {
+        "heading": "Track Your Progress",
+        "image": "url_to_progress_tracking_image",
+        "description": "Keep an eye on your mission progress after each match to determine which mysteries are close to completion."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Complete SMG Mystery",
+        "image": "url_to_smg_image",
+        "icon_image": "url_to_smg_icon",
+        "description": "Eliminate enemies using Sub-Machine Guns like UMP45, Vector, or Micro Uzi."
+      },
+      {
+        "heading": "Complete Sniper Mystery",
+        "image": "url_to_sniper_image",
+        "icon_image": "url_to_sniper_icon",
+        "description": "Achieve kills using sniper rifles such as Kar98k, M24, or AWM."
+      },
+      {
+        "heading": "Complete Shotgun Mystery",
+        "image": "url_to_shotgun_image",
+        "icon_image": "url_to_shotgun_icon",
+        "description": "Secure eliminations with shotguns like S686, S1897, or S12K."
+      },
+      {
+        "heading": "Complete Melee Mystery",
+        "image": "url_to_melee_image",
+        "icon_image": "url_to_melee_icon",
+        "description": "Take down enemies with melee weapons such as Pan, Crowbar, or Sickle."
+      },
+      {
+        "heading": "Complete Assault Mystery",
+        "image": "url_to_ar_image",
+        "icon_image": "url_to_ar_icon",
+        "description": "Finish enemies using assault rifles like M416, AKM, or SCAR-L."
+      },
+      {
+        "heading": "Complete Pistol Mystery",
+        "image": "url_to_pistol_image",
+        "icon_image": "url_to_pistol_icon",
+        "description": "Eliminate enemies with pistols such as P1911, R1895, or Desert Eagle."
+      }
+    ]
+  },
+  {
+    "name": "Envoy of War",
+    "image": "path_to_envoy_of_war_image.png",
+    "description": "Complete specific objectives in Arena Mode, including avenges, first eliminations, final blows, and legendary completions.",
+    "points": 5,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Arena Conqueror",
+      "titleImage": "path_to_arena_conqueror_title_image.png",
+      "extra": "Exclusive badge showcasing your Arena Mode expertise"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Focus on Teamplay for Avenges",
+        "image": "path_to_teamplay_image.png",
+        "description": "Stick close to teammates and quickly eliminate enemies who take down your allies to achieve avenges."
+      },
+      {
+        "heading": "Play Aggressively for First Eliminations",
+        "image": "path_to_aggressive_play_image.png",
+        "description": "Push early in each round to secure the first kill. Use weapons with high damage per second like ARs or SMGs."
+      },
+      {
+        "heading": "Plan for Final Blows",
+        "image": "path_to_final_blow_image.png",
+        "description": "Track enemy movements and save grenades or molotovs for the end of the round to secure the final kill."
+      },
+      {
+        "heading": "Focus on High Damage for Legendary",
+        "image": "path_to_high_damage_image.png",
+        "description": "Deal consistent damage and assist teammates to achieve legendary status in rounds."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Successfully Avenge 20 Times",
+        "image": "path_to_avenge_image.png",
+        "icon_image": "path_to_avenge_icon.png",
+        "description": "Eliminate the enemy who took down your teammate 20 times in Arena Mode."
+      },
+      {
+        "heading": "Get 20 First Eliminations",
+        "image": "path_to_first_eliminations_image.png",
+        "icon_image": "path_to_first_eliminations_icon.png",
+        "description": "Achieve the first kill of a round 20 times in Arena Mode."
+      },
+      {
+        "heading": "Get 20 Final Blows",
+        "image": "path_to_final_blows_image.png",
+        "icon_image": "path_to_final_blows_icon.png",
+        "description": "Secure the last elimination of a round 20 times in Arena Mode."
+      },
+      {
+        "heading": "Complete Legendary 20 Times",
+        "image": "path_to_legendary_image.png",
+        "icon_image": "path_to_legendary_icon.png",
+        "description": "Achieve legendary performance in Arena Mode 20 times by excelling in kills and assists."
+      }
+    ]
+  },
+  {
+    "name": "Alpha & Omega",
+    "image": "path_to_alpha_omega_image.png",
+    "description": "Achieve both the first elimination and the final blow in a single Arena Mode match.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Dual Finisher",
+      "titleImage": "path_to_dual_finisher_title_image.png",
+      "extra": "A unique badge showcasing your domination in Arena Mode"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Push Aggressively for the First Elimination",
+        "image": "path_to_first_elimination_image.png",
+        "description": "Move quickly at the start of the match and target exposed enemies to secure the first kill."
+      },
+      {
+        "heading": "Save Resources for the Final Blow",
+        "image": "path_to_final_blow_image.png",
+        "description": "Keep a powerful weapon or utility, such as grenades, for the end of the match to secure the last kill."
+      },
+      {
+        "heading": "Use Team Communication",
+        "image": "path_to_communication_image.png",
+        "description": "Coordinate with teammates to manage engagements effectively and set yourself up for both key eliminations."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Get the First Elimination",
+        "image": "path_to_first_elimination_requirement_image.png",
+        "icon_image": "path_to_first_elimination_icon.png",
+        "description": "Be the first player to eliminate an enemy in the match."
+      },
+      {
+        "heading": "Get the Final Blow",
+        "image": "path_to_final_blow_requirement_image.png",
+        "icon_image": "path_to_final_blow_icon.png",
+        "description": "Secure the last elimination of the match to end the game."
+      }
+    ]
+  },
+  {
+    "name": "Victory Legion IV",
+    "image": "path_to_victory_legion_iv_image.png",
+    "description": "Complete 20 shoutouts in Arena Mode to showcase your standout performances.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Arena Champion",
+      "titleImage": "path_to_arena_champion_title_image.png",
+      "extra": "A badge to display your achievements in Arena Mode."
+    },
+    "tipsTricks": [
+      {
+        "heading": "What is a Shoutout?",
+        "image": "path_to_shoutout_explanation_image.png",
+        "description": "In PUBG's Arena Mode, a 'shoutout' refers to a special recognition given to players for extraordinary achievements, such as dealing the most damage, scoring the highest kills, or making clutch plays during a match."
+      },
+      {
+        "heading": "Play Aggressively",
+        "image": "path_to_aggressive_play_image.png",
+        "description": "Engage in combat actively to maximize damage and secure kills, increasing your chances of earning a shoutout."
+      },
+      {
+        "heading": "Focus on Performance",
+        "image": "path_to_performance_focus_image.png",
+        "description": "Aim for consistent and standout actions, such as taking down multiple enemies quickly or being the MVP of your team."
+      },
+      {
+        "heading": "Coordinate with Teammates",
+        "image": "path_to_teamwork_image.png",
+        "description": "Use teamwork to dominate rounds, as assisting in critical moments can also lead to recognition."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Complete 20 Shoutouts",
+        "image": "path_to_shoutouts_requirement_image.png",
+        "icon_image": "path_to_shoutouts_icon.png",
+        "description": "Participate in Arena Mode matches and achieve 20 shoutouts by performing exceptional actions in gameplay."
+      }
+    ]
+  },
+  {
+    "name": "Victory Legion III",
+    "image": "path_to_victory_legion_iv_image.png",
+    "description": "Complete 10 shoutouts in Arena Mode to prove your dominance.",
+    "points": 15,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Arena Star",
+      "titleImage": "path_to_arena_star_title_image.png",
+      "extra": "Earn recognition for participating in shoutouts in Arena Mode."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Understand Shoutouts",
+        "image": "path_to_shoutouts_explanation_image.png",
+        "description": "A shoutout occurs when a player completes a standout performance in Arena. Strive for aggressive plays and consistency."
+      },
+      {
+        "heading": "Focus on Team Play",
+        "image": "path_to_team_play_image.png",
+        "description": "Coordinate with your team to maximize your chances of completing shoutouts."
+      },
+      {
+        "heading": "Stay in the Fight",
+        "image": "path_to_staying_active_image.png",
+        "description": "Engage frequently to make your presence felt and have a higher chance of achieving shoutouts."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Complete 10 Shoutouts",
+        "image": "path_to_shoutouts_requirement_image.png",
+        "icon_image": "path_to_shoutouts_icon.png",
+        "description": "Participate in Arena matches and complete shoutouts during standout moments."
+      }
+    ]
+  },
+  {
+    "name": "Victory Legion II",
+    "image": "path_to_victory_legion_iv_image.png",
+    "description": "Complete 5 shoutouts in Arena Mode to prove your dominance.",
+    "points": 10,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Arena Star",
+      "titleImage": "path_to_arena_star_title_image.png",
+      "extra": "Earn recognition for participating in shoutouts in Arena Mode."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Understand Shoutouts",
+        "image": "path_to_shoutouts_explanation_image.png",
+        "description": "A shoutout occurs when a player completes a standout performance in Arena. Strive for aggressive plays and consistency."
+      },
+      {
+        "heading": "Focus on Team Play",
+        "image": "path_to_team_play_image.png",
+        "description": "Coordinate with your team to maximize your chances of completing shoutouts."
+      },
+      {
+        "heading": "Stay in the Fight",
+        "image": "path_to_staying_active_image.png",
+        "description": "Engage frequently to make your presence felt and have a higher chance of achieving shoutouts."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Complete 5 Shoutouts",
+        "image": "path_to_shoutouts_requirement_image.png",
+        "icon_image": "path_to_shoutouts_icon.png",
+        "description": "Participate in Arena matches and complete shoutouts during standout moments."
+      }
+    ]
+  },
+  {
+    "name": "Victory Legion I",
+    "image": "path_to_victory_legion_iv_image.png",
+    "description": "Complete 1 shoutouts in Arena Mode to prove your dominance.",
+    "points": 5,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Arena Star",
+      "titleImage": "path_to_arena_star_title_image.png",
+      "extra": "Earn recognition for participating in shoutouts in Arena Mode."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Understand Shoutouts",
+        "image": "path_to_shoutouts_explanation_image.png",
+        "description": "A shoutout occurs when a player completes a standout performance in Arena. Strive for aggressive plays and consistency."
+      },
+      {
+        "heading": "Focus on Team Play",
+        "image": "path_to_team_play_image.png",
+        "description": "Coordinate with your team to maximize your chances of completing shoutouts."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Complete 1 Shoutouts",
+        "image": "path_to_shoutouts_requirement_image.png",
+        "icon_image": "path_to_shoutouts_icon.png",
+        "description": "Participate in Arena matches and complete shoutouts during standout moments."
+      }
+    ]
+  },
+  {
+    "name": "Physical Trainer",
+    "image": "path_to_physical_trainer_image.png",
+    "description": "Demonstrate your agility and stamina by completing these actions: crouch 10,000 times, jump 10,000 times, and go prone 100 times.",
+    "points": 30,
+    "category": "matches",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Master of Movement",
+      "titleImage": "path_to_master_of_movement_title_image.png",
+      "extra": "A badge that highlights your dedication to physical agility."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Crouch Efficiently",
+        "image": "path_to_crouching_tips_image.png",
+        "description": "Find a safe area in the Training Grounds or a non-combat zone during a match. Spam the crouch button repeatedly to quickly increase your crouch count."
+      },
+      {
+        "heading": "Jump Strategically",
+        "image": "path_to_jumping_tips_image.png",
+        "description": "Use the jump action repeatedly in Training Grounds or while traversing the map during matches. Look for areas with minimal enemies to avoid interruptions."
+      },
+      {
+        "heading": "Go Prone Safely",
+        "image": "path_to_prone_tips_image.png",
+        "description": "While in a secure location, toggle the prone action multiple times. This can be done in open matches or the Training Grounds to complete the prone requirement."
+      },
+      {
+        "heading": "Use Macros or Keybinds (Optional)",
+        "image": "path_to_macro_tips_image.png",
+        "description": "If allowed in your setup, bind actions like crouch or jump to a single key for faster execution. Ensure this complies with PUBG's fair play policies."
+      },
+      {
+        "heading": "Play Regular Matches",
+        "image": "path_to_regular_matches_image.png",
+        "description": "Incorporate these actions naturally into gameplay by crouching during combat, jumping over obstacles, and going prone to hide from enemies."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Crouch 10,000 Times",
+        "image": "path_to_crouch_requirement_image.png",
+        "icon_image": "path_to_crouch_icon.png",
+        "description": "Perform the crouch action 10,000 times to meet this requirement."
+      },
+      {
+        "heading": "Jump 10,000 Times",
+        "image": "path_to_jump_requirement_image.png",
+        "icon_image": "path_to_jump_icon.png",
+        "description": "Execute the jump action 10,000 times across matches."
+      },
+      {
+        "heading": "Go Prone 100 Times",
+        "image": "path_to_prone_requirement_image.png",
+        "icon_image": "path_to_prone_icon.png",
+        "description": "Complete the prone action 100 times to fulfill this task."
+      }
+    ]
+  },
+  {
+    "name": "Eye For An Eye",
+    "image": "path_to_eye_for_an_eye_image.png",
+    "description": "Eliminate an enemy who knocked you out earlier in the same match, proving your resilience and determination.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Vengeful Warrior",
+      "titleImage": "path_to_vengeful_warrior_title_image.png",
+      "extra": "A badge showcasing your ability to seek revenge."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Mark the Enemy",
+        "image": "path_to_mark_enemy_image.png",
+        "description": "After getting knocked out, take note of the player's name or location to track them later in the match."
+      },
+      {
+        "heading": "Stay Near Teammates",
+        "image": "path_to_teamwork_image.png",
+        "description": "Allow your teammates to revive you quickly so you can stay in the fight and locate the enemy."
+      },
+      {
+        "heading": "Use Tactical Strategies",
+        "image": "path_to_tactics_image.png",
+        "description": "Approach the enemy carefully to avoid being knocked out again. Use cover and grenades to gain an advantage."
+      },
+      {
+        "heading": "Replay Kill Feed",
+        "image": "path_to_kill_feed_image.png",
+        "description": "Check the kill feed to identify and confirm the enemy who knocked you out."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate the Enemy",
+        "image": "path_to_elimination_requirement_image.png",
+        "icon_image": "path_to_elimination_icon.png",
+        "description": "Knock out and eliminate the same enemy who knocked you out in the same match."
+      }
+    ]
+  },
+  {
+    "name": "Supreme Marksman",
+    "image": "path_to_supreme_marksman_image.png",
+    "description": "Showcase your shooting skills by completing three unique tasks: eliminate enemies with headshots without a scope, take down airborne targets, and eliminate enemies in the water.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Master Marksman",
+      "titleImage": "path_to_master_marksman_title_image.png",
+      "extra": "A special badge demonstrating your precision and versatility in combat."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Headshots Without a Scope",
+        "image": "path_to_headshot_image.png",
+        "description": "Use weapons with high accuracy and aim for the head at close range. Practicing hip-fire and iron sights can improve your accuracy."
+      },
+      {
+        "heading": "Eliminating Airborne Enemies",
+        "image": "path_to_airborne_image.png",
+        "description": "Target players using gliders, jumping frequently, or parachuting. Timing and leading your shots are key."
+      },
+      {
+        "heading": "Eliminating Enemies in Water",
+        "image": "path_to_water_elimination_image.png",
+        "description": "Engage enemies swimming or standing in shallow water. Use weapons with high damage per shot for quick eliminations."
+      },
+      {
+        "heading": "Weapon Choice",
+        "image": "path_to_weapon_choice_image.png",
+        "description": "For all tasks, weapons like assault rifles (AKM, M416) or DMRs are versatile. Use grenades for enemies hiding in water."
+      },
+      {
+        "heading": "Map Awareness",
+        "image": "path_to_map_awareness_image.png",
+        "description": "Focus on areas with water bodies or open fields to find airborne or swimming enemies."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 10 Enemies with Headshots Without Scope",
+        "image": "path_to_headshot_requirement_image.png",
+        "icon_image": "path_to_headshot_icon.png",
+        "description": "Take down 10 enemies by landing headshots without using any scopes."
+      },
+      {
+        "heading": "Eliminate 10 Airborne Enemies",
+        "image": "path_to_airborne_requirement_image.png",
+        "icon_image": "path_to_airborne_icon.png",
+        "description": "Shoot down 10 enemies while they are airborne, such as while jumping or parachuting."
+      },
+      {
+        "heading": "Eliminate 10 Enemies in Water",
+        "image": "path_to_water_requirement_image.png",
+        "icon_image": "path_to_water_icon.png",
+        "description": "Defeat 10 enemies swimming or standing in water bodies."
+      }
+    ]
+  },
+  {
+    "name": "Perfect 10s",
+    "image": "path_to_supreme_marksman_image.png",
+    "description": "Master every weapon type by eliminating enemies using SMGs, pistols, LMGs, sniper rifles, ARs, shotguns, melee weapons, throwables, vehicles, and crossbows.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Weapon Master",
+      "titleImage": "path_to_weapon_master_title_image.png",
+      "extra": "An exclusive badge showcasing your mastery with all weapon types."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Use the Right Maps",
+        "image": "path_to_map_selection_image.png",
+        "description": "Choose maps with diverse environments like Erangel and Miramar for vehicle kills and open fields for sniping."
+      },
+      {
+        "heading": "Focus on One Weapon Type at a Time",
+        "image": "path_to_focus_weapon_image.png",
+        "description": "Prioritize one weapon category per match to complete the task systematically."
+      },
+      {
+        "heading": "Close-Range Tactics",
+        "image": "path_to_close_range_image.png",
+        "description": "For SMGs, shotguns, pistols, and melee weapons, engage in close-quarters combat in urban areas like Pochinki or School."
+      },
+      {
+        "heading": "Vehicle Eliminations",
+        "image": "path_to_vehicle_kill_image.png",
+        "description": "Knock enemies down first, then finish them off with a vehicle to count the elimination."
+      },
+      {
+        "heading": "Throwable Eliminations",
+        "image": "path_to_throwable_kills_image.png",
+        "description": "Trap enemies in buildings or behind cover, and use grenades or molotovs for effective eliminations."
+      },
+      {
+        "heading": "Sniping and Long-Range Combat",
+        "image": "path_to_sniper_image.png",
+        "description": "Find a vantage point and use sniper rifles to eliminate enemies at long distances."
+      },
+      {
+        "heading": "Crossbow Tips",
+        "image": "path_to_crossbow_image.png",
+        "description": "Engage stationary targets to improve accuracy with the crossbow and aim for headshots for instant eliminations."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 10 Enemies with SMG",
+        "image": "path_to_smg_requirement_image.png",
+        "icon_image": "path_to_smg_icon.png",
+        "description": "Use SMGs like UMP45 or Vector in close-quarters combat for quick eliminations."
+      },
+      {
+        "heading": "Eliminate 10 Enemies with Pistol",
+        "image": "path_to_pistol_requirement_image.png",
+        "icon_image": "path_to_pistol_icon.png",
+        "description": "Utilize pistols like the P1911 or Desert Eagle in early-game fights or confined spaces."
+      },
+      {
+        "heading": "Eliminate 10 Enemies with LMG",
+        "image": "path_to_lmg_requirement_image.png",
+        "icon_image": "path_to_lmg_icon.png",
+        "description": "Deploy LMGs such as the M249 in suppressive fire scenarios to achieve eliminations."
+      },
+      {
+        "heading": "Eliminate 10 Enemies with Sniper Rifle",
+        "image": "path_to_sniper_requirement_image.png",
+        "icon_image": "path_to_sniper_icon.png",
+        "description": "Pick sniper rifles like Kar98k or AWM to take down enemies at long distances."
+      },
+      {
+        "heading": "Eliminate 10 Enemies with AR",
+        "image": "path_to_ar_requirement_image.png",
+        "icon_image": "path_to_ar_icon.png",
+        "description": "Use versatile ARs like M416 or AKM for mid-range combat."
+      },
+      {
+        "heading": "Eliminate 10 Enemies with Shotgun",
+        "image": "path_to_shotgun_requirement_image.png",
+        "icon_image": "path_to_shotgun_icon.png",
+        "description": "Engage enemies at close range with powerful shotguns like S686 or S12K."
+      },
+      {
+        "heading": "Eliminate 10 Enemies with Melee Weapon",
+        "image": "path_to_melee_requirement_image.png",
+        "icon_image": "path_to_melee_icon.png",
+        "description": "Sneak up on distracted or downed enemies to finish them with melee weapons like the pan."
+      },
+      {
+        "heading": "Eliminate 10 Enemies with Throwable",
+        "image": "path_to_throwable_requirement_image.png",
+        "icon_image": "path_to_throwable_icon.png",
+        "description": "Utilize grenades, molotovs, or other throwables to eliminate enemies in confined spaces."
+      },
+      {
+        "heading": "Eliminate 10 Enemies with Vehicle",
+        "image": "path_to_vehicle_requirement_image.png",
+        "icon_image": "path_to_vehicle_icon.png",
+        "description": "Knock down enemies and run them over with vehicles like the UAZ or buggy."
+      },
+      {
+        "heading": "Eliminate 10 Enemies with Crossbow",
+        "image": "path_to_crossbow_requirement_image.png",
+        "icon_image": "path_to_crossbow_icon.png",
+        "description": "Engage stationary targets to maximize your chances of landing crossbow eliminations."
+      }
+    ]
+  },
+  {
+    "name": "The Chosen One",
+    "image": "path_to_the_chosen_one_image.png",
+    "description": "Pick up the exclusive items found in air drops to complete this mission: Ghillie Suits, Groza, AWM, Mk14.",
+    "points": 30,
+    "category": "matches",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Air Drop Master",
+      "titleImage": "path_to_air_drop_master_title_image.png",
+      "extra": "A badge of honor showcasing your expertise in securing exclusive air-drop items."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Focus on Air Drop Locations",
+        "image": "path_to_airdrop_location_image.png",
+        "description": "Pay attention to the plane's path and look for air drops falling nearby. Air drops are marked with red or yellow smoke for easy identification."
+      },
+      {
+        "heading": "Approach with Caution",
+        "image": "path_to_cautious_approach_image.png",
+        "description": "Air drops attract other players. Always scout the area before approaching and be prepared for combat."
+      },
+      {
+        "heading": "Use Smoke Grenades for Cover",
+        "image": "path_to_smoke_grenade_image.png",
+        "description": "Deploy smoke grenades near the air drop to obscure your position while looting it."
+      },
+      {
+        "heading": "Stay Mobile",
+        "image": "path_to_vehicle_usage_image.png",
+        "description": "Use a vehicle to reach air drops quickly and escape fast after looting."
+      },
+      {
+        "heading": "Play in Squads",
+        "image": "path_to_squad_tactics_image.png",
+        "description": "Coordinate with teammates to secure air drops more effectively and protect each other during looting."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Pick Up Ghillie Suit (Forest)",
+        "image": "path_to_ghillie_suit_forest_image.png",
+        "icon_image": "path_to_ghillie_suit_forest_icon.png",
+        "description": "Find and pick up the Ghillie Suit (Forest) from an air drop. Available on maps with dense foliage such as Erangel, Sanhok, and Vikendi."
+      },
+      {
+        "heading": "Pick Up Ghillie Suit (Desert)",
+        "image": "path_to_ghillie_suit_desert_image.png",
+        "icon_image": "path_to_ghillie_suit_desert_icon.png",
+        "description": "Pick up the Ghillie Suit (Desert) from an air drop. Available on Miramar."
+      },
+      {
+        "heading": "Pick Up Ghillie Suit (Dark Brown)",
+        "image": "path_to_ghillie_suit_dark_brown_image.png",
+        "icon_image": "path_to_ghillie_suit_dark_brown_icon.png",
+        "description": "Secure the Ghillie Suit (Dark Brown) from an air drop. Available on Karakin."
+      },
+      {
+        "heading": "Pick Up Ghillie Suit (Snow)",
+        "image": "path_to_ghillie_suit_snow_image.png",
+        "icon_image": "path_to_ghillie_suit_snow_icon.png",
+        "description": "Find the Ghillie Suit (Snow) in an air drop. Available exclusively on Vikendi."
+      },
+      {
+        "heading": "Pick Up Groza",
+        "image": "path_to_groza_image.png",
+        "icon_image": "path_to_groza_icon.png",
+        "description": "Retrieve the powerful Groza assault rifle from an air drop for close-range dominance."
+      },
+      {
+        "heading": "Pick Up AWM",
+        "image": "path_to_awm_image.png",
+        "icon_image": "path_to_awm_icon.png",
+        "description": "Loot the AWM sniper rifle from an air drop for its unmatched long-range power."
+      },
+      {
+        "heading": "Pick Up Mk14",
+        "image": "path_to_mk14_image.png",
+        "icon_image": "path_to_mk14_icon.png",
+        "description": "Obtain the Mk14 from an air drop, which doubles as a sniper and an automatic weapon."
+      }
+    ]
+  },
+  {
+    "name": "Suit Up",
+    "image": "path_to_suit_up_image.png",
+    "description": "Equip all of the following items in a single match to complete the mission: Motorcycle Helmet (Lv. 1), Military Helmet (Lv. 2), Spetsnaz Helmets (Lv. 3), Police Vests, Military Vests, and Backpacks.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Gear Master",
+      "titleImage": "path_to_gear_master_title_image.png",
+      "extra": "A badge that showcases your thoroughness in equipping all levels of gear."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Loot Multiple Locations",
+        "image": "path_to_loot_image.png",
+        "description": "To equip all the items, you'll need to loot multiple locations. Be sure to visit both high-loot areas and regular loot zones like buildings and military bases."
+      },
+      {
+        "heading": "Focus on Backpack and Vest Variety",
+        "image": "path_to_vest_backpack_image.png",
+        "description": "Backpacks and vests are available in different levels. Focus on gathering Level 1, Level 2, and Level 3 versions by searching the appropriate zones."
+      },
+      {
+        "heading": "Visit Police Stations and Military Bases",
+        "image": "path_to_police_military_image.png",
+        "description": "Police Vests and Military Helmets are commonly found in police stations and military bases, so make sure to check these locations first."
+      },
+      {
+        "heading": "Use the Motorcycle Helmet as a Backup",
+        "image": "path_to_motorcycle_helmet_image.png",
+        "description": "Motorcycle Helmets are common and are easy to find, so make sure to keep a Level 1 version for the mission while you focus on higher-tier items."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Equip Motorcycle Helmet (Lv. 1)",
+        "image": "path_to_motorcycle_helmet_image.png",
+        "icon_image": "path_to_motorcycle_helmet_icon.png",
+        "description": "Equip a Level 1 Motorcycle Helmet in your inventory. These are commonly found early in the match and in standard loot zones."
+      },
+      {
+        "heading": "Equip Military Helmet (Lv. 2)",
+        "image": "path_to_military_helmet_2_image.png",
+        "icon_image": "path_to_military_helmet_2_icon.png",
+        "description": "Find and equip a Level 2 Military Helmet, which offers better protection. Look for it in military bases, police stations, and large buildings."
+      },
+      {
+        "heading": "Equip Spetsnaz Helmets (Lv. 3)",
+        "image": "path_to_spetsnaz_helmet_image.png",
+        "icon_image": "path_to_spetsnaz_helmet_icon.png",
+        "description": "Equip a Spetsnaz Helmet (Lv. 3). This helmet can be found in higher-tier loot zones, such as air drops or military base locations."
+      },
+      {
+        "heading": "Equip Police Vest (Lv. 1)",
+        "image": "path_to_police_vest_1_image.png",
+        "icon_image": "path_to_police_vest_1_icon.png",
+        "description": "Pick up a Police Vest (Lv. 1) for early match protection. These can be found easily in houses and small buildings."
+      },
+      {
+        "heading": "Equip Police Vest (Lv. 2)",
+        "image": "path_to_police_vest_2_image.png",
+        "icon_image": "path_to_police_vest_2_icon.png",
+        "description": "Locate a Level 2 Police Vest, which provides better protection than the Level 1 vest. Search in military areas and police stations."
+      },
+      {
+        "heading": "Equip Military Vest (Lv. 3)",
+        "image": "path_to_military_vest_3_image.png",
+        "icon_image": "path_to_military_vest_3_icon.png",
+        "description": "Equip a Level 3 Military Vest, which offers the highest protection. These vests can be found in military loot zones or air drops."
+      },
+      {
+        "heading": "Equip Backpack (Lv. 1)",
+        "image": "path_to_backpack_1_image.png",
+        "icon_image": "path_to_backpack_1_icon.png",
+        "description": "Find and equip a Level 1 Backpack. These are commonly found in most areas and are needed to start collecting more gear."
+      },
+      {
+        "heading": "Equip Backpack (Lv. 2)",
+        "image": "path_to_backpack_2_image.png",
+        "icon_image": "path_to_backpack_2_icon.png",
+        "description": "Search for a Level 2 Backpack, which increases your carrying capacity. These are commonly found in houses and warehouses."
+      },
+      {
+        "heading": "Equip Backpack (Lv. 3)",
+        "image": "path_to_backpack_3_image.png",
+        "icon_image": "path_to_backpack_3_icon.png",
+        "description": "Find a Level 3 Backpack, which provides the maximum carrying capacity. Look for these in larger buildings, military zones, or as part of air drops."
+      }
+    ]
+  },
+  {
+    "name": "Life of Fragile",
+    "image": "path_to_life_of_fragile_image.png",
+    "description": "Die in the following ways to complete the mission: Eliminated by a bullet, eliminated outside of the safe zone, drowned, fell to death, eliminated in melee range, eliminated by a throwable, eliminated by a bomb in the red zone, eliminated by a vehicle.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Fragile Survivor",
+      "titleImage": "path_to_fragile_survivor_title_image.png",
+      "extra": "A badge recognizing your survival in the most precarious situations."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Die by Bullet",
+        "image": "path_to_bullet_death_image.png",
+        "description": "To be eliminated by a bullet, simply engage in combat with enemies and let them eliminate you. Avoid healing or running away to let the enemy finish you off."
+      },
+      {
+        "heading": "Eliminate Outside the Safe Zone",
+        "image": "path_to_outside_safe_zone_image.png",
+        "description": "Stay outside the safe zone until the blue zone completely kills you. It’s best to intentionally stay behind when the safe zone shrinks and die from the zone's damage."
+      },
+      {
+        "heading": "Drowned",
+        "image": "path_to_drowned_image.png",
+        "description": "To drown, swim into the water and stay underwater until you die. You can do this in any water body within the map."
+      },
+      {
+        "heading": "Fell to Death",
+        "image": "path_to_fell_death_image.png",
+        "description": "Climb to a high location, such as a tall building or mountain, and jump off to die from falling damage. You can also attempt to fall from a vehicle for quicker results."
+      },
+      {
+        "heading": "Eliminated in Melee Range",
+        "image": "path_to_melee_range_image.png",
+        "description": "Get close to an enemy and allow them to eliminate you with a melee weapon, such as a pan or crowbar."
+      },
+      {
+        "heading": "Eliminated by Throwable",
+        "image": "path_to_throwable_death_image.png",
+        "description": "Allow an enemy to throw a grenade, molotov, or flashbang and eliminate you with one of these throwables."
+      },
+      {
+        "heading": "Eliminated by Bomb in Red Zone",
+        "image": "path_to_red_zone_bomb_image.png",
+        "description": "Stay inside a red zone during a bombing run and allow yourself to get hit by the bombs to die. Avoid moving out of the red zone intentionally."
+      },
+      {
+        "heading": "Eliminated by Vehicle",
+        "image": "path_to_vehicle_death_image.png",
+        "description": "Get run over by a vehicle, either intentionally or by letting an enemy drive into you. Stay in the path of a moving vehicle for this."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminated by a Bullet",
+        "image": "path_to_bullet_death_icon.png",
+        "icon_image": "path_to_bullet_death_icon_image.png",
+        "description": "Allow an enemy to eliminate you with a firearm."
+      },
+      {
+        "heading": "Eliminated Outside of Safe Zone",
+        "image": "path_to_outside_safe_zone_icon.png",
+        "icon_image": "path_to_outside_safe_zone_icon_image.png",
+        "description": "Die from the blue zone by staying outside the safe zone."
+      },
+      {
+        "heading": "Drowned",
+        "image": "path_to_drowned_icon.png",
+        "icon_image": "path_to_drowned_icon_image.png",
+        "description": "Swim in water until you drown. Ensure you don’t resurface before your health runs out."
+      },
+      {
+        "heading": "Fell to Death",
+        "image": "path_to_fell_death_icon.png",
+        "icon_image": "path_to_fell_death_icon_image.png",
+        "description": "Jump from a high place and die from falling damage."
+      },
+      {
+        "heading": "Eliminated in Melee Range",
+        "image": "path_to_melee_range_icon.png",
+        "icon_image": "path_to_melee_range_icon_image.png",
+        "description": "Allow an enemy to eliminate you in close combat using a melee weapon."
+      },
+      {
+        "heading": "Eliminated by Throwable",
+        "image": "path_to_throwable_death_icon.png",
+        "icon_image": "path_to_throwable_death_icon_image.png",
+        "description": "Allow an enemy to eliminate you with a throwable item, such as a grenade or molotov."
+      },
+      {
+        "heading": "Eliminated by Bomb in Red Zone",
+        "image": "path_to_red_zone_bomb_icon.png",
+        "icon_image": "path_to_red_zone_bomb_icon_image.png",
+        "description": "Die from a bomb in the red zone. Remain within the red zone until you are eliminated."
+      },
+      {
+        "heading": "Eliminated by Vehicle",
+        "image": "path_to_vehicle_death_icon.png",
+        "icon_image": "path_to_vehicle_death_icon_image.png",
+        "description": "Allow yourself to be run over by a vehicle to complete this requirement."
+      }
+    ]
+  },
+  {
+    "name": "T-800",
+    "image": "path_to_t800_image.png",
+    "description": "Achieve Terminator rank one time in Arena Mode by eliminating more enemies than any other player on your team.",
+    "points": 10,
+    "category": "matches",
+    "hardness": "High",
+    "rewards": {
+      "title": "Terminator",
+      "titleImage": "path_to_terminator_title_image.png",
+      "extra": "Exclusive Terminator badge and bragging rights"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Outperform Your Teammates",
+        "image": "path_to_outperform_teammates_image.png",
+        "description": "Focus on securing as many kills as possible while ensuring your survival. Eliminate more players than your teammates to earn the Terminator rank."
+      },
+      {
+        "heading": "Stay Aggressive and Smart",
+        "image": "path_to_aggressive_and_smart_image.png",
+        "description": "Play aggressively but intelligently. Take calculated risks to eliminate enemies while ensuring you have the best positioning for engagements."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate More Enemies than Your Teammates",
+        "image": "path_to_more_eliminations_image.png",
+        "icon_image": "path_to_more_eliminations_icon.png",
+        "description": "Achieve Terminator rank by having the most eliminations compared to your teammates in Arena Mode."
+      },
+      {
+        "heading": "Survive and Rank High",
+        "image": "path_to_survival_image.png",
+        "icon_image": "path_to_survival_icon.png",
+        "description": "Not only must you eliminate the most enemies, but you should also survive until the later stages of the match to secure the Terminator rank."
+      }
+    ]
+  },
+  {
+    "name": "Take Me With You",
+    "image": "path_to_take_me_with_you_image.png",
+    "description": "Board an enemy vehicle and stay on it for more than 10 seconds.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Freeloader",
+      "titleImage": "path_to_freeloader_title_image.png",
+      "extra": "Earn the title and a special badge for your daring ride."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Spot an Enemy Vehicle",
+        "image": "path_to_enemy_vehicle_image.png",
+        "description": "Look for enemy vehicles on the map. These can be land vehicles like cars, bikes, or boats."
+      },
+      {
+        "heading": "Board the Vehicle Stealthily",
+        "image": "path_to_stealthily_board_image.png",
+        "description": "Wait for an enemy vehicle to pass by, and then quickly hop onto the moving vehicle. You must be close enough when the vehicle slows down or stops."
+      },
+      {
+        "heading": "Survive the 10 Seconds",
+        "image": "path_to_survive_10_seconds_image.png",
+        "description": "Once on the vehicle, stay on it for at least 10 seconds without being knocked off. Be cautious of the driver trying to shake you off or getting shot at."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Board an Enemy Vehicle",
+        "image": "path_to_board_vehicle_image.png",
+        "icon_image": "path_to_board_vehicle_icon.png",
+        "description": "Find and get on an enemy vehicle for more than 10 seconds to complete the mission."
+      }
+    ]
+  },
+  {
+    "name": "Run Chicken Run",
+    "image": "path_to_run_chicken_run_image.png",
+    "description": "Complete the following tasks: walk 10000 meters, travel in a vehicle for 10000 meters, and swim for 5000 meters.",
+    "points": 10,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Marathon Runner",
+      "titleImage": "path_to_marathon_runner_title_image.png",
+      "extra": "Earn the title and a special badge for your extensive travel."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Maximize Walking Distance",
+        "image": "path_to_walking_tips_image.png",
+        "description": "Walk around in the safe zone while looting or exploring to cover a significant amount of distance. Try to avoid unnecessary combat to maximize your walking distance."
+      },
+      {
+        "heading": "Vehicle Travel",
+        "image": "path_to_vehicle_travel_image.png",
+        "description": "Use vehicles to quickly cover large distances. You can either find a car, bike, or boat, depending on the map. Stay in the vehicle for extended periods to reach the 10000-meter goal."
+      },
+      {
+        "heading": "Swim Across Water",
+        "image": "path_to_swimming_image.png",
+        "description": "When you come across bodies of water, swim to cover the required distance. Swimming across lakes, rivers, and the coastline will help you complete this part of the mission."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Walk for 10000 Meters",
+        "image": "path_to_walk_image.png",
+        "icon_image": "path_to_walk_icon.png",
+        "description": "You need to walk a total of 10000 meters during the match. Walking while looting or exploring is an efficient way to complete this task."
+      },
+      {
+        "heading": "Travel in a Vehicle for 10000 Meters",
+        "image": "path_to_vehicle_image.png",
+        "icon_image": "path_to_vehicle_icon.png",
+        "description": "Use a vehicle (car, bike, boat) and travel a total of 10000 meters. Vehicles are the fastest way to complete this requirement."
+      },
+      {
+        "heading": "Swim for 5000 Meters",
+        "image": "path_to_swim_image.png",
+        "icon_image": "path_to_swim_icon.png",
+        "description": "Swim through bodies of water to reach the 5000 meters required. Take advantage of lakes, rivers, and oceans during the match."
+      }
+    ]
+  },
+  {
+    "name": "Fire At Will",
+    "image": "path_to_run_chicken_run_image.png",
+    "description": "Equip the following weapons in a match: MI6A4, AKM, SCAR-L, M416, Win94, Kar98K, VSS, Mini14, SLR, SKS, UZI, UMP45, Vector, Thompson, SMG, S686, S1897, SI2K, DP-28, P92, P1911, R1895, P18C, R45, Crossbow, pan, sawed-off.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Weapon Master",
+      "titleImage": "path_to_weapon_master_title_image.png",
+      "extra": "Earn the title 'Weapon Master' for equipping all the listed weapons."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Maximize Weapon Collection",
+        "image": "path_to_weapon_collection_image.png",
+        "description": "Make sure to loot all the specified weapons during your match. Visit various locations to ensure you can pick up the diverse range of weapons required."
+      },
+      {
+        "heading": "Prioritize Weapon Variety",
+        "image": "path_to_weapon_variety_image.png",
+        "description": "Focus on getting a variety of weapon types, including rifles, shotguns, pistols, and SMGs, to meet the mission requirements."
+      },
+      {
+        "heading": "Use Weapons Effectively",
+        "image": "path_to_effective_weapon_use_image.png",
+        "description": "While collecting all the listed weapons, use them effectively during the match to increase your chances of survival and complete the mission."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Equip All Weapons",
+        "image": "path_to_weapon_image.png",
+        "icon_image": "path_to_weapon_icon.png",
+        "description": "Loot and equip the listed weapons during the match. Ensure that you have at least one of each weapon type in your inventory."
+      }
+    ]
+  },
+  {
+    "name": "Star Support",
+    "image": "path_to_star_support_image.png",
+    "description": "Pick up the following items in a single match: Stun Grenade, Smoke Grenade, Molotov Cocktail, Frag Grenade, Fuel Battery Pack, Energy Drink, Adrenaline Syringe, First Aid Kit, Painkillers, Bandage, and Med Kit.",
+    "points": 10,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Support Specialist",
+      "titleImage": "path_to_support_specialist_title_image.png",
+      "extra": "Earn the title 'Support Specialist' for collecting all listed healing and utility items."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Loot High-Traffic Areas",
+        "image": "path_to_high_traffic_area_image.png",
+        "description": "Loot popular areas like military bases, large towns, and supply drops where you can find a good variety of utility items like grenades and healing supplies."
+      },
+      {
+        "heading": "Prioritize Utility Items",
+        "image": "path_to_utility_items_image.png",
+        "description": "When looting, focus on collecting utility items first such as grenades and healing items to progress in the mission."
+      },
+      {
+        "heading": "Check Drops and Airdrops",
+        "image": "path_to_airdrop_image.png",
+        "description": "Air drops often contain high-quality healing items and utility supplies such as Med Kits, Adrenaline Syringes, and Frag Grenades. Keep an eye on drop locations."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Pick Up All Listed Items",
+        "image": "path_to_item_list_image.png",
+        "icon_image": "path_to_item_list_icon.png",
+        "description": "You need to collect all the following items during a match: Stun Grenade, Smoke Grenade, Molotov Cocktail, Frag Grenade, Fuel Battery Pack, Energy Drink, Adrenaline Syringe, First Aid Kit, Painkillers, Bandage, and Med Kit."
+      }
+    ]
+  },
+  {
+    "name": "Armour Expert",
+    "image": "path_to_armour_expert_image.png",
+    "description": "Pick up the following weapon attachments during a single match: Muzzle, Stock, Magazine, Foregrip, and Scope.",
+    "points": 10,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Tactical Specialist",
+      "titleImage": "path_to_tactical_specialist_title_image.png",
+      "extra": "Earn the title 'Tactical Specialist' for collecting all weapon attachments listed in one match."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Loot High-Density Areas",
+        "image": "path_to_high_density_loot_area_image.png",
+        "description": "Focus on looting areas with high weapon spawn rates such as military bases, towns, and large settlements where weapon attachments are more likely to be found."
+      },
+      {
+        "heading": "Check Weapon Attachments in Buildings",
+        "image": "path_to_weapon_attachment_image.png",
+        "description": "Weapon attachments like Muzzles, Stocks, and Scopes can often be found inside buildings and weapon crates. Always inspect the loot in weapon supply areas."
+      },
+      {
+        "heading": "Loot Every Weapon You Find",
+        "image": "path_to_weapon_loot_image.png",
+        "description": "Whenever you find a weapon, pick it up and inspect its attachments. You may find Muzzles, Stocks, or Foregrips that you need for the mission."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Pick Up Weapon Attachments",
+        "image": "path_to_attachments_image.png",
+        "icon_image": "path_to_attachment_icon.png",
+        "description": "Pick up the following attachments during a single match: Muzzle, Stock, Magazine, Foregrip, and Scope. These attachments are typically found in supply crates or high-loot zones."
+      }
+    ]
+  }
+]

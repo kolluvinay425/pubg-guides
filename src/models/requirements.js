@@ -1,50 +1,45 @@
-import mongoose from "mongoose";
+import { DataTypes } from "sequelize";
+import sequelize from "../sequalize.js";
 
-// Define a nested schema for internationalized fields
-const i18nStringSchema = new mongoose.Schema(
-  {
-    en: { type: String, required: true },
-    zh: { type: String, required: false },
-    ko: { type: String, required: false },
-    ja: { type: String, required: false },
-    es: { type: String, required: false },
-    ru: { type: String, required: false },
-    fr: { type: String, required: false },
-    de: { type: String, required: false },
-    pt: { type: String, required: false },
-    ar: { type: String, required: false },
-  },
-  { _id: false }
-);
+const i18nDefaultValue = {
+  en: "",
+  zh: "",
+  ko: "",
+  ja: "",
+  es: "",
+  ru: "",
+  fr: "",
+  de: "",
+  pt: "",
+  ar: "",
+};
 
-const requirementsSchema = new mongoose.Schema({
+const Requirement = sequelize.define("Requirement", {
   heading: {
-    type: i18nStringSchema,
-    required: true,
+    type: DataTypes.JSONB,
+    allowNull: true,
+    defaultValue: i18nDefaultValue,
   },
-  images: {
-    type: String, // Store as an array of strings
-    required: false,
+  image: {
+    type: DataTypes.STRING,
+    allowNull: true,
   },
-  icon_name: {
-    type: String,
-    required: false,
+  icon_image: {
+    type: DataTypes.STRING,
+    allowNull: true,
   },
   description: {
-    type: i18nStringSchema,
-    required: true,
+    type: DataTypes.JSONB,
+    allowNull: true,
+    defaultValue: i18nDefaultValue,
   },
   achievementId: {
-    type: mongoose.Schema.Types.ObjectId,
-    ref: "Achievement",
-    required: true,
+    type: DataTypes.INTEGER,
+    references: {
+      model: "Achievements",
+      key: "id",
+    },
   },
 });
-
-const Requirement = mongoose.model(
-  "Requirement",
-  requirementsSchema,
-  "Requirements"
-);
 
 export default Requirement;

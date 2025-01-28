@@ -1,66 +1,91 @@
-import mongoose from "mongoose";
+import { DataTypes } from "sequelize";
+import iconv from "iconv-lite";
+import sequelize from "../sequalize.js";
 
-// Define a nested schema for internationalized fields
-const i18nStringSchema = new mongoose.Schema(
-  {
-    en: { type: String, required: true },
-    zh: { type: String, required: false },
-    ko: { type: String, required: false },
-    ja: { type: String, required: false },
-    es: { type: String, required: false },
-    ru: { type: String, required: false },
-    fr: { type: String, required: false },
-    de: { type: String, required: false },
-    pt: { type: String, required: false },
-    ar: { type: String, required: false },
-  },
-  { _id: false }
-);
+const i18nDefaultValue = {
+  en: "",
+  zh: "",
+  ko: "",
+  ja: "",
+  es: "",
+  ru: "",
+  fr: "",
+  de: "",
+  pt: "",
+  ar: "",
+};
 
-const achievementSchema = new mongoose.Schema({
+// Function to validate UTF-8 encoding and sanitize input
+function validateAndSanitizeUtf8(value) {
+  if (typeof value === "object" && value !== null) {
+    for (const key in value) {
+      // Ensure that the string is properly encoded
+      if (!iconv.encodingExists("utf8")) {
+        throw new Error(`Invalid encoding for language: ${key}`);
+      }
+      // Encode and decode to ensure valid UTF-8 characters
+      const buffer = iconv.encode(value[key], "utf8");
+      const utf8String = iconv.decode(buffer, "utf8");
+      if (utf8String !== value[key]) {
+        throw new Error(`Invalid UTF-8 string detected for language: ${key}`);
+      }
+      value[key] = utf8String; // Update the value with proper UTF-8 string
+    }
+  }
+}
+
+const Achievement = sequelize.define("Achievement", {
   name: {
-    type: i18nStringSchema,
-    required: true,
+    type: DataTypes.JSON,
+    allowNull: false,
+    defaultValue: i18nDefaultValue,
+    validate: {
+      isUtf8: validateAndSanitizeUtf8,
+    },
   },
   image: {
-    type: String, // Store as String
-    required: false,
+    type: DataTypes.STRING,
+    allowNull: true,
   },
   description: {
-    type: i18nStringSchema,
-    required: true,
+    type: DataTypes.JSON,
+    allowNull: false,
+    defaultValue: i18nDefaultValue,
+    validate: {
+      isUtf8: validateAndSanitizeUtf8,
+    },
   },
   points: {
-    type: Number,
-    required: true,
+    type: DataTypes.INTEGER,
+    allowNull: false,
   },
   hardness: {
-    type: i18nStringSchema,
-    required: true,
+    type: DataTypes.JSON,
+    allowNull: false,
+    defaultValue: i18nDefaultValue,
+    validate: {
+      isUtf8: validateAndSanitizeUtf8,
+    },
   },
   rewards: {
-    title: {
-      type: i18nStringSchema,
-      required: false,
+    type: DataTypes.JSON,
+    allowNull: true,
+    defaultValue: {
+      title: i18nDefaultValue,
+      titleImage: "",
+      extra: i18nDefaultValue,
     },
-    titleImage: {
-      type: String,
-      required: false,
-    },
-    extra: {
-      type: i18nStringSchema,
-      required: false,
+    validate: {
+      isUtf8(value) {
+        validateAndSanitizeUtf8(value.title);
+        validateAndSanitizeUtf8(value.extra);
+      },
     },
   },
-  category: { type: String, required: true },
-  tipsTricks: [{ type: mongoose.Schema.Types.ObjectId, ref: "TipsTricks" }],
-  requirements: [{ type: mongoose.Schema.Types.ObjectId, ref: "Requirement" }],
+  category: {
+    type: DataTypes.STRING,
+    allowNull: false,
+  },
 });
-
-const Achievement = mongoose.model(
-  "Achievement",
-  achievementSchema,
-  "Achievements"
-);
 
 export default Achievement;

@@ -1133,5 +1133,3498 @@
         "description": "This mission is only available in Classic Mode, so make sure you're playing in that mode."
       }
     ]
+  },
+  {
+    "name": "Deathbringer II",
+    "image": "url_to_deathbringer_ii_image",
+    "description": "Eliminate 50 enemies in Classic Mode to complete the Deathbringer II mission.",
+    "points": 10,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Deathbringer II",
+      "titleImage": "url_to_deathbringer_ii_title_image",
+      "extra": "Unlock this title after eliminating 50 enemies in Classic Mode, showcasing your killer instinct."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Target High-Traffic Areas",
+        "image": "url_to_high_traffic_area_image",
+        "description": "Focus on landing in popular hotspots where a large number of enemies are likely to appear, such as Bootcamp, Military Base, or Pochinki."
+      },
+      {
+        "heading": "Use Long-Range Weapons",
+        "image": "url_to_long_range_weapons_image",
+        "description": "Utilize weapons with good accuracy and range like the M416 or Kar98K for eliminating enemies from a distance."
+      },
+      {
+        "heading": "Stick to the Safe Zone",
+        "image": "url_to_safe_zone_image",
+        "description": "Stay within the safe zone to avoid unnecessary damage, but don’t be afraid to challenge enemies in high-traffic zones."
+      },
+      {
+        "heading": "Maximize Elimination Opportunities",
+        "image": "url_to_maximize_elim_image",
+        "description": "Consider aggressive strategies to maximize eliminations. Position yourself in areas with limited exits to trap enemies."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 50 Enemies",
+        "image": "url_to_50_eliminations_image",
+        "icon_image": "url_to_50_eliminations_icon",
+        "description": "You need to eliminate 50 enemies across multiple Classic Mode matches to complete this mission."
+      },
+      {
+        "heading": "Classic Mode Only",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon",
+        "description": "This mission can only be completed in Classic Mode, so ensure you're playing in the correct mode."
+      }
+    ]
+  },
+  {
+    "name": "Deathbringer I",
+    "image": "url_to_deathbringer_i_image",
+    "description": "Eliminate 10 enemies in Classic Mode to complete the Deathbringer I mission.",
+    "points": 5,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Deathbringer I",
+      "titleImage": "url_to_deathbringer_i_title_image",
+      "extra": "Unlock this title after eliminating 10 enemies in Classic Mode, marking your early steps towards becoming a true predator."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Start with Solo or Duo Matches",
+        "image": "url_to_solo_duo_image",
+        "description": "Solo or duo matches are ideal for completing this mission as they offer more chances for direct combat and eliminations."
+      },
+      {
+        "heading": "Focus on Stealthy Eliminations",
+        "image": "url_to_stealth_eliminations_image",
+        "description": "Sneak up on your enemies to catch them off guard for easier headshots and quicker eliminations."
+      },
+      {
+        "heading": "Use Assault Rifles or SMGs",
+        "image": "url_to_assault_smg_image",
+        "description": "Assault rifles like the M416 or SMGs are great for eliminating enemies quickly with their rapid fire rates."
+      },
+      {
+        "heading": "Land in Hotspots",
+        "image": "url_to_hotspot_image",
+        "description": "Landing in high-traffic areas like Bootcamp, Military Base, or Pochinki can increase your chances of encountering enemies early in the match."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 10 Enemies",
+        "image": "url_to_10_eliminations_image",
+        "icon_image": "url_to_10_eliminations_icon",
+        "description": "You need to eliminate 10 enemies in Classic Mode to complete this mission."
+      },
+      {
+        "heading": "Classic Mode Only",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon",
+        "description": "This mission can only be completed in Classic Mode, so make sure you are playing in the correct mode."
+      }
+    ]
+  },
+  {
+    "name": "Pistol Mastery V",
+    "image": "url_to_pistol_mastery_v_image",
+    "description": "Eliminate 200 enemies using pistols in Classic Mode to complete the Pistol Mastery V mission. Showcase your skill with sidearms in PUBG Mobile.",
+    "points": 50,
+    "category": "matches",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Pistol Mastery V",
+      "titleImage": "url_to_pistol_mastery_v_title_image",
+      "extra": "Earn a special badge and title after eliminating 200 enemies with a pistol, proving you're a master of sidearms."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Use P1911 or R1895 Pistols",
+        "image": "url_to_best_pistols_image",
+        "description": "The P1911 and R1895 offer high damage output with great accuracy. Focus on using them for quicker eliminations."
+      },
+      {
+        "heading": "Aim for the Head",
+        "image": "url_to_headshot_image",
+        "description": "Pistols can be powerful when you aim for the head. Headshots will increase your elimination speed, especially in close-range encounters."
+      },
+      {
+        "heading": "Try Solo Mode for Easier Eliminations",
+        "image": "url_to_solo_mode_image",
+        "description": "If you're struggling to eliminate 200 enemies, try playing solo mode where you're more likely to encounter enemies on your own, allowing for easier eliminations."
+      },
+      {
+        "heading": "Play Unranked to Protect Your Rating",
+        "image": "url_to_unranked_mode_image",
+        "description": "If you're worried about your rating or just want to focus on getting pistol kills without the pressure of ranked matches, try playing in unranked mode. This will allow you to complete the mission without affecting your rank."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 200 Enemies with Pistol",
+        "image": "url_to_pistol_image",
+        "icon_image": "url_to_pistol_icon_image",
+        "description": "You need to eliminate 200 enemies using pistols in Classic Mode to complete the mission."
+      },
+      {
+        "heading": "Classic Mode Only",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon",
+        "description": "Ensure that you're playing in Classic Mode, as this mission is exclusive to that mode."
+      }
+    ]
+  },
+  {
+    "name": "Pistol Mastery IV",
+    "image": "url_to_pistol_mastery_iv_image",
+    "description": "Eliminate 100 enemies using pistols in Classic Mode to complete the Pistol Mastery IV mission. Show your proficiency with sidearms and dominate the battlefield.",
+    "points": 40,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Pistol Mastery IV",
+      "titleImage": "url_to_pistol_mastery_iv_title_image",
+      "extra": "Earn a badge and title after eliminating 100 enemies with a pistol, proving you're a skilled marksman with sidearms."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Focus on Close-Range Combat",
+        "image": "url_to_close_range_combat_image",
+        "description": "Pistols excel in close-range combat. Focus on engaging enemies in tight spaces or while inside buildings where you have an advantage."
+      },
+      {
+        "heading": "Use the P1911 or R1895 Pistols",
+        "image": "url_to_best_pistols_image",
+        "description": "P1911 and R1895 pistols are reliable for this mission. They deal significant damage and have good accuracy, making them ideal for eliminations."
+      },
+      {
+        "heading": "Practice Headshots",
+        "image": "url_to_headshot_practice_image",
+        "description": "Aim for headshots with pistols for faster kills. Practice in training mode to improve your aim and increase your chances of landing a headshot."
+      },
+      {
+        "heading": "Play in Solo Mode",
+        "image": "url_to_solo_mode_image",
+        "description": "Solo mode is ideal for this mission, as you're more likely to encounter enemies one-on-one, giving you an opportunity to use pistols effectively."
+      },
+      {
+        "heading": "Play Unranked to Protect Your Rating",
+        "image": "url_to_unranked_mode_image",
+        "description": "To avoid losing rank points while completing this mission, consider playing unranked mode. This lets you focus on pistol eliminations without the pressure of ranked matches."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 100 Enemies with Pistol",
+        "image": "url_to_pistol_image",
+        "icon_image": "url_to_pistol_icon_image",
+        "description": "You need to eliminate 100 enemies using pistols in Classic Mode to complete the mission."
+      },
+      {
+        "heading": "Classic Mode Only",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon",
+        "description": "This mission is exclusive to Classic Mode, so make sure to play in this mode to progress."
+      }
+    ]
+  },
+  {
+    "name": "Pistol Mastery III",
+    "image": "url_to_pistol_mastery_iii_image",
+    "description": "Eliminate 60 enemies using pistols in Classic Mode to complete the Pistol Mastery III mission. Master the sidearm and prove your precision in combat.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Pistol Mastery III",
+      "titleImage": "url_to_pistol_mastery_iii_title_image",
+      "extra": "Earn a badge and title for eliminating 60 enemies with pistols. Prove that you're a skilled marksman with sidearms."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Close-Range Combat is Key",
+        "image": "url_to_close_range_combat_image",
+        "description": "Pistols are perfect for close-range encounters. Focus on staying near buildings or tight spaces where you can ambush enemies."
+      },
+      {
+        "heading": "Opt for P1911 or R1895 Pistols",
+        "image": "url_to_best_pistols_image",
+        "description": "P1911 and R1895 are reliable pistols, dealing heavy damage per shot. Use them for their high damage output and accuracy."
+      },
+      {
+        "heading": "Master Headshots for Quick Kills",
+        "image": "url_to_headshot_practice_image",
+        "description": "Aim for headshots with pistols to quickly eliminate enemies. Practice your aim in training mode to improve your precision."
+      },
+      {
+        "heading": "Play in Solo Mode for Better Control",
+        "image": "url_to_solo_mode_image",
+        "description": "Solo mode gives you more control over encounters, allowing you to use pistols in a controlled environment with fewer distractions."
+      },
+      {
+        "heading": "Use Unranked Mode to Protect Your Rating",
+        "image": "url_to_unranked_mode_image",
+        "description": "Play unranked mode to complete this mission without risking your rank. This mode lets you focus on pistols without affecting your rating."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 60 Enemies with Pistols",
+        "image": "url_to_pistol_image",
+        "icon_image": "url_to_pistol_icon_image",
+        "description": "You need to eliminate 60 enemies using pistols in Classic Mode to complete the mission."
+      },
+      {
+        "heading": "Classic Mode Only",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon",
+        "description": "This mission can only be completed in Classic Mode. Make sure you're playing in this mode to progress."
+      }
+    ]
+  },
+  {
+    "name": "Pistol Mastery II",
+    "image": "url_to_pistol_mastery_ii_image",
+    "description": "Eliminate 30 enemies using pistols in Classic Mode to complete the Pistol Mastery II mission. Sharpen your skills and become a master of sidearms.",
+    "points": 10,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Pistol Mastery II",
+      "titleImage": "url_to_pistol_mastery_ii_title_image",
+      "extra": "Earn a badge and title for eliminating 30 enemies with pistols. Showcase your prowess in handling sidearms."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Close-Range Combat is Key",
+        "image": "url_to_close_range_combat_image",
+        "description": "Pistols are best used in close-quarters combat. Engage enemies in tight spaces where pistols excel."
+      },
+      {
+        "heading": "Use the P1911 or R1895 for High Damage",
+        "image": "url_to_best_pistols_image",
+        "description": "Opt for high-damage pistols like the P1911 or R1895. These pistols can quickly eliminate enemies with powerful shots."
+      },
+      {
+        "heading": "Aim for Headshots to Increase Efficiency",
+        "image": "url_to_headshot_practice_image",
+        "description": "Headshots deal more damage, allowing you to eliminate enemies faster. Practice your aim to make each shot count."
+      },
+      {
+        "heading": "Unranked Mode for Rating Protection",
+        "image": "url_to_unranked_mode_image",
+        "description": "Play in unranked mode to focus on the mission without risking your rank. This lets you practice your pistol skills without the pressure of competitive play."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 30 Enemies with Pistols",
+        "image": "url_to_pistol_image",
+        "icon_image": "url_to_pistol_icon_image",
+        "description": "To complete this mission, you need to eliminate 30 enemies using pistols in Classic Mode."
+      },
+      {
+        "heading": "Play in Classic Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon",
+        "description": "This mission can only be completed in Classic Mode. Make sure you're playing in this mode to progress."
+      }
+    ]
+  },
+  {
+    "name": "Pistol Mastery I",
+    "image": "url_to_pistol_mastery_ii_image",
+    "description": "Eliminate 10 enemies using pistols in Classic Mode to complete the Pistol Mastery I mission. Demonstrate your accuracy and speed with sidearms.",
+    "points": 5,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Pistol Mastery I",
+      "titleImage": "url_to_pistol_mastery_ii_title_image",
+      "extra": "Earn a special title for eliminating 10 enemies with pistols. Show off your proficiency with sidearms."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Close-Range Combat is Key",
+        "image": "url_to_close_range_combat_image",
+        "description": "Pistols are ideal for close-range engagements. Focus on tight spaces and rooms where you can surprise opponents."
+      },
+      {
+        "heading": "Choose High-Damage Pistols",
+        "image": "url_to_best_pistols_image",
+        "description": "Opt for pistols like the P1911 or R1895 for maximum damage. These weapons can quickly take down enemies."
+      },
+      {
+        "heading": "Aim for Headshots to Save Ammo",
+        "image": "url_to_headshot_practice_image",
+        "description": "Headshots provide increased damage. Try to aim for the head to efficiently eliminate enemies and conserve ammunition."
+      },
+      {
+        "heading": "Unranked Mode for Relaxed Gameplay",
+        "image": "url_to_unranked_mode_image",
+        "description": "Play in unranked mode to focus on completing the mission without worrying about your ranking in ranked matches."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 10 Enemies with Pistols",
+        "image": "url_to_pistol_image",
+        "icon_image": "url_to_pistol_icon_image",
+        "description": "You must eliminate 10 enemies using pistols in Classic Mode to complete this mission."
+      },
+      {
+        "heading": "Play in Classic Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon",
+        "description": "This mission can only be completed in Classic Mode, so make sure you're playing in that mode to progress."
+      }
+    ]
+  },
+  {
+    "name": "Melee Mastery V",
+    "image": "url_to_melee_mastery_v_image",
+    "description": "Eliminate 200 enemies using melee weapons to complete the Melee Mastery V mission. Show your dominance in close-quarters combat!",
+    "points": 50,
+    "category": "matches",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Melee Mastery V",
+      "titleImage": "url_to_melee_mastery_v_title_image",
+      "extra": "Unlock a special title and bragging rights for eliminating 200 enemies using melee weapons."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Use Melee Weapons in Close Quarters",
+        "image": "url_to_melee_weapon_use_image",
+        "description": "Melee weapons are best used in close-quarters combat. Focus on ambushing enemies in tight spaces such as buildings and narrow corridors."
+      },
+      {
+        "heading": "Choose the Right Melee Weapon",
+        "image": "url_to_best_melee_weapons_image",
+        "description": "The crowbar and machete are some of the best melee weapons for quick kills. Experiment with different melee options to find your favorite."
+      },
+      {
+        "heading": "Avoid Ranged Combat",
+        "image": "url_to_avoid_ranged_combat_image",
+        "description": "Melee weapons are ineffective at long range. Close the distance between you and your enemy for a successful elimination."
+      },
+      {
+        "heading": "Play in Smaller Maps for Easier Eliminations",
+        "image": "url_to_smaller_maps_image",
+        "description": "Smaller maps such as Vikendi and Sanhok offer more opportunities for close-range combat, making them ideal for melee eliminations."
+      },
+      {
+        "heading": "Unranked Mode for Low-Stress Gameplay",
+        "image": "url_to_unranked_mode_image",
+        "description": "Play in unranked mode to focus on completing the mission without the pressure of ranked matches."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 200 Enemies with Melee Weapons",
+        "image": "url_to_melee_weapon_image",
+        "icon_image": "url_to_melee_weapon_icon_image",
+        "description": "You must eliminate 200 enemies using melee weapons such as the crowbar, machete, or pan to complete this mission."
+      },
+      {
+        "heading": "Play in Classic Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon",
+        "description": "This mission can only be completed in Classic Mode, so make sure you're playing in that mode to progress."
+      }
+    ]
+  },
+  {
+    "name": "Melee Mastery IV",
+    "image": "url_to_melee_mastery_iv_image",
+    "description": "Eliminate 100 enemies using melee weapons to complete the Melee Mastery IV mission. Master the art of close combat!",
+    "points": 40,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Melee Mastery IV",
+      "titleImage": "url_to_melee_mastery_iv_title_image",
+      "extra": "Unlock a special title for eliminating 100 enemies with melee weapons."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Use Melee Weapons in Close Quarters",
+        "image": "url_to_melee_weapon_use_image",
+        "description": "Melee weapons excel in close-quarters combat. Utilize tight spaces to ambush enemies and get easy kills."
+      },
+      {
+        "heading": "Optimal Melee Weapon Choices",
+        "image": "url_to_best_melee_weapons_image",
+        "description": "Weapons like the crowbar, machete, and pan are highly effective in combat. Experiment with these to find your preferred option."
+      },
+      {
+        "heading": "Aim for Stealth and Surprise Attacks",
+        "image": "url_to_stealth_attack_image",
+        "description": "Approach enemies from behind or in cover to strike swiftly. Use stealth to avoid detection and maximize your chances of success."
+      },
+      {
+        "heading": "Smaller Maps for Easier Eliminations",
+        "image": "url_to_smaller_maps_image",
+        "description": "Maps like Sanhok and Vikendi offer more opportunities for close-range combat, making them ideal for melee eliminations."
+      },
+      {
+        "heading": "Play Unranked for Stress-Free Progression",
+        "image": "url_to_unranked_mode_image",
+        "description": "Focus on completing this mission in unranked matches, where there's less pressure compared to ranked games."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 100 Enemies with Melee Weapons",
+        "image": "url_to_melee_weapon_image",
+        "icon_image": "url_to_melee_weapon_icon_image",
+        "description": "You need to eliminate 100 enemies using melee weapons like the crowbar, machete, or pan to complete this mission."
+      },
+      {
+        "heading": "Play in Classic Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon",
+        "description": "This mission can only be completed in Classic Mode, so make sure you're playing in that mode to progress."
+      }
+    ]
+  },
+  {
+    "name": "Melee Mastery III",
+    "image": "url_to_melee_mastery_iii_image",
+    "description": "Eliminate 60 enemies using melee weapons to complete the Melee Mastery III mission. Master the art of close-quarters combat!",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Melee Mastery III",
+      "titleImage": "url_to_melee_mastery_iii_title_image",
+      "extra": "Unlock a special title for eliminating 60 enemies with melee weapons."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Use Melee Weapons in Close Quarters",
+        "image": "url_to_melee_weapon_use_image",
+        "description": "Melee weapons excel in close-quarters combat. Utilize tight spaces to ambush enemies and get easy kills."
+      },
+      {
+        "heading": "Best Melee Weapon Choices",
+        "image": "url_to_best_melee_weapons_image",
+        "description": "Weapons like the crowbar, machete, and pan are highly effective in combat. Experiment with these to find your preferred option."
+      },
+      {
+        "heading": "Approach Stealthily for Better Results",
+        "image": "url_to_stealth_attack_image",
+        "description": "Sneak up behind enemies for a swift melee kill. Stealth will give you the element of surprise, increasing your chances of success."
+      },
+      {
+        "heading": "Use Smaller Maps for Easier Eliminations",
+        "image": "url_to_smaller_maps_image",
+        "description": "Maps like Sanhok and Vikendi offer more opportunities for close-range combat, making them ideal for melee eliminations."
+      },
+      {
+        "heading": "Consider Playing Unranked for Progression",
+        "image": "url_to_unranked_mode_image",
+        "description": "If you want to focus on completing the mission without ranking stress, try playing unranked matches."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 60 Enemies with Melee Weapons",
+        "image": "url_to_melee_weapon_image",
+        "icon_image": "url_to_melee_weapon_icon_image",
+        "description": "You need to eliminate 60 enemies using melee weapons like the crowbar, machete, or pan to complete this mission."
+      },
+      {
+        "heading": "Play in Classic Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon",
+        "description": "This mission can only be completed in Classic Mode, so make sure you're playing in that mode to progress."
+      }
+    ]
+  },
+  {
+    "name": "Melee Mastery II",
+    "image": "url_to_melee_mastery_ii_image",
+    "description": "Eliminate 30 enemies using melee weapons to complete the Melee Mastery II mission. Perfect your close-range combat skills!",
+    "points": 10,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Melee Mastery II",
+      "titleImage": "url_to_melee_mastery_ii_title_image",
+      "extra": "Unlock a special title for eliminating 30 enemies with melee weapons."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Choose the Right Melee Weapon",
+        "image": "url_to_best_melee_weapon_image",
+        "description": "Weapons like the crowbar, machete, and pan are great choices for melee eliminations. Each has its strengths, so try them all!"
+      },
+      {
+        "heading": "Utilize Close-Quarter Environments",
+        "image": "url_to_close_quarter_battle_image",
+        "description": "Fight in areas with limited space, like buildings and tight alleys, to increase your chances of getting close enough to land a melee kill."
+      },
+      {
+        "heading": "Use Stealth to Your Advantage",
+        "image": "url_to_stealth_attack_image",
+        "description": "Approach enemies silently and ambush them for easier melee kills. Sneak attacks from behind are the most effective."
+      },
+      {
+        "heading": "Smaller Maps Are Perfect for Melee Combat",
+        "image": "url_to_sanhok_map_image",
+        "description": "Maps like Sanhok and Vikendi offer more chances for close-range combat, making them ideal for melee eliminations."
+      },
+      {
+        "heading": "Consider Playing Unranked Matches",
+        "image": "url_to_unranked_mode_image",
+        "description": "If you're focused on completing the mission, try unranked matches to avoid the pressure of ranking progression."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 30 Enemies with Melee Weapons",
+        "image": "url_to_melee_weapon_image",
+        "icon_image": "url_to_melee_weapon_icon_image",
+        "description": "To complete this mission, eliminate 30 enemies using melee weapons like the crowbar, machete, or pan."
+      },
+      {
+        "heading": "Play in Classic Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon",
+        "description": "This mission can only be completed in Classic Mode, so ensure you're playing in that mode for progress."
+      }
+    ]
+  },
+  {
+    "name": "Melee Mastery I",
+    "image": "url_to_melee_mastery_i_image",
+    "description": "Eliminate 10 enemies using melee weapons to complete the Melee Mastery I mission. A true test of close-combat skill!",
+    "points": 5,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Melee Mastery I",
+      "titleImage": "url_to_melee_mastery_i_title_image",
+      "extra": "Earn a special title for eliminating 10 enemies with melee weapons."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Pick the Right Melee Weapon",
+        "image": "url_to_best_melee_weapon_image",
+        "description": "The crowbar, pan, and machete are all great choices for melee combat. These weapons have high damage and are easy to use."
+      },
+      {
+        "heading": "Look for Close-Range Encounters",
+        "image": "url_to_close_combat_image",
+        "description": "Melee weapons are best in tight spaces, so fight in buildings, forests, or narrow alleys where you can easily get close to enemies."
+      },
+      {
+        "heading": "Play in Smaller Maps",
+        "image": "url_to_sanhok_map_image",
+        "description": "Smaller maps like Sanhok and Vikendi are perfect for melee eliminations because they offer more close-range combat opportunities."
+      },
+      {
+        "heading": "Use Stealth to Get Close",
+        "image": "url_to_stealth_attack_image",
+        "description": "Approach enemies silently and land the first blow. Stealthy attacks will help you get close without being noticed."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 10 Enemies with Melee Weapons",
+        "image": "url_to_melee_weapon_image",
+        "icon_image": "url_to_melee_weapon_icon_image",
+        "description": "Complete the mission by eliminating 10 enemies using melee weapons like the crowbar, pan, or machete."
+      },
+      {
+        "heading": "Play in Classic Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon",
+        "description": "You must complete this mission in Classic Mode to count the eliminations."
+      }
+    ]
+  },
+  {
+    "name": "SMG Mastery V",
+    "image": "url_to_smg_mastery_v_image",
+    "description": "Eliminate 2000 enemies using SMG weapons to complete the SMG Mastery V mission. Prove you're the master of rapid-fire combat!",
+    "points": 50,
+    "category": "matches",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "SMG Master",
+      "titleImage": "url_to_smg_mastery_v_title_image",
+      "extra": "Earn the title 'SMG Master' and a special reward for eliminating 2000 enemies with SMGs."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Use High-RoF SMGs",
+        "image": "url_to_high_rof_smg_image",
+        "description": "SMGs like the UMP45, Vector, and Tommy Gun have high rates of fire, making them ideal for eliminating enemies quickly in close-to-mid range."
+      },
+      {
+        "heading": "Stay Mobile and Aggressive",
+        "image": "url_to_aggressive_play_image",
+        "description": "Use your SMG's mobility to stay aggressive in fights. Move fast and keep pressure on enemies in close-range combat."
+      },
+      {
+        "heading": "Engage in Close Quarters Combat",
+        "image": "url_to_close_combat_image",
+        "description": "SMGs excel in close-range combat, so look for opportunities to fight indoors or in tight spaces like buildings or forests."
+      },
+      {
+        "heading": "Aim for the Head",
+        "image": "url_to_headshot_tips_image",
+        "description": "SMGs are effective at spraying bullets, but landing headshots will increase your elimination speed and efficiency."
+      },
+      {
+        "heading": "Pick the Right SMG",
+        "image": "url_to_best_smg_image",
+        "description": "Choose the right SMG based on your playstyle. The Vector offers fast firing but low damage, while the UMP45 has better range and damage."
+      },
+      {
+        "heading": "Play Unranked to Protect Your Rating",
+        "image": "url_to_unranked_mode_image",
+        "description": "If you're concerned about your rank or rating, play in Unranked Mode to complete this mission. Eliminations in Unranked do not affect your rating, allowing you to practice without consequences."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 2000 Enemies with SMGs",
+        "image": "url_to_smg_weapon_image",
+        "icon_image": "url_to_smg_icon_image",
+        "description": "Complete the mission by eliminating 2000 enemies using SMG weapons like UMP45, Vector, or Tommy Gun."
+      },
+      {
+        "heading": "Play in Classic Mode or Unranked Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon",
+        "description": "You must complete this mission in Classic Mode or Unranked Mode to count the eliminations."
+      }
+    ]
+  },
+  {
+    "name": "SMG Mastery IV",
+    "image": "url_to_smg_mastery_iv_image",
+    "description": "Eliminate 500 enemies using SMGs to complete the SMG Mastery IV mission. Show off your skills with rapid-fire weapons!",
+    "points": 40,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "SMG Specialist",
+      "titleImage": "url_to_smg_mastery_iv_title_image",
+      "extra": "Earn the title 'SMG Specialist' and an exclusive reward for eliminating 500 enemies with SMGs."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Utilize High-Rate of Fire SMGs",
+        "image": "url_to_high_rof_smg_image",
+        "description": "SMGs like the Vector, UMP45, and Tommy Gun have great fire rates and are perfect for close-to-mid-range combat. Use them to quickly eliminate enemies."
+      },
+      {
+        "heading": "Keep Moving for Advantage",
+        "image": "url_to_aggressive_play_image",
+        "description": "Stay aggressive and keep moving to maintain an upper hand. SMGs excel when you're up close and moving, so engage enemies in tight spaces."
+      },
+      {
+        "heading": "Use SMGs in Buildings or Close-Quarter Combat",
+        "image": "url_to_building_combat_image",
+        "description": "SMGs are ideal for indoor or close-range combat. Look for opportunities to engage in areas like buildings, warehouses, or close-quarter areas."
+      },
+      {
+        "heading": "Aim for the Head",
+        "image": "url_to_headshot_tips_image",
+        "description": "Make every shot count by aiming for the head, especially in close-range encounters. SMGs may have rapid fire, but headshots make the difference in securing eliminations faster."
+      },
+      {
+        "heading": "Choose the Right SMG for Your Playstyle",
+        "image": "url_to_best_smg_image",
+        "description": "Pick your SMG based on your preferences. The Vector has a great fire rate, while the UMP45 offers better damage. The Tommy Gun provides a balanced approach with great versatility."
+      },
+      {
+        "heading": "Play Unranked for Rating Protection",
+        "image": "url_to_unranked_mode_image",
+        "description": "To protect your ranking and ratings, play in Unranked Mode while completing this mission. This way, eliminations don't affect your ratings while you focus on mastering SMGs."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 500 Enemies with SMGs",
+        "image": "url_to_smg_weapon_image",
+        "icon_image": "url_to_smg_icon_image",
+        "description": "Eliminate 500 enemies using SMG weapons like UMP45, Vector, or Tommy Gun."
+      },
+      {
+        "heading": "Play in Classic or Unranked Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon",
+        "description": "Complete this mission in Classic or Unranked mode to count towards the progress of eliminations."
+      }
+    ]
+  },
+  {
+    "name": "SMG Mastery III",
+    "image": "url_to_smg_mastery_iii_image",
+    "description": "Eliminate 150 enemies using SMGs to complete the SMG Mastery III mission. Master close-range combat with rapid-fire weapons!",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "SMG Expert",
+      "titleImage": "url_to_smg_mastery_iii_title_image",
+      "extra": "Earn the title 'SMG Expert' and an exclusive reward for eliminating 150 enemies with SMGs."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Choose the Right SMG for Your Playstyle",
+        "image": "url_to_best_smg_image",
+        "description": "Pick your SMG based on your preferences. The UMP45 is great for consistent damage, while the Vector offers a higher rate of fire for quick eliminations."
+      },
+      {
+        "heading": "SMGs Shine in Close-Range Combat",
+        "image": "url_to_smg_combat_image",
+        "description": "SMGs are designed for close-range fights. Use them when engaging enemies in buildings, warehouses, or tight spaces where rapid fire is crucial."
+      },
+      {
+        "heading": "Aim for the Head for Quick Kills",
+        "image": "url_to_headshot_tips_image",
+        "description": "SMGs fire rapidly, making it easier to hit the head. Aim for headshots to reduce the number of shots needed to eliminate enemies."
+      },
+      {
+        "heading": "Play in Unranked Mode to Protect Your Rating",
+        "image": "url_to_unranked_mode_image",
+        "description": "Play in Unranked Mode to focus on eliminations with SMGs without affecting your ranking or rating. This mode allows you to improve your skills while protecting your stats."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 150 Enemies with SMGs",
+        "image": "url_to_smg_weapon_image",
+        "icon_image": "url_to_smg_icon_image",
+        "description": "Eliminate 150 enemies using SMG weapons such as UMP45, Vector, or Tommy Gun."
+      },
+      {
+        "heading": "Play in Classic or Unranked Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon",
+        "description": "Complete this mission in Classic or Unranked mode to track your eliminations."
+      }
+    ]
+  },
+  {
+    "name": "SMG Mastery II",
+    "image": "url_to_smg_mastery_ii_image",
+    "description": "Eliminate 50 enemies using SMGs to complete the SMG Mastery II mission. Perfect your close-range combat skills and rack up eliminations!",
+    "points": 10,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "SMG Specialist",
+      "titleImage": "url_to_smg_mastery_ii_title_image",
+      "extra": "Earn the title 'SMG Specialist' and a reward for eliminating 50 enemies with SMGs."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Pick the Right SMG for the Situation",
+        "image": "url_to_best_smg_image",
+        "description": "Consider using the UMP45 or Vector. The UMP45 offers great accuracy and damage, while the Vector can quickly eliminate enemies with its fast fire rate."
+      },
+      {
+        "heading": "Close-Range is Your Playground",
+        "image": "url_to_close_range_combat_image",
+        "description": "SMGs excel in close-range combat. Engage enemies in tight spaces such as buildings or areas with lots of cover."
+      },
+      {
+        "heading": "Headshots Speed Up Eliminations",
+        "image": "url_to_headshot_image",
+        "description": "SMGs allow you to rapidly fire, making headshots easier to hit. Focus on aiming for the head to quickly down enemies."
+      },
+      {
+        "heading": "Play in Unranked Mode for Rating Protection",
+        "image": "url_to_unranked_mode_image",
+        "description": "To focus on eliminations with SMGs without worrying about your rank, play in Unranked Mode. This lets you improve without risking your rating."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 50 Enemies with SMGs",
+        "image": "url_to_smg_weapon_image",
+        "icon_image": "url_to_smg_icon_image",
+        "description": "Use SMGs like UMP45, Vector, or Tommy Gun to eliminate 50 enemies."
+      },
+      {
+        "heading": "Play in Classic or Unranked Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon",
+        "description": "Complete this mission in Classic or Unranked mode to track your eliminations."
+      }
+    ]
+  },
+  {
+    "name": "SMG Mastery I",
+    "image": "url_to_smg_mastery_i_image",
+    "description": "Eliminate 10 enemies using SMGs to complete the SMG Mastery I mission. Start mastering SMG combat and prepare for higher levels of mastery.",
+    "points": 5,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "SMG Novice",
+      "titleImage": "url_to_smg_mastery_i_title_image",
+      "extra": "Earn the title 'SMG Novice' and a reward for eliminating 10 enemies with SMGs."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Best SMGs for Beginners",
+        "image": "url_to_best_smg_image",
+        "description": "Start with the UMP45 or Vector. These SMGs offer good stability and damage, perfect for beginners."
+      },
+      {
+        "heading": "Aim for the Head",
+        "image": "url_to_headshot_image",
+        "description": "While SMGs are great for quick sprays, try to aim for the head to eliminate enemies faster."
+      },
+      {
+        "heading": "Use SMGs in Close-Range Combat",
+        "image": "url_to_close_range_combat_image",
+        "description": "SMGs shine in tight spaces. Use them in buildings, warehouses, or other areas with limited cover."
+      },
+      {
+        "heading": "Play in Unranked Mode for Protection",
+        "image": "url_to_unranked_mode_image",
+        "description": "Play in Unranked Mode to focus on completing this mission without affecting your rank."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 10 Enemies with SMGs",
+        "image": "url_to_smg_weapon_image",
+        "icon_image": "url_to_smg_icon_image",
+        "description": "Use SMGs like the UMP45, Vector, or Tommy Gun to eliminate 10 enemies."
+      },
+      {
+        "heading": "Play in Classic or Unranked Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon",
+        "description": "You can complete this mission in Classic or Unranked mode to track your eliminations."
+      }
+    ]
+  },
+  {
+    "name": "Shotgun Mastery V",
+    "image": "url_to_shotgun_mastery_v_image",
+    "description": "Eliminate 1000 enemies using shotguns to complete the Shotgun Mastery V mission. Show your dominance with close-range power and master the art of the shotgun.",
+    "points": 50,
+    "category": "matches",
+    "hardness": "Very Hard",
+    "rewards": {
+      "title": "Shotgun King",
+      "titleImage": "url_to_shotgun_mastery_v_title_image",
+      "extra": "Earn the title 'Shotgun King' and a special reward for eliminating 1000 enemies with shotguns."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Aim for the Upper Body",
+        "image": "url_to_aiming_image",
+        "description": "Shotguns deal massive damage at close range. Aim for the upper body for better damage output and quicker eliminations."
+      },
+      {
+        "heading": "Use in Close Quarters",
+        "image": "url_to_close_quarters_combat_image",
+        "description": "Shotguns are most effective in close quarters combat. Use them in buildings, corridors, or any environment where you're engaging enemies up close."
+      },
+      {
+        "heading": "Play in Unranked Mode for Protection",
+        "image": "url_to_unranked_mode_image",
+        "description": "Playing in Unranked Mode ensures you can focus on completing this mission without worrying about your rank being affected."
+      },
+      {
+        "heading": "Use the Jump-and-Shoot Technique",
+        "image": "url_to_jump_shoot_image",
+        "description": "Jumping while firing with a shotgun helps you avoid taking damage from enemies, especially in fast-paced close-quarter combat."
+      },
+
+      {
+        "heading": "Upgrade Your Shotgun",
+        "image": "url_to_upgrade_image",
+        "description": "Use upgrades like the choke or the bullet loops to improve your shotgun’s range and reload speed, maximizing your effectiveness."
+      },
+      {
+        "heading": "Avoid Long Ranges",
+        "image": "url_to_long_range_avoidance_image",
+        "description": "Shotguns are not effective at long range. Stick to close-quarter combat to ensure a higher kill rate and better efficiency."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 1000 Enemies with Shotguns",
+        "image": "url_to_shotgun_image",
+        "icon_image": "url_to_shotgun_icon_image",
+        "description": "Use powerful shotguns like the S12K, DBSS, and Sawed-off to eliminate 1000 enemies in matches."
+      },
+      {
+        "heading": "Play in Classic or Unranked Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon",
+        "description": "You can complete this mission in Classic or Unranked mode to track your shotgun eliminations."
+      }
+    ]
+  },
+  {
+    "name": "Shotgun Mastery IV",
+    "image": "url_to_shotgun_mastery_iv_image",
+    "description": "Eliminate 300 enemies using shotguns to complete the Shotgun Mastery IV mission. Improve your close-quarters combat skills and dominate with the shotgun.",
+    "points": 30,
+    "category": "matches",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Shotgun Specialist",
+      "titleImage": "url_to_shotgun_mastery_iv_title_image",
+      "extra": "Earn the title 'Shotgun Specialist' and an exclusive reward for eliminating 300 enemies with shotguns."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Shotgun Selection for Quick Eliminations",
+        "image": "url_to_best_shotgun_image",
+        "description": "Use the S12K, DBSS, and Sawed-off shotguns for quick eliminations in close-quarters combat. These shotguns offer fast reload times and high damage at short range."
+      },
+      {
+        "heading": "Engage in Close Quarters Combat",
+        "image": "url_to_close_quarters_combat_image",
+        "description": "Shotguns are best used in tight spaces, such as buildings, narrow corridors, or around corners. Focus on fighting in these areas to maximize your shotgun eliminations."
+      },
+      {
+        "heading": "Use the Jump-and-Shoot Technique",
+        "image": "url_to_jump_shoot_image",
+        "description": "When using shotguns, jumping while shooting can help you avoid enemy fire and catch them off guard. It’s an effective strategy to keep moving while fighting."
+      },
+      {
+        "heading": "Protect Your Rating in Unranked Mode",
+        "image": "url_to_unranked_mode_image",
+        "description": "If you're concerned about your ranking, playing in unranked mode can help you focus on the mission without affecting your ratings."
+      },
+
+      {
+        "heading": "Upgrade Your Shotgun with Attachments",
+        "image": "url_to_upgrade_image",
+        "description": "Attachments like the choke and bullet loops can improve your shotgun’s accuracy, range, and reload speed. Be sure to upgrade for better results."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 300 Enemies with Shotguns",
+        "image": "url_to_shotgun_image",
+        "icon_image": "url_to_shotgun_icon_image",
+        "description": "Use shotguns like the S12K, DBSS, and Sawed-off to eliminate 300 enemies in matches."
+      },
+      {
+        "heading": "Play in Classic or Unranked Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon",
+        "description": "You can complete this mission in Classic or Unranked mode to track your shotgun eliminations."
+      }
+    ]
+  },
+  {
+    "name": "Shotgun Mastery III",
+    "image": "url_to_shotgun_mastery_iii_image",
+    "description": "Eliminate 100 enemies using shotguns to complete the Shotgun Mastery III mission. Master the art of close-range combat and dominate with shotguns.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Shotgun Expert",
+      "titleImage": "url_to_shotgun_mastery_iii_title_image",
+      "extra": "Earn the title 'Shotgun Expert' after eliminating 100 enemies with shotguns and receive an exclusive reward."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Perfect Shotgun Choice for Close Quarters",
+        "image": "url_to_best_shotgun_image",
+        "description": "Use the **S12K**, **DBSS**, or **Sawed-off shotguns** for quick eliminations. These shotguns are perfect for close-range combat with rapid firing speed."
+      },
+      {
+        "heading": "Stick to Close Combat Areas",
+        "image": "url_to_close_combat_areas_image",
+        "description": "Shotguns are deadly in close-quarters combat. Play in smaller zones or urban areas like buildings, warehouses, and tight alleys where enemies are forced into close encounters."
+      },
+
+      {
+        "heading": "Unranked Mode for Rating Protection",
+        "image": "url_to_unranked_mode_image",
+        "description": "To focus on this mission without worrying about ranking, play in **Unranked Mode**. This allows you to practice and complete the mission without affecting your rating."
+      },
+      {
+        "heading": "Upgrade Shotgun with Attachments",
+        "image": "url_to_attachment_upgrades_image",
+        "description": "Equip your shotgun with attachments like **choke**, **bullet loops**, and **tactical stock** for better performance. These upgrades will increase accuracy, reload speed, and reduce spread."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 100 Enemies with Shotguns",
+        "image": "url_to_shotgun_image",
+        "icon_image": "url_to_shotgun_icon_image",
+        "description": "Use shotguns like the **S12K**, **DBSS**, or **Sawed-off** to eliminate 100 enemies in matches. Shotguns are ideal for close combat, so stay in tight spaces."
+      },
+      {
+        "heading": "Play in Classic or Unranked Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon_image",
+        "description": "This mission can be completed in **Classic Mode** or **Unranked Mode**. Focus on eliminating enemies with your shotgun to meet the requirement."
+      }
+    ]
+  },
+  {
+    "name": "Shotgun Mastery II",
+    "image": "url_to_shotgun_mastery_ii_image",
+    "description": "Eliminate 30 enemies using shotguns to complete the Shotgun Mastery II mission. Focus on close-range combat and make every shot count.",
+    "points": 10,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Shotgun Specialist",
+      "titleImage": "url_to_shotgun_mastery_ii_title_image",
+      "extra": "Earn the title 'Shotgun Specialist' after eliminating 30 enemies with shotguns."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Pick the Right Shotgun",
+        "image": "url_to_best_shotgun_image",
+        "description": "For close-range combat, the **S12K** and **DBSS** are great choices due to their rapid fire rate and accuracy. Use them to clear tight areas and take enemies by surprise."
+      },
+      {
+        "heading": "Stay in Close-Quarters Combat",
+        "image": "url_to_close_combat_area_image",
+        "description": "Shotguns are most effective at short ranges. Try to land in areas like **Bootcamp** or **Pochinki**, where enemies are more likely to be in confined spaces, making them easier targets for your shotgun."
+      },
+      {
+        "heading": "Utilize Jump-and-Shoot Strategy",
+        "image": "url_to_jump_and_shoot_image",
+        "description": "Use the jump-and-shoot technique to make yourself harder to hit while engaging enemies. Jumping will throw off their aim while you land shots with your shotgun."
+      },
+      {
+        "heading": "Equip the Best Attachments",
+        "image": "url_to_best_shotgun_attachments_image",
+        "description": "To increase your shotgun’s efficiency, use attachments like **choke** for tighter pellet spread and **bullet loops** for faster reloads. These can help you eliminate enemies more quickly and accurately."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 30 Enemies with Shotguns",
+        "image": "url_to_shotgun_image",
+        "icon_image": "url_to_shotgun_icon_image",
+        "description": "Use shotguns to eliminate 30 enemies in matches. These weapons are ideal for short-range, high-damage combat."
+      },
+      {
+        "heading": "Play in Classic or Unranked Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon_image",
+        "description": "This mission can be completed in **Classic Mode** or **Unranked Mode**, so you can practice without worrying about your ranking."
+      }
+    ]
+  },
+  {
+    "name": "Shotgun Mastery I",
+    "image": "url_to_shotgun_mastery_i_image",
+    "description": "Eliminate 10 enemies using shotguns to complete the Shotgun Mastery I mission. Master the art of close-quarters combat to achieve this goal.",
+    "points": 5,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Shotgun Novice",
+      "titleImage": "url_to_shotgun_mastery_i_title_image",
+      "extra": "Earn the title 'Shotgun Novice' after eliminating 10 enemies with shotguns."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Perfect Your Close-Range Skills",
+        "image": "url_to_close_range_combat_image",
+        "description": "Shotguns are best used in close-range combat. Land in areas with high enemy density, such as **Bootcamp** or **Pochinki**, where enemies will be within shotgun range."
+      },
+      {
+        "heading": "Quick Reloading is Key",
+        "image": "url_to_quick_reload_image",
+        "description": "Shotguns often require quick reloads. Use **bullet loops** as an attachment to reduce reload time and ensure you can continue your fight without delay."
+      },
+      {
+        "heading": "Engage Enemies in Small Spaces",
+        "image": "url_to_small_space_combat_image",
+        "description": "In small buildings or rooms, shotguns excel at clearing enemies quickly. Take advantage of these environments where enemies are less likely to escape your shotgun blasts."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 10 Enemies with Shotguns",
+        "image": "url_to_shotgun_image",
+        "icon_image": "url_to_shotgun_icon_image",
+        "description": "Use shotguns to eliminate 10 enemies in matches. Aim for close-range engagements where shotguns deal the most damage."
+      },
+      {
+        "heading": "Play in Classic or Unranked Mode",
+        "image": "url_to_classic_mode_image",
+        "icon_image": "url_to_classic_mode_icon_image",
+        "description": "You can complete this mission in **Classic Mode** or **Unranked Mode**. Unranked Mode is great for practicing without worrying about your ranking."
+      }
+    ]
+  },
+  {
+    "name": "Sniper Mastery V",
+    "image": "",
+    "description": "Eliminate 1000 enemies with a sniper rifle to master sniper gameplay. Aim for headshots and use long-range scopes for optimal performance.",
+    "points": 50,
+    "category": "matches",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Sniper Specialist",
+      "titleImage": "",
+      "extra": "Exclusive Sniper-themed items"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Choose the Right Sniper Rifle",
+        "image": "",
+        "description": "Use rifles like Kar98k, M24, or AWM for best damage. AWM is especially useful for one-shot kills at long range."
+      },
+      {
+        "heading": "Aim for the Head",
+        "image": "",
+        "description": "Headshots are key for fast eliminations. The AWM and Kar98k are great for one-hit kills with a headshot."
+      },
+      {
+        "heading": "Strategic Positioning",
+        "image": "",
+        "description": "Use high ground to gain visibility and stay hidden after taking shots. Move locations to avoid enemy detection."
+      },
+      {
+        "heading": "Use High-Range Scopes",
+        "image": "",
+        "description": "Equip 4x, 8x, or 15x scopes for maximum precision. The higher the scope, the better your long-range targeting will be."
+      },
+      {
+        "heading": "Use Crouch or Prone Position",
+        "image": "",
+        "description": "When firing at long distances, crouch or go prone to improve accuracy and make it harder for enemies to detect your position."
+      },
+      {
+        "heading": "Track Enemy Movement",
+        "image": "",
+        "description": "Watch the enemy’s movements carefully and anticipate their next steps. Patience is key when sniping, so don’t rush your shots."
+      },
+      {
+        "heading": "Play in Unranked Mode (Optional for Rating Protection)",
+        "image": "",
+        "description": "If you're looking to practice without affecting your rank, play in Unranked Mode. This way, you can focus purely on getting sniper eliminations without worrying about your rating."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 1000 Enemies with Sniper Rifle",
+        "image": "",
+        "icon_image": "",
+        "description": "To complete this mission, you must eliminate 1000 enemies using a sniper rifle. Focus on long-range combat for better accuracy."
+      },
+      {
+        "heading": "Use Sniper Rifle in Ranked Matches",
+        "image": "",
+        "icon_image": "",
+        "description": "For faster progress, play in ranked matches where enemies are more likely to be in open spaces for longer shots."
+      },
+      {
+        "heading": "Headshot Elimination",
+        "image": "",
+        "icon_image": "",
+        "description": "Aiming for headshots will speed up your elimination count. Try to land those perfect shots for easier kills."
+      },
+      {
+        "heading": "Long-Range Engagement",
+        "image": "",
+        "icon_image": "",
+        "description": "Use sniper rifles to engage enemies at long ranges where their movement is more predictable and easier to eliminate."
+      }
+    ]
+  },
+  {
+    "name": "Sniper Mastery IV",
+    "image": "",
+    "description": "Eliminate 300 enemies with a sniper rifle to perfect your sniping skills. Use high-velocity sniper rifles and aim for headshots to maximize efficiency.",
+    "points": 40,
+    "category": "matches",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Sniper Marksman",
+      "titleImage": "",
+      "extra": "Exclusive sniper-themed skins"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Perfect Your Aiming",
+        "image": "",
+        "description": "Aim for the head with sniper rifles like Kar98k or M24 for one-hit kills, maximizing your eliminations."
+      },
+      {
+        "heading": "Use the Environment to Your Advantage",
+        "image": "",
+        "description": "Take advantage of high vantage points or secluded areas to set up shots. Use natural cover to avoid enemy detection."
+      },
+      {
+        "heading": "Master the Bullet Drop",
+        "image": "",
+        "description": "Practice adjusting for bullet drop over long distances. Snipers like the AWM require you to account for this at extreme ranges."
+      },
+      {
+        "heading": "Take Shots from a Distance",
+        "image": "",
+        "description": "Use your sniper rifle for long-range eliminations. Staying out of enemy sightlines while engaging from distance will help you secure kills."
+      },
+      {
+        "heading": "Patience and Timing",
+        "image": "",
+        "description": "Sniping requires patience. Wait for the perfect moment, track enemy movements, and don’t rush your shots."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 300 Enemies with Sniper Rifle",
+        "image": "",
+        "icon_image": "",
+        "description": "To complete this mission, you need to eliminate 300 enemies using a sniper rifle. Focus on headshots for efficient kills."
+      },
+      {
+        "heading": "Utilize Long-Range Engagements",
+        "image": "",
+        "icon_image": "",
+        "description": "Use sniper rifles primarily for long-range eliminations. Your goal is to maintain distance from the enemy while eliminating them."
+      },
+      {
+        "heading": "Aim for Headshots",
+        "image": "",
+        "icon_image": "",
+        "description": "Headshots guarantee faster kills. Aim precisely to take out enemies with a single shot."
+      }
+    ]
+  },
+  {
+    "name": "Sniper Mastery III",
+    "image": "",
+    "description": "Eliminate 100 enemies using sniper rifles to enhance your sharpshooting skills. Focus on long-range engagements and perfecting your aim.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Sharpshooter",
+      "titleImage": "",
+      "extra": "Exclusive sniper weapon skins"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Aim for Headshots",
+        "image": "",
+        "description": "Maximize your sniper kills by aiming for the head. Snipers like the Kar98k or M24 offer one-hit headshot kills at long range."
+      },
+      {
+        "heading": "Use High Ground for Better Visibility",
+        "image": "",
+        "description": "Position yourself on elevated terrain for better sightlines. This will give you a clear view of enemy movements, making it easier to land successful shots."
+      },
+      {
+        "heading": "Practice Bullet Drop Compensation",
+        "image": "",
+        "description": "Master bullet drop by practicing long-range shots. Adjust your aim higher to account for the drop over long distances, especially with the AWM or M24."
+      },
+      {
+        "heading": "Take Your Time",
+        "image": "",
+        "description": "Patience is key in sniping. Don't rush your shots. Take time to line up the perfect shot for accuracy and higher chances of a kill."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 100 Enemies with Sniper Rifle",
+        "image": "",
+        "icon_image": "",
+        "description": "To complete this mission, you need to eliminate 100 enemies with a sniper rifle. Be strategic and take your time to secure clean shots."
+      },
+      {
+        "heading": "Utilize Long-Range Combat",
+        "image": "",
+        "icon_image": "",
+        "description": "Use your sniper rifle primarily for long-range engagements. It's most effective when you maintain distance from your enemies."
+      },
+      {
+        "heading": "Stay Hidden After a Shot",
+        "image": "",
+        "icon_image": "",
+        "description": "After taking a shot, reposition yourself to avoid being detected. Enemies will likely try to locate you based on the shot's sound."
+      }
+    ]
+  },
+  {
+    "name": "Sniper Mastery II",
+    "image": "",
+    "description": "Eliminate 30 enemies using sniper rifles to demonstrate your precision in long-range combat. Sharpen your sniping skills and master the art of staying hidden while picking off enemies.",
+    "points": 10,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Precision Shooter",
+      "titleImage": "",
+      "extra": "Exclusive sniper skins or in-game currency"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Aim for the Head",
+        "image": "",
+        "description": "Snipers excel at headshots. To maximize your efficiency, always aim for the head to ensure quicker eliminations."
+      },
+      {
+        "heading": "Use Cover to Stay Hidden",
+        "image": "",
+        "description": "After taking a shot, quickly hide behind cover to avoid being detected. Snipers are most effective when they are hard to spot."
+      },
+      {
+        "heading": "Positioning is Key",
+        "image": "",
+        "description": "Choose high ground or distant spots to engage enemies. Elevated positions provide a better angle and improved visibility."
+      },
+      {
+        "heading": "Know Your Rifle's Bullet Drop",
+        "image": "",
+        "description": "Different sniper rifles have different bullet drops. Practice adjusting your aim for long-range shots, especially with rifles like the M24 or AWM."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 30 Enemies with Sniper Rifle",
+        "image": "",
+        "icon_image": "",
+        "description": "To complete this mission, you need to eliminate 30 enemies using sniper rifles. Focus on accuracy and long-range combat to get the job done."
+      },
+      {
+        "heading": "Use High-Quality Sniper Rifles",
+        "image": "",
+        "icon_image": "",
+        "description": "To ensure your kills are precise, equip powerful sniper rifles like the Kar98k, M24, or AWM, which are most effective at long range."
+      },
+      {
+        "heading": "Take Your Time and Wait for the Perfect Shot",
+        "image": "",
+        "icon_image": "",
+        "description": "Don't rush your shots. Patience is key when sniping. Wait for the perfect opportunity to take down enemies from a safe distance."
+      }
+    ]
+  },
+  {
+    "name": "Sniper Mastery I",
+    "image": "",
+    "description": "Eliminate 10 enemies using a sniper rifle. This mission helps you improve your long-range combat skills and precision. It's a great way to get started with sniper rifles in PUBG.",
+    "points": 5,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Rookie Sniper",
+      "titleImage": "",
+      "extra": "Exclusive sniper rifle skin or in-game currency"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Start with the Basics",
+        "image": "",
+        "description": "If you're new to sniping, start by practicing with less powerful rifles like the Kar98k. Get familiar with the mechanics of aiming and shooting before moving on to more powerful rifles."
+      },
+      {
+        "heading": "Find High Ground",
+        "image": "",
+        "description": "Position yourself on high ground to get a clear view of your enemies. High ground will give you an advantage in spotting and eliminating targets from a distance."
+      },
+      {
+        "heading": "Wait for Perfect Timing",
+        "image": "",
+        "description": "Don't rush your shots. Wait for the perfect moment when your target is stationary or unaware of your position to ensure a higher chance of success."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 10 Enemies with Sniper Rifle",
+        "image": "",
+        "icon_image": "",
+        "description": "To complete this mission, you need to eliminate 10 enemies using sniper rifles. Focus on precision and patience when taking your shots."
+      },
+      {
+        "heading": "Choose the Right Sniper Rifle",
+        "image": "",
+        "icon_image": "",
+        "description": "Select a sniper rifle like the Kar98k or M24. These rifles are effective at long ranges and are great for making those critical shots."
+      }
+    ]
+  },
+  {
+    "name": "Assault Mastery V",
+    "image": "",
+    "description": "Eliminate 2000 enemies using an AR rifle. This high-level mission will challenge your AR rifle skills and test your consistency in combat. Completing this mission will prove your expertise with automatic rifles in PUBG.",
+    "points": 50,
+    "category": "matches",
+    "hardness": "Very Hard",
+    "rewards": {
+      "title": "Master AR Specialist",
+      "titleImage": "",
+      "extra": "Exclusive AR rifle skin or in-game currency"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Master Burst Fire",
+        "image": "",
+        "description": "When using AR rifles, especially in mid-range combat, burst fire can be more accurate than fully automatic fire. Learn to control your recoil with short bursts for greater precision."
+      },
+      {
+        "heading": "Engage at Optimal Ranges",
+        "image": "",
+        "description": "AR rifles are most effective in medium to long-range combat. Focus on taking fights at ranges where your rifle's accuracy and damage are maximized."
+      },
+      {
+        "heading": "Maintain Situational Awareness",
+        "image": "",
+        "description": "When engaging with enemies, always keep an eye on your surroundings. Situational awareness will help you avoid being ambushed while you focus on eliminating targets."
+      },
+      {
+        "heading": "Use Cover Effectively",
+        "image": "",
+        "description": "Use cover effectively to reposition and stay protected while engaging enemies. Move between cover spots to avoid giving away your position."
+      },
+      {
+        "heading": "Play in Unranked Mode (Optional for Rating Protection)",
+        "image": "",
+        "description": "If you're looking to practice without affecting your rank, play in Unranked Mode. This way, you can focus purely on getting AR rifle eliminations without worrying about your rating."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 2000 Enemies with AR Rifle",
+        "image": "",
+        "icon_image": "",
+        "description": "To complete this mission, you need to eliminate 2000 enemies using AR rifles. Prioritize engagements at medium range where your AR rifle excels."
+      },
+      {
+        "heading": "Choose the Right AR Rifle",
+        "image": "",
+        "icon_image": "",
+        "description": "Choose AR rifles like the M416 or AKM, which are effective at medium to long range and have manageable recoil for fast-paced combat."
+      },
+      {
+        "heading": "Play Aggressively and Smart",
+        "image": "",
+        "icon_image": "",
+        "description": "Aggressive play combined with smart positioning will help you get more eliminations. Approach fights strategically and use the AR's versatility in different combat scenarios."
+      }
+    ]
+  },
+  {
+    "name": "Assault Mastery IV",
+    "image": "",
+    "description": "Eliminate 500 enemies using an AR rifle. This mission tests your skills with AR rifles in combat scenarios, requiring precision, strategy, and consistent performance.",
+    "points": 40,
+    "category": "matches",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Elite AR Specialist",
+      "titleImage": "",
+      "extra": "Special AR rifle attachment skin or bonus in-game currency"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Perfect Your Recoil Control",
+        "image": "",
+        "description": "Mastering recoil control is essential for maintaining accuracy with AR rifles. Practice shooting in the training grounds to get a feel for each rifle's recoil pattern."
+      },
+      {
+        "heading": "Utilize Attachments",
+        "image": "",
+        "description": "Equip attachments such as compensators, extended magazines, and scopes to enhance your AR rifle's performance. These will improve accuracy, capacity, and range."
+      },
+      {
+        "heading": "Prioritize Close and Mid-Range Combat",
+        "image": "",
+        "description": "AR rifles are highly effective in close to mid-range fights. Engage enemies in these ranges to maximize your weapon's potential."
+      },
+      {
+        "heading": "Play in Unranked Mode (Optional for Rating Protection)",
+        "image": "",
+        "description": "If you want to focus on eliminations without impacting your rank, play in Unranked Mode. This mode allows you to practice freely and rack up kills with minimal pressure."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 500 Enemies with AR Rifle",
+        "image": "",
+        "icon_image": "",
+        "description": "Take down 500 enemies using AR rifles. Focus on landing consistent shots and maximizing damage output in each engagement."
+      },
+      {
+        "heading": "Choose Versatile AR Rifles",
+        "image": "",
+        "icon_image": "",
+        "description": "Use versatile AR rifles such as the M416 or Scar-L, which offer high accuracy, manageable recoil, and effective damage for various combat situations."
+      },
+      {
+        "heading": "Engage in Frequent Battles",
+        "image": "",
+        "icon_image": "",
+        "description": "Increase your engagement frequency by dropping in high-activity zones like Pochinki or School. This will give you more opportunities to use your AR rifle effectively."
+      }
+    ]
+  },
+  {
+    "name": "Assault Mastery III",
+    "image": "",
+    "description": "Eliminate 150 enemies using an AR rifle. This mission emphasizes precision and tactical gameplay to achieve consistent eliminations.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Skilled AR Marksman",
+      "titleImage": "",
+      "extra": "AR rifle charm or bonus in-game XP"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Stick to Balanced Loadouts",
+        "image": "",
+        "description": "Pair your AR rifle with a sniper or SMG for versatility. This allows you to handle long-range threats and close-quarters combat effectively."
+      },
+      {
+        "heading": "Learn Bullet Spread Patterns",
+        "image": "",
+        "description": "Understand the bullet spread for your preferred AR rifle to improve accuracy. Practice burst firing or single shots for long-range engagements."
+      },
+      {
+        "heading": "Engage in Mid-Range Combat",
+        "image": "",
+        "description": "AR rifles shine in mid-range fights. Use cover and stay at an optimal distance to maximize your weapon's effectiveness."
+      },
+      {
+        "heading": "Play in Unranked Mode (Optional for Rating Protection)",
+        "image": "",
+        "description": "Focus on eliminations without worrying about rank by playing in Unranked Mode. This lets you hone your skills in a stress-free environment."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 150 Enemies with AR Rifle",
+        "image": "",
+        "icon_image": "",
+        "description": "Achieve 150 eliminations with any AR rifle. Focus on consistent aim and tracking during fights to secure kills."
+      },
+      {
+        "heading": "Use Effective Attachments",
+        "image": "",
+        "icon_image": "",
+        "description": "Equip attachments like vertical grips, compensators, and scopes to enhance your AR rifle's stability and accuracy."
+      },
+      {
+        "heading": "Frequent Combat Zones",
+        "image": "",
+        "icon_image": "",
+        "description": "Land in high-activity areas such as Bootcamp or Sosnovka Military Base to increase your engagement opportunities and quickly accumulate kills."
+      }
+    ]
+  },
+  {
+    "name": "Assault Mastery II",
+    "image": "",
+    "description": "Eliminate 50 enemies using an AR rifle. Build accuracy and improve your skills to efficiently complete this task.",
+    "points": 10,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "AR Sharpshooter",
+      "titleImage": "",
+      "extra": "Bonus BP or AR rifle skin"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Choose High-Damage AR Rifles",
+        "image": "",
+        "description": "Use AR rifles like the M416 or AKM for higher damage and reliability during mid-range encounters."
+      },
+      {
+        "heading": "Engage in Close to Mid-Range Fights",
+        "image": "",
+        "description": "Capitalize on the versatility of AR rifles in close and mid-range combat. Keep your aim steady to secure kills quickly."
+      },
+      {
+        "heading": "Use Practice Mode for Recoil Control",
+        "image": "",
+        "description": "Spend time in the training mode to understand and control the recoil patterns of your favorite AR rifles."
+      },
+      {
+        "heading": "Play in Unranked Mode (Optional for Rating Protection)",
+        "image": "",
+        "description": "If you're worried about your rank, switch to Unranked Mode to focus purely on completing the mission without affecting your rating."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 50 Enemies with AR Rifle",
+        "image": "",
+        "icon_image": "",
+        "description": "Achieve 50 eliminations with any AR rifle. Land consistent shots to ensure quick eliminations."
+      }
+    ]
+  },
+  {
+    "name": "Assault Mastery I",
+    "image": "",
+    "description": "Eliminate 10 enemies using an AR rifle to complete the mission. Focus on precision and timing for quick success.",
+    "points": 5,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "AR Beginner",
+      "titleImage": "",
+      "extra": "Bonus BP or AR weapon skin"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Select AR Rifles for Versatility",
+        "image": "",
+        "description": "Choose balanced AR rifles like the M416 or SCAR-L to handle both close and mid-range combat effectively."
+      },
+      {
+        "heading": "Land in Medium-Traffic Zones",
+        "image": "",
+        "description": "Drop in areas with moderate player traffic to find AR rifles quickly and engage enemies without overwhelming numbers."
+      },
+      {
+        "heading": "Play in Unranked Mode (Optional for Rating Protection)",
+        "image": "",
+        "description": "Opt for Unranked Mode to focus on the mission without affecting your rank, allowing you to play with less pressure."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 10 Enemies with AR Rifle",
+        "image": "",
+        "icon_image": "",
+        "description": "Achieve 10 eliminations using any AR rifle. Aim for accuracy and stay mobile to gain an advantage."
+      },
+      {
+        "heading": "Equip Attachments for Stability",
+        "image": "",
+        "icon_image": "",
+        "description": "Use attachments like vertical grips and compensators to minimize recoil and improve shooting precision."
+      }
+    ]
+  },
+  {
+    "name": "Battlefield Scalpel",
+    "image": "path_to_sniper_image.png",
+    "description": "Master the art of long-range combat by completing challenging tasks with bolt-action sniper rifles. Showcase precision and skill to dominate the battleground.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "High",
+    "rewards": {
+      "title": "Sniper Specialist Title",
+      "titleImage": "path_to_title_image.png",
+      "extra": "Exclusive sniper rifle skin upon completion"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Position Yourself Strategically",
+        "image": "path_to_positioning_image.png",
+        "description": "Find high ground or concealed areas with a clear line of sight to spot enemies at long distances effectively."
+      },
+      {
+        "heading": "Adjust for Bullet Drop",
+        "image": "path_to_bullet_drop_image.png",
+        "description": "Bolt-action rifles are affected by bullet drop. Aim slightly above your target for long-range shots to ensure accuracy."
+      },
+      {
+        "heading": "Aim for Moving Targets",
+        "image": "path_to_moving_target_image.png",
+        "description": "To eliminate a fast-moving enemy (40km/h or faster), aim ahead of their movement direction to compensate for travel time."
+      },
+      {
+        "heading": "Fully Attach Your Rifle",
+        "image": "path_to_attachments_image.png",
+        "description": "Equip each bolt-action sniper with full attachments for better stability, reduced recoil, and improved performance."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate an Enemy at 300m+ in Ranked Platinum",
+        "image": "path_to_long_distance_kill_image.png",
+        "icon_image": "path_to_rifle_icon.png",
+        "description": "Use a bolt-action sniper to eliminate an enemy from over 300 meters while in Platinum tier or higher in a ranked match."
+      },
+      {
+        "heading": "Eliminate a Fast-Moving Enemy",
+        "image": "path_to_moving_target_image.png",
+        "icon_image": "path_to_sniper_rifle_icon.png",
+        "description": "Eliminate an enemy moving at 40km/h or faster with a bolt-action sniper rifle in Platinum tier or higher in a ranked match."
+      },
+      {
+        "heading": "Deal 500 Damage in a Single Match",
+        "image": "path_to_damage_image.png",
+        "icon_image": "path_to_rifle_damage_icon.png",
+        "description": "Achieve a total of at least 500 damage with a bolt-action sniper rifle in a single match."
+      },
+      {
+        "heading": "Equip Kar98K with Full Attachments",
+        "image": "path_to_kar98k_image.png",
+        "icon_image": "path_to_attachment_icon.png",
+        "description": "Find a Kar98K and equip it with a scope, extended magazine, cheek pad, and suppressor."
+      },
+      {
+        "heading": "Equip Mosin-Nagant with Full Attachments",
+        "image": "path_to_mosin_image.png",
+        "icon_image": "path_to_attachment_icon.png",
+        "description": "Find a Mosin-Nagant and fully equip it with appropriate attachments."
+      },
+      {
+        "heading": "Equip M24 with Full Attachments",
+        "image": "path_to_m24_image.png",
+        "icon_image": "path_to_attachment_icon.png",
+        "description": "Locate an M24 and equip it with a scope, extended magazine, cheek pad, and suppressor."
+      },
+      {
+        "heading": "Equip AWM with Full Attachments",
+        "image": "path_to_awm_image.png",
+        "icon_image": "path_to_attachment_icon.png",
+        "description": "Secure an AWM and attach all available accessories for maximum performance."
+      }
+    ]
+  },
+  {
+    "name": "Center Of Attention V",
+    "image": "path_to_center_of_attention_v_image.png",
+    "description": "Earn 600 likes to prove your popularity and positive impact on your PUBG teammates.",
+    "points": 40,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Social Star",
+      "titleImage": "path_to_social_star_title_image.png",
+      "extra": "Exclusive profile frame upon completion"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Play as a Team Player",
+        "image": "path_to_team_player_image.png",
+        "description": "Focus on reviving teammates, sharing resources, and providing support to earn likes from your squad."
+      },
+      {
+        "heading": "Engage in High-Impact Plays",
+        "image": "path_to_high_impact_plays_image.png",
+        "description": "Execute impressive kills, clutch plays, or provide critical support during intense battles to earn likes."
+      },
+      {
+        "heading": "Communicate Effectively",
+        "image": "path_to_communication_image.png",
+        "description": "Use voice or text chat to guide your team, provide callouts, and create a friendly environment to increase your chances of receiving likes."
+      },
+      {
+        "heading": "Play in Classic Mode",
+        "image": "path_to_classic_mode_image.png",
+        "description": "Classic mode matches are longer and provide more opportunities to make a positive impression on your team."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Earn 600 Likes",
+        "image": "path_to_likes_image.png",
+        "icon_image": "path_to_like_icon.png",
+        "description": "Accumulate a total of 600 likes by playing matches and impressing teammates with your skills and teamwork."
+      }
+    ]
+  },
+  {
+    "name": "Center Of Attention IV",
+    "image": "path_to_center_of_attention_iv_image.png",
+    "description": "Earn 300 likes to showcase your impact and popularity within PUBG matches.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Popular Player",
+      "titleImage": "path_to_popular_player_title_image.png",
+      "extra": "Exclusive avatar decoration upon completion"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Be a Good Teammate",
+        "image": "path_to_teamwork_image.png",
+        "description": "Help teammates by reviving, sharing supplies, and staying active in teamwork to earn their likes."
+      },
+      {
+        "heading": "Use Supportive Roles",
+        "image": "path_to_supportive_role_image.png",
+        "description": "Play roles like sniper or scout and contribute effectively to team success to gain likes."
+      },
+      {
+        "heading": "Showcase High-Skill Plays",
+        "image": "path_to_skilled_plays_image.png",
+        "description": "Perform clutch moments or high-level eliminations to impress your team and encourage likes."
+      },
+      {
+        "heading": "Engage in Voice Chat",
+        "image": "path_to_voice_chat_image.png",
+        "description": "Communicate with your team using voice chat to create a positive and coordinated environment."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Earn 300 Likes",
+        "image": "path_to_likes_requirement_image.png",
+        "icon_image": "path_to_like_icon.png",
+        "description": "Gain a total of 300 likes by being a supportive and effective teammate across matches."
+      }
+    ]
+  },
+  {
+    "name": "Center Of Attention III",
+    "image": "path_to_center_of_attention_iii_image.png",
+    "description": "Earn 120 likes by making a positive impact on your team and showcasing excellent gameplay.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Rising Star",
+      "titleImage": "path_to_rising_star_title_image.png",
+      "extra": "Exclusive player tag to showcase your popularity"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Team Up with Skilled Players",
+        "image": "path_to_skilled_players_image.png",
+        "description": "Form teams with experienced players who can help you earn likes by performing well together."
+      },
+      {
+        "heading": "Take the Lead in Eliminations",
+        "image": "path_to_eliminations_image.png",
+        "description": "Lead your team by securing high-value eliminations and contributing significantly to victories."
+      },
+      {
+        "heading": "Keep Up Team Morale",
+        "image": "path_to_team_morale_image.png",
+        "description": "Be an encouraging presence and keep your team motivated, leading to more likes from your teammates."
+      },
+      {
+        "heading": "Stay Active Throughout the Match",
+        "image": "path_to_active_player_image.png",
+        "description": "Engage in every phase of the game, whether it's scouting, supporting, or securing eliminations."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Earn 120 Likes",
+        "image": "path_to_likes_requirement_image.png",
+        "icon_image": "path_to_like_icon.png",
+        "description": "Complete matches and earn a total of 120 likes by showcasing teamwork and skill."
+      }
+    ]
+  },
+  {
+    "name": "Center Of Attention II",
+    "image": "path_to_center_of_attention_ii_image.png",
+    "description": "Earn 60 likes by playing well and contributing positively to your team during matches.",
+    "points": 10,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Team Player",
+      "titleImage": "path_to_team_player_title_image.png",
+      "extra": "A special player badge to show your support and cooperation"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Be a Supportive Teammate",
+        "image": "path_to_supportive_teammate_image.png",
+        "description": "Help your team by providing cover, reviving teammates, and sharing resources."
+      },
+      {
+        "heading": "Stay Consistent",
+        "image": "path_to_consistency_image.png",
+        "description": "Maintain a steady performance and remain active throughout the match to earn likes."
+      },
+      {
+        "heading": "Play with Friends",
+        "image": "path_to_play_with_friends_image.png",
+        "description": "Cooperate with your friends in a squad, as it is easier to earn likes by working together."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Earn 60 Likes",
+        "image": "path_to_likes_requirement_image.png",
+        "icon_image": "path_to_like_icon.png",
+        "description": "Earn a total of 60 likes from your teammates by contributing to the team's success."
+      }
+    ]
+  },
+  {
+    "name": "Center Of Attention I",
+    "image": "path_to_center_of_attention_i_image.png",
+    "description": "Earn 30 likes by supporting your teammates and playing positively in matches.",
+    "points": 5,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Helpful Teammate",
+      "titleImage": "path_to_helpful_teammate_title_image.png",
+      "extra": "A badge to highlight your cooperation and team spirit"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Play Supportive Roles",
+        "image": "path_to_supportive_roles_image.png",
+        "description": "Opt for roles like medic or support, where you can actively help and revive teammates."
+      },
+      {
+        "heading": "Engage Actively in Matches",
+        "image": "path_to_active_engagement_image.png",
+        "description": "Stay involved by staying near teammates and helping them during fights or challenges."
+      },
+      {
+        "heading": "Good Communication",
+        "image": "path_to_communication_image.png",
+        "description": "Use voice chat or pings to communicate strategies and needs with your teammates."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Earn 30 Likes",
+        "image": "path_to_likes_requirement_image.png",
+        "icon_image": "path_to_like_icon.png",
+        "description": "You need to earn a total of 30 likes through positive actions in a match."
+      }
+    ]
+  },
+  {
+    "name": "Brothers in Arms V",
+    "image": "path_to_brothers_in_arms_v_image.png",
+    "description": "Complete 1000 matches while in a group with friends.",
+    "points": 30,
+    "category": "matches",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Ultimate Team Player",
+      "titleImage": "path_to_ultimate_team_player_title_image.png",
+      "extra": "Exclusive badge for completing a high number of matches with friends."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Play Regularly with Friends",
+        "image": "path_to_play_regularly_with_friends_image.png",
+        "description": "Ensure you're in a group of friends before starting each match to make progress toward the mission."
+      },
+      {
+        "heading": "Coordinate with Your Team",
+        "image": "path_to_coordinate_with_team_image.png",
+        "description": "Strategize with your team for better coordination and to enjoy matches more effectively."
+      },
+      {
+        "heading": "Utilize Voice Chat",
+        "image": "path_to_voice_chat_image.png",
+        "description": "Use voice chat to stay connected and communicate during matches for optimal team performance."
+      },
+      {
+        "heading": "Play in a Fixed Group",
+        "image": "path_to_fixed_group_image.png",
+        "description": "To maximize your chances of completing the mission, play with the same group of friends regularly."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Complete 1000 Matches with Friends",
+        "image": "path_to_1000_matches_requirement_image.png",
+        "icon_image": "path_to_matches_icon.png",
+        "description": "You need to play and complete 1000 matches with friends to unlock this mission."
+      }
+    ]
+  },
+  {
+    "name": "Brothers in Arms IV",
+    "image": "path_to_brothers_in_arms_iv_image.png",
+    "description": "Complete 250 matches while in a group with friends.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Dedicated Teammate",
+      "titleImage": "path_to_dedicated_teammate_title_image.png",
+      "extra": "Earn an exclusive badge that showcases your dedication to playing with friends."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Play with Consistent Friends",
+        "image": "path_to_consistent_friends_image.png",
+        "description": "Regularly playing with the same group of friends can help complete the mission faster and foster better teamwork."
+      },
+      {
+        "heading": "Use the Group Finder",
+        "image": "path_to_group_finder_image.png",
+        "description": "If you don't have enough friends to play with, use PUBG's group finder to team up with others and complete matches together."
+      },
+      {
+        "heading": "Focus on Completing Matches",
+        "image": "path_to_completing_matches_image.png",
+        "description": "Make sure to complete the matches with your team, not just start them, in order to count toward the mission progress."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Complete 250 Matches with Friends",
+        "image": "path_to_250_matches_requirement_image.png",
+        "icon_image": "path_to_matches_icon.png",
+        "description": "You need to play and complete a total of 250 matches in a group with friends."
+      }
+    ]
+  },
+  {
+    "name": "Brothers in Arms III",
+    "image": "path_to_brothers_in_arms_iii_image.png",
+    "description": "Complete 50 matches while in a group with friends.",
+    "points": 15,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Team Player",
+      "titleImage": "path_to_team_player_title_image.png",
+      "extra": "Unlock a badge for your team-focused gameplay and friendship."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Form a Consistent Group",
+        "image": "path_to_consistent_group_image.png",
+        "description": "Try to form a consistent group of friends to play together regularly. This makes completing the mission easier."
+      },
+      {
+        "heading": "Stay in Communication",
+        "image": "path_to_communication_image.png",
+        "description": "Use voice chat or text messages to communicate strategies and stay coordinated with your group."
+      },
+      {
+        "heading": "Play in Group-Focused Modes",
+        "image": "path_to_group_focused_modes_image.png",
+        "description": "Participate in group-based game modes such as squad matches to ensure all your team members are present for each match."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Complete 50 Matches with Friends",
+        "image": "path_to_50_matches_requirement_image.png",
+        "icon_image": "path_to_matches_icon.png",
+        "description": "Play and complete a total of 50 matches with your friends in a group."
+      }
+    ]
+  },
+  {
+    "name": "Brothers in Arms II",
+    "image": "path_to_brothers_in_arms_ii_image.png",
+    "description": "Complete 10 matches while in a group with friends.",
+    "points": 10,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Social Squad",
+      "titleImage": "path_to_social_squad_title_image.png",
+      "extra": "A badge for completing group missions and being a reliable team player."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Play with Friends",
+        "image": "path_to_play_with_friends_image.png",
+        "description": "To make progress, invite your friends to join your squad and play together in each match."
+      },
+      {
+        "heading": "Choose Squad Matches",
+        "image": "path_to_squad_matches_image.png",
+        "description": "Participate in squad-based matches, which are perfect for completing group-based mission requirements."
+      },
+      {
+        "heading": "Complete Quick Matches",
+        "image": "path_to_quick_matches_image.png",
+        "description": "Complete short and quick matches with friends to earn progress without much time investment."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Complete 10 Matches with Friends",
+        "image": "path_to_10_matches_requirement_image.png",
+        "icon_image": "path_to_matches_icon.png",
+        "description": "Complete a total of 10 matches in a group with friends."
+      }
+    ]
+  },
+  {
+    "name": "Brothers in Arms I",
+    "image": "path_to_brothers_in_arms_i_image.png",
+    "description": "Complete 5 matches while in a group with friends.",
+    "points": 5,
+    "category": "matches",
+    "hardness": "Very Easy",
+    "rewards": {
+      "title": "Friendly Fighter",
+      "titleImage": "path_to_friendly_fighter_title_image.png",
+      "extra": "A badge to show your teamwork and camaraderie."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Start with Friends",
+        "image": "path_to_start_with_friends_image.png",
+        "description": "Make sure to invite friends to form a squad before you start your matches. You can quickly progress by playing with others."
+      },
+      {
+        "heading": "Opt for Short Matches",
+        "image": "path_to_short_matches_image.png",
+        "description": "To complete this quickly, opt for shorter matches like Team Deathmatch or other modes that don’t take long."
+      },
+      {
+        "heading": "Use Voice Chat",
+        "image": "path_to_voice_chat_image.png",
+        "description": "Communicate with your friends via voice chat for better coordination and quicker victories."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Complete 5 Matches with Friends",
+        "image": "path_to_5_matches_requirement_image.png",
+        "icon_image": "path_to_matches_icon.png",
+        "description": "Complete a total of 5 matches in a group with friends."
+      }
+    ]
+  },
+  {
+    "name": "Riding Marksman",
+    "image": "path_to_riding_marksman_image.png",
+    "description": "Defeat 10 players with weapons while traveling on a vehicle moving at 30km/h or faster.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Mobile Sharpshooter",
+      "titleImage": "path_to_mobile_sharpshooter_title_image.png",
+      "extra": "A badge to highlight your exceptional accuracy on the move."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Choose Stable Vehicles",
+        "image": "path_to_vehicle_stability_image.png",
+        "description": "Opt for vehicles like the UAZ or Dacia that offer better stability when shooting on the move."
+      },
+      {
+        "heading": "Use Automatic Weapons",
+        "image": "path_to_automatic_weapons_image.png",
+        "description": "Weapons with high firing rates, such as SMGs or ARs, make it easier to hit targets while moving."
+      },
+      {
+        "heading": "Drive in Open Areas",
+        "image": "path_to_open_area_image.png",
+        "description": "Engage in combat in open areas to have better visibility and less obstruction while aiming at enemies."
+      },
+      {
+        "heading": "Practice Weapon Control",
+        "image": "path_to_weapon_control_image.png",
+        "description": "Spend time practicing recoil control and aiming while in motion to increase your accuracy."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Defeat 10 Players While Traveling in a Vehicle",
+        "image": "path_to_defeat_10_players_image.png",
+        "icon_image": "path_to_vehicle_icon.png",
+        "description": "Eliminate 10 enemies using weapons while your vehicle maintains a speed of 30km/h or more."
+      }
+    ]
+  },
+  {
+    "name": "Battlemania IV",
+    "image": "path_to_battlemania_iv_image.png",
+    "description": "Complete 500 matches in any mode (excluding WOW) while using special characters.",
+    "points": 40,
+    "category": "matches",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Battle Veteran",
+      "titleImage": "path_to_battle_veteran_title_image.png",
+      "extra": "A badge showcasing your dedication to PUBG battles."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Focus on Shorter Modes",
+        "image": "path_to_shorter_modes_image.png",
+        "description": "Play shorter matches like Arcade or TDM to complete the requirement faster."
+      },
+      {
+        "heading": "Stick with Special Characters",
+        "image": "path_to_special_characters_image.png",
+        "description": "Ensure you have selected and are using special characters like Andy, Carlo, or Sara for all matches."
+      },
+      {
+        "heading": "Coordinate with Friends",
+        "image": "path_to_teamplay_image.png",
+        "description": "Team up with friends to make the matches more enjoyable and consistent."
+      },
+      {
+        "heading": "Track Your Progress",
+        "image": "path_to_progress_tracking_image.png",
+        "description": "Keep an eye on your mission progress in the Missions tab to know how many matches are left."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Complete 500 Matches with Special Characters",
+        "image": "path_to_matches_requirement_image.png",
+        "icon_image": "path_to_special_characters_icon.png",
+        "description": "Play and finish a total of 500 matches in any mode except WOW while using special characters."
+      }
+    ]
+  },
+  {
+    "name": "Battlemania III",
+    "image": "path_to_battlemania_iv_image.png",
+    "description": "Complete 100 matches in any mode (excluding WOW) while using special characters.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Battle Veteran",
+      "titleImage": "path_to_battle_veteran_title_image.png",
+      "extra": "A badge showcasing your dedication to PUBG battles."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Focus on Shorter Modes",
+        "image": "path_to_shorter_modes_image.png",
+        "description": "Play shorter matches like Arcade or TDM to complete the requirement faster."
+      },
+      {
+        "heading": "Stick with Special Characters",
+        "image": "path_to_special_characters_image.png",
+        "description": "Ensure you have selected and are using special characters like Andy, Carlo, or Sara for all matches."
+      },
+      {
+        "heading": "Coordinate with Friends",
+        "image": "path_to_teamplay_image.png",
+        "description": "Team up with friends to make the matches more enjoyable and consistent."
+      },
+      {
+        "heading": "Track Your Progress",
+        "image": "path_to_progress_tracking_image.png",
+        "description": "Keep an eye on your mission progress in the Missions tab to know how many matches are left."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Complete 100 Matches with Special Characters",
+        "image": "path_to_matches_requirement_image.png",
+        "icon_image": "path_to_special_characters_icon.png",
+        "description": "Play and finish a total of 100 matches in any mode except WOW while using special characters."
+      }
+    ]
+  },
+  {
+    "name": "Battlemania II",
+    "image": "path_to_battlemania_iv_image.png",
+    "description": "Complete 10 matches in any mode (excluding WOW) while using special characters.",
+    "points": 10,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Battle Veteran",
+      "titleImage": "path_to_battle_veteran_title_image.png",
+      "extra": "A badge showcasing your dedication to PUBG battles."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Focus on Shorter Modes",
+        "image": "path_to_shorter_modes_image.png",
+        "description": "Play shorter matches like Arcade or TDM to complete the requirement faster."
+      },
+      {
+        "heading": "Stick with Special Characters",
+        "image": "path_to_special_characters_image.png",
+        "description": "Ensure you have selected and are using special characters like Andy, Carlo, or Sara for all matches."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Complete 10 Matches with Special Characters",
+        "image": "path_to_matches_requirement_image.png",
+        "icon_image": "path_to_special_characters_icon.png",
+        "description": "Play and finish a total of 10 matches in any mode except WOW while using special characters."
+      }
+    ]
+  },
+  {
+    "name": "Battlemania I",
+    "image": "path_to_battlemania_iv_image.png",
+    "description": "Complete 5 matches in any mode (excluding WOW) while using special characters.",
+    "points": 5,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Battle Veteran",
+      "titleImage": "path_to_battle_veteran_title_image.png",
+      "extra": "A badge showcasing your dedication to PUBG battles."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Stick with Special Characters",
+        "image": "path_to_special_characters_image.png",
+        "description": "Ensure you have selected and are using special characters like Andy, Carlo, or Sara for all matches."
+      },
+      {
+        "heading": "Track Your Progress",
+        "image": "path_to_progress_tracking_image.png",
+        "description": "Keep an eye on your mission progress in the Missions tab to know how many matches are left."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Complete 5 Matches with Special Characters",
+        "image": "path_to_matches_requirement_image.png",
+        "icon_image": "path_to_special_characters_icon.png",
+        "description": "Play and finish a total of 5 matches in any mode except WOW while using special characters."
+      }
+    ]
+  },
+  {
+    "name": "Warhorse",
+    "image": "url_to_Warhorse_image",
+    "description": "Complete any 2 of the following weapon-specific mystery missions: SMG Mystery, Sniper Mystery, Shotgun Mystery, Melee Mystery, Assault Mystery, or Pistol Mystery.",
+    "points": 40,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Warhorse",
+      "titleImage": "url_to_warhorse_title_image",
+      "extra": "Achievement points and a prestigious in-game title."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Focus on One Mission at a Time",
+        "image": "url_to_focus_image",
+        "description": "Choose one weapon category per match to streamline progress towards completing its specific mystery."
+      },
+      {
+        "heading": "Use the Right Map",
+        "image": "url_to_map_image",
+        "description": "Select maps with the highest likelihood of finding the required weapons (e.g., Miramar for snipers, Sanhok for shotguns)."
+      },
+      {
+        "heading": "Engage in Close-Range Combat for Melee and Shotguns",
+        "image": "url_to_close_combat_image",
+        "description": "Land in areas with high player density to maximize melee and shotgun opportunities in close-range fights."
+      },
+      {
+        "heading": "Play in Lower Tiers",
+        "image": "url_to_tier_image",
+        "description": "Playing in lower-ranked lobbies increases the chances of encountering bots, making it easier to complete weapon-specific challenges."
+      },
+      {
+        "heading": "Track Your Progress",
+        "image": "url_to_progress_tracking_image",
+        "description": "Keep an eye on your mission progress after each match to determine which mysteries are close to completion."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Complete SMG Mystery",
+        "image": "url_to_smg_image",
+        "icon_image": "url_to_smg_icon",
+        "description": "Eliminate enemies using Sub-Machine Guns like UMP45, Vector, or Micro Uzi."
+      },
+      {
+        "heading": "Complete Sniper Mystery",
+        "image": "url_to_sniper_image",
+        "icon_image": "url_to_sniper_icon",
+        "description": "Achieve kills using sniper rifles such as Kar98k, M24, or AWM."
+      },
+      {
+        "heading": "Complete Shotgun Mystery",
+        "image": "url_to_shotgun_image",
+        "icon_image": "url_to_shotgun_icon",
+        "description": "Secure eliminations with shotguns like S686, S1897, or S12K."
+      },
+      {
+        "heading": "Complete Melee Mystery",
+        "image": "url_to_melee_image",
+        "icon_image": "url_to_melee_icon",
+        "description": "Take down enemies with melee weapons such as Pan, Crowbar, or Sickle."
+      },
+      {
+        "heading": "Complete Assault Mystery",
+        "image": "url_to_ar_image",
+        "icon_image": "url_to_ar_icon",
+        "description": "Finish enemies using assault rifles like M416, AKM, or SCAR-L."
+      },
+      {
+        "heading": "Complete Pistol Mystery",
+        "image": "url_to_pistol_image",
+        "icon_image": "url_to_pistol_icon",
+        "description": "Eliminate enemies with pistols such as P1911, R1895, or Desert Eagle."
+      }
+    ]
+  },
+  {
+    "name": "Envoy of War",
+    "image": "path_to_envoy_of_war_image.png",
+    "description": "Complete specific objectives in Arena Mode, including avenges, first eliminations, final blows, and legendary completions.",
+    "points": 5,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Arena Conqueror",
+      "titleImage": "path_to_arena_conqueror_title_image.png",
+      "extra": "Exclusive badge showcasing your Arena Mode expertise"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Focus on Teamplay for Avenges",
+        "image": "path_to_teamplay_image.png",
+        "description": "Stick close to teammates and quickly eliminate enemies who take down your allies to achieve avenges."
+      },
+      {
+        "heading": "Play Aggressively for First Eliminations",
+        "image": "path_to_aggressive_play_image.png",
+        "description": "Push early in each round to secure the first kill. Use weapons with high damage per second like ARs or SMGs."
+      },
+      {
+        "heading": "Plan for Final Blows",
+        "image": "path_to_final_blow_image.png",
+        "description": "Track enemy movements and save grenades or molotovs for the end of the round to secure the final kill."
+      },
+      {
+        "heading": "Focus on High Damage for Legendary",
+        "image": "path_to_high_damage_image.png",
+        "description": "Deal consistent damage and assist teammates to achieve legendary status in rounds."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Successfully Avenge 20 Times",
+        "image": "path_to_avenge_image.png",
+        "icon_image": "path_to_avenge_icon.png",
+        "description": "Eliminate the enemy who took down your teammate 20 times in Arena Mode."
+      },
+      {
+        "heading": "Get 20 First Eliminations",
+        "image": "path_to_first_eliminations_image.png",
+        "icon_image": "path_to_first_eliminations_icon.png",
+        "description": "Achieve the first kill of a round 20 times in Arena Mode."
+      },
+      {
+        "heading": "Get 20 Final Blows",
+        "image": "path_to_final_blows_image.png",
+        "icon_image": "path_to_final_blows_icon.png",
+        "description": "Secure the last elimination of a round 20 times in Arena Mode."
+      },
+      {
+        "heading": "Complete Legendary 20 Times",
+        "image": "path_to_legendary_image.png",
+        "icon_image": "path_to_legendary_icon.png",
+        "description": "Achieve legendary performance in Arena Mode 20 times by excelling in kills and assists."
+      }
+    ]
+  },
+  {
+    "name": "Alpha & Omega",
+    "image": "path_to_alpha_omega_image.png",
+    "description": "Achieve both the first elimination and the final blow in a single Arena Mode match.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Dual Finisher",
+      "titleImage": "path_to_dual_finisher_title_image.png",
+      "extra": "A unique badge showcasing your domination in Arena Mode"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Push Aggressively for the First Elimination",
+        "image": "path_to_first_elimination_image.png",
+        "description": "Move quickly at the start of the match and target exposed enemies to secure the first kill."
+      },
+      {
+        "heading": "Save Resources for the Final Blow",
+        "image": "path_to_final_blow_image.png",
+        "description": "Keep a powerful weapon or utility, such as grenades, for the end of the match to secure the last kill."
+      },
+      {
+        "heading": "Use Team Communication",
+        "image": "path_to_communication_image.png",
+        "description": "Coordinate with teammates to manage engagements effectively and set yourself up for both key eliminations."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Get the First Elimination",
+        "image": "path_to_first_elimination_requirement_image.png",
+        "icon_image": "path_to_first_elimination_icon.png",
+        "description": "Be the first player to eliminate an enemy in the match."
+      },
+      {
+        "heading": "Get the Final Blow",
+        "image": "path_to_final_blow_requirement_image.png",
+        "icon_image": "path_to_final_blow_icon.png",
+        "description": "Secure the last elimination of the match to end the game."
+      }
+    ]
+  },
+  {
+    "name": "Victory Legion IV",
+    "image": "path_to_victory_legion_iv_image.png",
+    "description": "Complete 20 shoutouts in Arena Mode to showcase your standout performances.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Arena Champion",
+      "titleImage": "path_to_arena_champion_title_image.png",
+      "extra": "A badge to display your achievements in Arena Mode."
+    },
+    "tipsTricks": [
+      {
+        "heading": "What is a Shoutout?",
+        "image": "path_to_shoutout_explanation_image.png",
+        "description": "In PUBG's Arena Mode, a 'shoutout' refers to a special recognition given to players for extraordinary achievements, such as dealing the most damage, scoring the highest kills, or making clutch plays during a match."
+      },
+      {
+        "heading": "Play Aggressively",
+        "image": "path_to_aggressive_play_image.png",
+        "description": "Engage in combat actively to maximize damage and secure kills, increasing your chances of earning a shoutout."
+      },
+      {
+        "heading": "Focus on Performance",
+        "image": "path_to_performance_focus_image.png",
+        "description": "Aim for consistent and standout actions, such as taking down multiple enemies quickly or being the MVP of your team."
+      },
+      {
+        "heading": "Coordinate with Teammates",
+        "image": "path_to_teamwork_image.png",
+        "description": "Use teamwork to dominate rounds, as assisting in critical moments can also lead to recognition."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Complete 20 Shoutouts",
+        "image": "path_to_shoutouts_requirement_image.png",
+        "icon_image": "path_to_shoutouts_icon.png",
+        "description": "Participate in Arena Mode matches and achieve 20 shoutouts by performing exceptional actions in gameplay."
+      }
+    ]
+  },
+  {
+    "name": "Victory Legion III",
+    "image": "path_to_victory_legion_iv_image.png",
+    "description": "Complete 10 shoutouts in Arena Mode to prove your dominance.",
+    "points": 15,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Arena Star",
+      "titleImage": "path_to_arena_star_title_image.png",
+      "extra": "Earn recognition for participating in shoutouts in Arena Mode."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Understand Shoutouts",
+        "image": "path_to_shoutouts_explanation_image.png",
+        "description": "A shoutout occurs when a player completes a standout performance in Arena. Strive for aggressive plays and consistency."
+      },
+      {
+        "heading": "Focus on Team Play",
+        "image": "path_to_team_play_image.png",
+        "description": "Coordinate with your team to maximize your chances of completing shoutouts."
+      },
+      {
+        "heading": "Stay in the Fight",
+        "image": "path_to_staying_active_image.png",
+        "description": "Engage frequently to make your presence felt and have a higher chance of achieving shoutouts."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Complete 10 Shoutouts",
+        "image": "path_to_shoutouts_requirement_image.png",
+        "icon_image": "path_to_shoutouts_icon.png",
+        "description": "Participate in Arena matches and complete shoutouts during standout moments."
+      }
+    ]
+  },
+  {
+    "name": "Victory Legion II",
+    "image": "path_to_victory_legion_iv_image.png",
+    "description": "Complete 5 shoutouts in Arena Mode to prove your dominance.",
+    "points": 10,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Arena Star",
+      "titleImage": "path_to_arena_star_title_image.png",
+      "extra": "Earn recognition for participating in shoutouts in Arena Mode."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Understand Shoutouts",
+        "image": "path_to_shoutouts_explanation_image.png",
+        "description": "A shoutout occurs when a player completes a standout performance in Arena. Strive for aggressive plays and consistency."
+      },
+      {
+        "heading": "Focus on Team Play",
+        "image": "path_to_team_play_image.png",
+        "description": "Coordinate with your team to maximize your chances of completing shoutouts."
+      },
+      {
+        "heading": "Stay in the Fight",
+        "image": "path_to_staying_active_image.png",
+        "description": "Engage frequently to make your presence felt and have a higher chance of achieving shoutouts."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Complete 5 Shoutouts",
+        "image": "path_to_shoutouts_requirement_image.png",
+        "icon_image": "path_to_shoutouts_icon.png",
+        "description": "Participate in Arena matches and complete shoutouts during standout moments."
+      }
+    ]
+  },
+  {
+    "name": "Victory Legion I",
+    "image": "path_to_victory_legion_iv_image.png",
+    "description": "Complete 1 shoutouts in Arena Mode to prove your dominance.",
+    "points": 5,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Arena Star",
+      "titleImage": "path_to_arena_star_title_image.png",
+      "extra": "Earn recognition for participating in shoutouts in Arena Mode."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Understand Shoutouts",
+        "image": "path_to_shoutouts_explanation_image.png",
+        "description": "A shoutout occurs when a player completes a standout performance in Arena. Strive for aggressive plays and consistency."
+      },
+      {
+        "heading": "Focus on Team Play",
+        "image": "path_to_team_play_image.png",
+        "description": "Coordinate with your team to maximize your chances of completing shoutouts."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Complete 1 Shoutouts",
+        "image": "path_to_shoutouts_requirement_image.png",
+        "icon_image": "path_to_shoutouts_icon.png",
+        "description": "Participate in Arena matches and complete shoutouts during standout moments."
+      }
+    ]
+  },
+  {
+    "name": "Physical Trainer",
+    "image": "path_to_physical_trainer_image.png",
+    "description": "Demonstrate your agility and stamina by completing these actions: crouch 10,000 times, jump 10,000 times, and go prone 100 times.",
+    "points": 30,
+    "category": "matches",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Master of Movement",
+      "titleImage": "path_to_master_of_movement_title_image.png",
+      "extra": "A badge that highlights your dedication to physical agility."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Crouch Efficiently",
+        "image": "path_to_crouching_tips_image.png",
+        "description": "Find a safe area in the Training Grounds or a non-combat zone during a match. Spam the crouch button repeatedly to quickly increase your crouch count."
+      },
+      {
+        "heading": "Jump Strategically",
+        "image": "path_to_jumping_tips_image.png",
+        "description": "Use the jump action repeatedly in Training Grounds or while traversing the map during matches. Look for areas with minimal enemies to avoid interruptions."
+      },
+      {
+        "heading": "Go Prone Safely",
+        "image": "path_to_prone_tips_image.png",
+        "description": "While in a secure location, toggle the prone action multiple times. This can be done in open matches or the Training Grounds to complete the prone requirement."
+      },
+      {
+        "heading": "Use Macros or Keybinds (Optional)",
+        "image": "path_to_macro_tips_image.png",
+        "description": "If allowed in your setup, bind actions like crouch or jump to a single key for faster execution. Ensure this complies with PUBG's fair play policies."
+      },
+      {
+        "heading": "Play Regular Matches",
+        "image": "path_to_regular_matches_image.png",
+        "description": "Incorporate these actions naturally into gameplay by crouching during combat, jumping over obstacles, and going prone to hide from enemies."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Crouch 10,000 Times",
+        "image": "path_to_crouch_requirement_image.png",
+        "icon_image": "path_to_crouch_icon.png",
+        "description": "Perform the crouch action 10,000 times to meet this requirement."
+      },
+      {
+        "heading": "Jump 10,000 Times",
+        "image": "path_to_jump_requirement_image.png",
+        "icon_image": "path_to_jump_icon.png",
+        "description": "Execute the jump action 10,000 times across matches."
+      },
+      {
+        "heading": "Go Prone 100 Times",
+        "image": "path_to_prone_requirement_image.png",
+        "icon_image": "path_to_prone_icon.png",
+        "description": "Complete the prone action 100 times to fulfill this task."
+      }
+    ]
+  },
+  {
+    "name": "Eye For An Eye",
+    "image": "path_to_eye_for_an_eye_image.png",
+    "description": "Eliminate an enemy who knocked you out earlier in the same match, proving your resilience and determination.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Vengeful Warrior",
+      "titleImage": "path_to_vengeful_warrior_title_image.png",
+      "extra": "A badge showcasing your ability to seek revenge."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Mark the Enemy",
+        "image": "path_to_mark_enemy_image.png",
+        "description": "After getting knocked out, take note of the player's name or location to track them later in the match."
+      },
+      {
+        "heading": "Stay Near Teammates",
+        "image": "path_to_teamwork_image.png",
+        "description": "Allow your teammates to revive you quickly so you can stay in the fight and locate the enemy."
+      },
+      {
+        "heading": "Use Tactical Strategies",
+        "image": "path_to_tactics_image.png",
+        "description": "Approach the enemy carefully to avoid being knocked out again. Use cover and grenades to gain an advantage."
+      },
+      {
+        "heading": "Replay Kill Feed",
+        "image": "path_to_kill_feed_image.png",
+        "description": "Check the kill feed to identify and confirm the enemy who knocked you out."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate the Enemy",
+        "image": "path_to_elimination_requirement_image.png",
+        "icon_image": "path_to_elimination_icon.png",
+        "description": "Knock out and eliminate the same enemy who knocked you out in the same match."
+      }
+    ]
+  },
+  {
+    "name": "Supreme Marksman",
+    "image": "path_to_supreme_marksman_image.png",
+    "description": "Showcase your shooting skills by completing three unique tasks: eliminate enemies with headshots without a scope, take down airborne targets, and eliminate enemies in the water.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Master Marksman",
+      "titleImage": "path_to_master_marksman_title_image.png",
+      "extra": "A special badge demonstrating your precision and versatility in combat."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Headshots Without a Scope",
+        "image": "path_to_headshot_image.png",
+        "description": "Use weapons with high accuracy and aim for the head at close range. Practicing hip-fire and iron sights can improve your accuracy."
+      },
+      {
+        "heading": "Eliminating Airborne Enemies",
+        "image": "path_to_airborne_image.png",
+        "description": "Target players using gliders, jumping frequently, or parachuting. Timing and leading your shots are key."
+      },
+      {
+        "heading": "Eliminating Enemies in Water",
+        "image": "path_to_water_elimination_image.png",
+        "description": "Engage enemies swimming or standing in shallow water. Use weapons with high damage per shot for quick eliminations."
+      },
+      {
+        "heading": "Weapon Choice",
+        "image": "path_to_weapon_choice_image.png",
+        "description": "For all tasks, weapons like assault rifles (AKM, M416) or DMRs are versatile. Use grenades for enemies hiding in water."
+      },
+      {
+        "heading": "Map Awareness",
+        "image": "path_to_map_awareness_image.png",
+        "description": "Focus on areas with water bodies or open fields to find airborne or swimming enemies."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 10 Enemies with Headshots Without Scope",
+        "image": "path_to_headshot_requirement_image.png",
+        "icon_image": "path_to_headshot_icon.png",
+        "description": "Take down 10 enemies by landing headshots without using any scopes."
+      },
+      {
+        "heading": "Eliminate 10 Airborne Enemies",
+        "image": "path_to_airborne_requirement_image.png",
+        "icon_image": "path_to_airborne_icon.png",
+        "description": "Shoot down 10 enemies while they are airborne, such as while jumping or parachuting."
+      },
+      {
+        "heading": "Eliminate 10 Enemies in Water",
+        "image": "path_to_water_requirement_image.png",
+        "icon_image": "path_to_water_icon.png",
+        "description": "Defeat 10 enemies swimming or standing in water bodies."
+      }
+    ]
+  },
+  {
+    "name": "Perfect 10s",
+    "image": "path_to_supreme_marksman_image.png",
+    "description": "Master every weapon type by eliminating enemies using SMGs, pistols, LMGs, sniper rifles, ARs, shotguns, melee weapons, throwables, vehicles, and crossbows.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Weapon Master",
+      "titleImage": "path_to_weapon_master_title_image.png",
+      "extra": "An exclusive badge showcasing your mastery with all weapon types."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Use the Right Maps",
+        "image": "path_to_map_selection_image.png",
+        "description": "Choose maps with diverse environments like Erangel and Miramar for vehicle kills and open fields for sniping."
+      },
+      {
+        "heading": "Focus on One Weapon Type at a Time",
+        "image": "path_to_focus_weapon_image.png",
+        "description": "Prioritize one weapon category per match to complete the task systematically."
+      },
+      {
+        "heading": "Close-Range Tactics",
+        "image": "path_to_close_range_image.png",
+        "description": "For SMGs, shotguns, pistols, and melee weapons, engage in close-quarters combat in urban areas like Pochinki or School."
+      },
+      {
+        "heading": "Vehicle Eliminations",
+        "image": "path_to_vehicle_kill_image.png",
+        "description": "Knock enemies down first, then finish them off with a vehicle to count the elimination."
+      },
+      {
+        "heading": "Throwable Eliminations",
+        "image": "path_to_throwable_kills_image.png",
+        "description": "Trap enemies in buildings or behind cover, and use grenades or molotovs for effective eliminations."
+      },
+      {
+        "heading": "Sniping and Long-Range Combat",
+        "image": "path_to_sniper_image.png",
+        "description": "Find a vantage point and use sniper rifles to eliminate enemies at long distances."
+      },
+      {
+        "heading": "Crossbow Tips",
+        "image": "path_to_crossbow_image.png",
+        "description": "Engage stationary targets to improve accuracy with the crossbow and aim for headshots for instant eliminations."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate 10 Enemies with SMG",
+        "image": "path_to_smg_requirement_image.png",
+        "icon_image": "path_to_smg_icon.png",
+        "description": "Use SMGs like UMP45 or Vector in close-quarters combat for quick eliminations."
+      },
+      {
+        "heading": "Eliminate 10 Enemies with Pistol",
+        "image": "path_to_pistol_requirement_image.png",
+        "icon_image": "path_to_pistol_icon.png",
+        "description": "Utilize pistols like the P1911 or Desert Eagle in early-game fights or confined spaces."
+      },
+      {
+        "heading": "Eliminate 10 Enemies with LMG",
+        "image": "path_to_lmg_requirement_image.png",
+        "icon_image": "path_to_lmg_icon.png",
+        "description": "Deploy LMGs such as the M249 in suppressive fire scenarios to achieve eliminations."
+      },
+      {
+        "heading": "Eliminate 10 Enemies with Sniper Rifle",
+        "image": "path_to_sniper_requirement_image.png",
+        "icon_image": "path_to_sniper_icon.png",
+        "description": "Pick sniper rifles like Kar98k or AWM to take down enemies at long distances."
+      },
+      {
+        "heading": "Eliminate 10 Enemies with AR",
+        "image": "path_to_ar_requirement_image.png",
+        "icon_image": "path_to_ar_icon.png",
+        "description": "Use versatile ARs like M416 or AKM for mid-range combat."
+      },
+      {
+        "heading": "Eliminate 10 Enemies with Shotgun",
+        "image": "path_to_shotgun_requirement_image.png",
+        "icon_image": "path_to_shotgun_icon.png",
+        "description": "Engage enemies at close range with powerful shotguns like S686 or S12K."
+      },
+      {
+        "heading": "Eliminate 10 Enemies with Melee Weapon",
+        "image": "path_to_melee_requirement_image.png",
+        "icon_image": "path_to_melee_icon.png",
+        "description": "Sneak up on distracted or downed enemies to finish them with melee weapons like the pan."
+      },
+      {
+        "heading": "Eliminate 10 Enemies with Throwable",
+        "image": "path_to_throwable_requirement_image.png",
+        "icon_image": "path_to_throwable_icon.png",
+        "description": "Utilize grenades, molotovs, or other throwables to eliminate enemies in confined spaces."
+      },
+      {
+        "heading": "Eliminate 10 Enemies with Vehicle",
+        "image": "path_to_vehicle_requirement_image.png",
+        "icon_image": "path_to_vehicle_icon.png",
+        "description": "Knock down enemies and run them over with vehicles like the UAZ or buggy."
+      },
+      {
+        "heading": "Eliminate 10 Enemies with Crossbow",
+        "image": "path_to_crossbow_requirement_image.png",
+        "icon_image": "path_to_crossbow_icon.png",
+        "description": "Engage stationary targets to maximize your chances of landing crossbow eliminations."
+      }
+    ]
+  },
+  {
+    "name": "The Chosen One",
+    "image": "path_to_the_chosen_one_image.png",
+    "description": "Pick up the exclusive items found in air drops to complete this mission: Ghillie Suits, Groza, AWM, Mk14.",
+    "points": 30,
+    "category": "matches",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Air Drop Master",
+      "titleImage": "path_to_air_drop_master_title_image.png",
+      "extra": "A badge of honor showcasing your expertise in securing exclusive air-drop items."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Focus on Air Drop Locations",
+        "image": "path_to_airdrop_location_image.png",
+        "description": "Pay attention to the plane's path and look for air drops falling nearby. Air drops are marked with red or yellow smoke for easy identification."
+      },
+      {
+        "heading": "Approach with Caution",
+        "image": "path_to_cautious_approach_image.png",
+        "description": "Air drops attract other players. Always scout the area before approaching and be prepared for combat."
+      },
+      {
+        "heading": "Use Smoke Grenades for Cover",
+        "image": "path_to_smoke_grenade_image.png",
+        "description": "Deploy smoke grenades near the air drop to obscure your position while looting it."
+      },
+      {
+        "heading": "Stay Mobile",
+        "image": "path_to_vehicle_usage_image.png",
+        "description": "Use a vehicle to reach air drops quickly and escape fast after looting."
+      },
+      {
+        "heading": "Play in Squads",
+        "image": "path_to_squad_tactics_image.png",
+        "description": "Coordinate with teammates to secure air drops more effectively and protect each other during looting."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Pick Up Ghillie Suit (Forest)",
+        "image": "path_to_ghillie_suit_forest_image.png",
+        "icon_image": "path_to_ghillie_suit_forest_icon.png",
+        "description": "Find and pick up the Ghillie Suit (Forest) from an air drop. Available on maps with dense foliage such as Erangel, Sanhok, and Vikendi."
+      },
+      {
+        "heading": "Pick Up Ghillie Suit (Desert)",
+        "image": "path_to_ghillie_suit_desert_image.png",
+        "icon_image": "path_to_ghillie_suit_desert_icon.png",
+        "description": "Pick up the Ghillie Suit (Desert) from an air drop. Available on Miramar."
+      },
+      {
+        "heading": "Pick Up Ghillie Suit (Dark Brown)",
+        "image": "path_to_ghillie_suit_dark_brown_image.png",
+        "icon_image": "path_to_ghillie_suit_dark_brown_icon.png",
+        "description": "Secure the Ghillie Suit (Dark Brown) from an air drop. Available on Karakin."
+      },
+      {
+        "heading": "Pick Up Ghillie Suit (Snow)",
+        "image": "path_to_ghillie_suit_snow_image.png",
+        "icon_image": "path_to_ghillie_suit_snow_icon.png",
+        "description": "Find the Ghillie Suit (Snow) in an air drop. Available exclusively on Vikendi."
+      },
+      {
+        "heading": "Pick Up Groza",
+        "image": "path_to_groza_image.png",
+        "icon_image": "path_to_groza_icon.png",
+        "description": "Retrieve the powerful Groza assault rifle from an air drop for close-range dominance."
+      },
+      {
+        "heading": "Pick Up AWM",
+        "image": "path_to_awm_image.png",
+        "icon_image": "path_to_awm_icon.png",
+        "description": "Loot the AWM sniper rifle from an air drop for its unmatched long-range power."
+      },
+      {
+        "heading": "Pick Up Mk14",
+        "image": "path_to_mk14_image.png",
+        "icon_image": "path_to_mk14_icon.png",
+        "description": "Obtain the Mk14 from an air drop, which doubles as a sniper and an automatic weapon."
+      }
+    ]
+  },
+  {
+    "name": "Suit Up",
+    "image": "path_to_suit_up_image.png",
+    "description": "Equip all of the following items in a single match to complete the mission: Motorcycle Helmet (Lv. 1), Military Helmet (Lv. 2), Spetsnaz Helmets (Lv. 3), Police Vests, Military Vests, and Backpacks.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Gear Master",
+      "titleImage": "path_to_gear_master_title_image.png",
+      "extra": "A badge that showcases your thoroughness in equipping all levels of gear."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Loot Multiple Locations",
+        "image": "path_to_loot_image.png",
+        "description": "To equip all the items, you'll need to loot multiple locations. Be sure to visit both high-loot areas and regular loot zones like buildings and military bases."
+      },
+      {
+        "heading": "Focus on Backpack and Vest Variety",
+        "image": "path_to_vest_backpack_image.png",
+        "description": "Backpacks and vests are available in different levels. Focus on gathering Level 1, Level 2, and Level 3 versions by searching the appropriate zones."
+      },
+      {
+        "heading": "Visit Police Stations and Military Bases",
+        "image": "path_to_police_military_image.png",
+        "description": "Police Vests and Military Helmets are commonly found in police stations and military bases, so make sure to check these locations first."
+      },
+      {
+        "heading": "Use the Motorcycle Helmet as a Backup",
+        "image": "path_to_motorcycle_helmet_image.png",
+        "description": "Motorcycle Helmets are common and are easy to find, so make sure to keep a Level 1 version for the mission while you focus on higher-tier items."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Equip Motorcycle Helmet (Lv. 1)",
+        "image": "path_to_motorcycle_helmet_image.png",
+        "icon_image": "path_to_motorcycle_helmet_icon.png",
+        "description": "Equip a Level 1 Motorcycle Helmet in your inventory. These are commonly found early in the match and in standard loot zones."
+      },
+      {
+        "heading": "Equip Military Helmet (Lv. 2)",
+        "image": "path_to_military_helmet_2_image.png",
+        "icon_image": "path_to_military_helmet_2_icon.png",
+        "description": "Find and equip a Level 2 Military Helmet, which offers better protection. Look for it in military bases, police stations, and large buildings."
+      },
+      {
+        "heading": "Equip Spetsnaz Helmets (Lv. 3)",
+        "image": "path_to_spetsnaz_helmet_image.png",
+        "icon_image": "path_to_spetsnaz_helmet_icon.png",
+        "description": "Equip a Spetsnaz Helmet (Lv. 3). This helmet can be found in higher-tier loot zones, such as air drops or military base locations."
+      },
+      {
+        "heading": "Equip Police Vest (Lv. 1)",
+        "image": "path_to_police_vest_1_image.png",
+        "icon_image": "path_to_police_vest_1_icon.png",
+        "description": "Pick up a Police Vest (Lv. 1) for early match protection. These can be found easily in houses and small buildings."
+      },
+      {
+        "heading": "Equip Police Vest (Lv. 2)",
+        "image": "path_to_police_vest_2_image.png",
+        "icon_image": "path_to_police_vest_2_icon.png",
+        "description": "Locate a Level 2 Police Vest, which provides better protection than the Level 1 vest. Search in military areas and police stations."
+      },
+      {
+        "heading": "Equip Military Vest (Lv. 3)",
+        "image": "path_to_military_vest_3_image.png",
+        "icon_image": "path_to_military_vest_3_icon.png",
+        "description": "Equip a Level 3 Military Vest, which offers the highest protection. These vests can be found in military loot zones or air drops."
+      },
+      {
+        "heading": "Equip Backpack (Lv. 1)",
+        "image": "path_to_backpack_1_image.png",
+        "icon_image": "path_to_backpack_1_icon.png",
+        "description": "Find and equip a Level 1 Backpack. These are commonly found in most areas and are needed to start collecting more gear."
+      },
+      {
+        "heading": "Equip Backpack (Lv. 2)",
+        "image": "path_to_backpack_2_image.png",
+        "icon_image": "path_to_backpack_2_icon.png",
+        "description": "Search for a Level 2 Backpack, which increases your carrying capacity. These are commonly found in houses and warehouses."
+      },
+      {
+        "heading": "Equip Backpack (Lv. 3)",
+        "image": "path_to_backpack_3_image.png",
+        "icon_image": "path_to_backpack_3_icon.png",
+        "description": "Find a Level 3 Backpack, which provides the maximum carrying capacity. Look for these in larger buildings, military zones, or as part of air drops."
+      }
+    ]
+  },
+  {
+    "name": "Life of Fragile",
+    "image": "path_to_life_of_fragile_image.png",
+    "description": "Die in the following ways to complete the mission: Eliminated by a bullet, eliminated outside of the safe zone, drowned, fell to death, eliminated in melee range, eliminated by a throwable, eliminated by a bomb in the red zone, eliminated by a vehicle.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Fragile Survivor",
+      "titleImage": "path_to_fragile_survivor_title_image.png",
+      "extra": "A badge recognizing your survival in the most precarious situations."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Die by Bullet",
+        "image": "path_to_bullet_death_image.png",
+        "description": "To be eliminated by a bullet, simply engage in combat with enemies and let them eliminate you. Avoid healing or running away to let the enemy finish you off."
+      },
+      {
+        "heading": "Eliminate Outside the Safe Zone",
+        "image": "path_to_outside_safe_zone_image.png",
+        "description": "Stay outside the safe zone until the blue zone completely kills you. It’s best to intentionally stay behind when the safe zone shrinks and die from the zone's damage."
+      },
+      {
+        "heading": "Drowned",
+        "image": "path_to_drowned_image.png",
+        "description": "To drown, swim into the water and stay underwater until you die. You can do this in any water body within the map."
+      },
+      {
+        "heading": "Fell to Death",
+        "image": "path_to_fell_death_image.png",
+        "description": "Climb to a high location, such as a tall building or mountain, and jump off to die from falling damage. You can also attempt to fall from a vehicle for quicker results."
+      },
+      {
+        "heading": "Eliminated in Melee Range",
+        "image": "path_to_melee_range_image.png",
+        "description": "Get close to an enemy and allow them to eliminate you with a melee weapon, such as a pan or crowbar."
+      },
+      {
+        "heading": "Eliminated by Throwable",
+        "image": "path_to_throwable_death_image.png",
+        "description": "Allow an enemy to throw a grenade, molotov, or flashbang and eliminate you with one of these throwables."
+      },
+      {
+        "heading": "Eliminated by Bomb in Red Zone",
+        "image": "path_to_red_zone_bomb_image.png",
+        "description": "Stay inside a red zone during a bombing run and allow yourself to get hit by the bombs to die. Avoid moving out of the red zone intentionally."
+      },
+      {
+        "heading": "Eliminated by Vehicle",
+        "image": "path_to_vehicle_death_image.png",
+        "description": "Get run over by a vehicle, either intentionally or by letting an enemy drive into you. Stay in the path of a moving vehicle for this."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminated by a Bullet",
+        "image": "path_to_bullet_death_icon.png",
+        "icon_image": "path_to_bullet_death_icon_image.png",
+        "description": "Allow an enemy to eliminate you with a firearm."
+      },
+      {
+        "heading": "Eliminated Outside of Safe Zone",
+        "image": "path_to_outside_safe_zone_icon.png",
+        "icon_image": "path_to_outside_safe_zone_icon_image.png",
+        "description": "Die from the blue zone by staying outside the safe zone."
+      },
+      {
+        "heading": "Drowned",
+        "image": "path_to_drowned_icon.png",
+        "icon_image": "path_to_drowned_icon_image.png",
+        "description": "Swim in water until you drown. Ensure you don’t resurface before your health runs out."
+      },
+      {
+        "heading": "Fell to Death",
+        "image": "path_to_fell_death_icon.png",
+        "icon_image": "path_to_fell_death_icon_image.png",
+        "description": "Jump from a high place and die from falling damage."
+      },
+      {
+        "heading": "Eliminated in Melee Range",
+        "image": "path_to_melee_range_icon.png",
+        "icon_image": "path_to_melee_range_icon_image.png",
+        "description": "Allow an enemy to eliminate you in close combat using a melee weapon."
+      },
+      {
+        "heading": "Eliminated by Throwable",
+        "image": "path_to_throwable_death_icon.png",
+        "icon_image": "path_to_throwable_death_icon_image.png",
+        "description": "Allow an enemy to eliminate you with a throwable item, such as a grenade or molotov."
+      },
+      {
+        "heading": "Eliminated by Bomb in Red Zone",
+        "image": "path_to_red_zone_bomb_icon.png",
+        "icon_image": "path_to_red_zone_bomb_icon_image.png",
+        "description": "Die from a bomb in the red zone. Remain within the red zone until you are eliminated."
+      },
+      {
+        "heading": "Eliminated by Vehicle",
+        "image": "path_to_vehicle_death_icon.png",
+        "icon_image": "path_to_vehicle_death_icon_image.png",
+        "description": "Allow yourself to be run over by a vehicle to complete this requirement."
+      }
+    ]
+  },
+  {
+    "name": "T-800",
+    "image": "path_to_t800_image.png",
+    "description": "Achieve Terminator rank one time in Arena Mode by eliminating more enemies than any other player on your team.",
+    "points": 10,
+    "category": "matches",
+    "hardness": "High",
+    "rewards": {
+      "title": "Terminator",
+      "titleImage": "path_to_terminator_title_image.png",
+      "extra": "Exclusive Terminator badge and bragging rights"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Outperform Your Teammates",
+        "image": "path_to_outperform_teammates_image.png",
+        "description": "Focus on securing as many kills as possible while ensuring your survival. Eliminate more players than your teammates to earn the Terminator rank."
+      },
+      {
+        "heading": "Stay Aggressive and Smart",
+        "image": "path_to_aggressive_and_smart_image.png",
+        "description": "Play aggressively but intelligently. Take calculated risks to eliminate enemies while ensuring you have the best positioning for engagements."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate More Enemies than Your Teammates",
+        "image": "path_to_more_eliminations_image.png",
+        "icon_image": "path_to_more_eliminations_icon.png",
+        "description": "Achieve Terminator rank by having the most eliminations compared to your teammates in Arena Mode."
+      },
+      {
+        "heading": "Survive and Rank High",
+        "image": "path_to_survival_image.png",
+        "icon_image": "path_to_survival_icon.png",
+        "description": "Not only must you eliminate the most enemies, but you should also survive until the later stages of the match to secure the Terminator rank."
+      }
+    ]
+  },
+  {
+    "name": "Take Me With You",
+    "image": "path_to_take_me_with_you_image.png",
+    "description": "Board an enemy vehicle and stay on it for more than 10 seconds.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Freeloader",
+      "titleImage": "path_to_freeloader_title_image.png",
+      "extra": "Earn the title and a special badge for your daring ride."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Spot an Enemy Vehicle",
+        "image": "path_to_enemy_vehicle_image.png",
+        "description": "Look for enemy vehicles on the map. These can be land vehicles like cars, bikes, or boats."
+      },
+      {
+        "heading": "Board the Vehicle Stealthily",
+        "image": "path_to_stealthily_board_image.png",
+        "description": "Wait for an enemy vehicle to pass by, and then quickly hop onto the moving vehicle. You must be close enough when the vehicle slows down or stops."
+      },
+      {
+        "heading": "Survive the 10 Seconds",
+        "image": "path_to_survive_10_seconds_image.png",
+        "description": "Once on the vehicle, stay on it for at least 10 seconds without being knocked off. Be cautious of the driver trying to shake you off or getting shot at."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Board an Enemy Vehicle",
+        "image": "path_to_board_vehicle_image.png",
+        "icon_image": "path_to_board_vehicle_icon.png",
+        "description": "Find and get on an enemy vehicle for more than 10 seconds to complete the mission."
+      }
+    ]
+  },
+  {
+    "name": "Run Chicken Run",
+    "image": "path_to_run_chicken_run_image.png",
+    "description": "Complete the following tasks: walk 10000 meters, travel in a vehicle for 10000 meters, and swim for 5000 meters.",
+    "points": 10,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Marathon Runner",
+      "titleImage": "path_to_marathon_runner_title_image.png",
+      "extra": "Earn the title and a special badge for your extensive travel."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Maximize Walking Distance",
+        "image": "path_to_walking_tips_image.png",
+        "description": "Walk around in the safe zone while looting or exploring to cover a significant amount of distance. Try to avoid unnecessary combat to maximize your walking distance."
+      },
+      {
+        "heading": "Vehicle Travel",
+        "image": "path_to_vehicle_travel_image.png",
+        "description": "Use vehicles to quickly cover large distances. You can either find a car, bike, or boat, depending on the map. Stay in the vehicle for extended periods to reach the 10000-meter goal."
+      },
+      {
+        "heading": "Swim Across Water",
+        "image": "path_to_swimming_image.png",
+        "description": "When you come across bodies of water, swim to cover the required distance. Swimming across lakes, rivers, and the coastline will help you complete this part of the mission."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Walk for 10000 Meters",
+        "image": "path_to_walk_image.png",
+        "icon_image": "path_to_walk_icon.png",
+        "description": "You need to walk a total of 10000 meters during the match. Walking while looting or exploring is an efficient way to complete this task."
+      },
+      {
+        "heading": "Travel in a Vehicle for 10000 Meters",
+        "image": "path_to_vehicle_image.png",
+        "icon_image": "path_to_vehicle_icon.png",
+        "description": "Use a vehicle (car, bike, boat) and travel a total of 10000 meters. Vehicles are the fastest way to complete this requirement."
+      },
+      {
+        "heading": "Swim for 5000 Meters",
+        "image": "path_to_swim_image.png",
+        "icon_image": "path_to_swim_icon.png",
+        "description": "Swim through bodies of water to reach the 5000 meters required. Take advantage of lakes, rivers, and oceans during the match."
+      }
+    ]
+  },
+  {
+    "name": "Fire At Will",
+    "image": "path_to_run_chicken_run_image.png",
+    "description": "Equip the following weapons in a match: MI6A4, AKM, SCAR-L, M416, Win94, Kar98K, VSS, Mini14, SLR, SKS, UZI, UMP45, Vector, Thompson, SMG, S686, S1897, SI2K, DP-28, P92, P1911, R1895, P18C, R45, Crossbow, pan, sawed-off.",
+    "points": 20,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Weapon Master",
+      "titleImage": "path_to_weapon_master_title_image.png",
+      "extra": "Earn the title 'Weapon Master' for equipping all the listed weapons."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Maximize Weapon Collection",
+        "image": "path_to_weapon_collection_image.png",
+        "description": "Make sure to loot all the specified weapons during your match. Visit various locations to ensure you can pick up the diverse range of weapons required."
+      },
+      {
+        "heading": "Prioritize Weapon Variety",
+        "image": "path_to_weapon_variety_image.png",
+        "description": "Focus on getting a variety of weapon types, including rifles, shotguns, pistols, and SMGs, to meet the mission requirements."
+      },
+      {
+        "heading": "Use Weapons Effectively",
+        "image": "path_to_effective_weapon_use_image.png",
+        "description": "While collecting all the listed weapons, use them effectively during the match to increase your chances of survival and complete the mission."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Equip All Weapons",
+        "image": "path_to_weapon_image.png",
+        "icon_image": "path_to_weapon_icon.png",
+        "description": "Loot and equip the listed weapons during the match. Ensure that you have at least one of each weapon type in your inventory."
+      }
+    ]
+  },
+  {
+    "name": "Star Support",
+    "image": "path_to_star_support_image.png",
+    "description": "Pick up the following items in a single match: Stun Grenade, Smoke Grenade, Molotov Cocktail, Frag Grenade, Fuel Battery Pack, Energy Drink, Adrenaline Syringe, First Aid Kit, Painkillers, Bandage, and Med Kit.",
+    "points": 10,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Support Specialist",
+      "titleImage": "path_to_support_specialist_title_image.png",
+      "extra": "Earn the title 'Support Specialist' for collecting all listed healing and utility items."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Loot High-Traffic Areas",
+        "image": "path_to_high_traffic_area_image.png",
+        "description": "Loot popular areas like military bases, large towns, and supply drops where you can find a good variety of utility items like grenades and healing supplies."
+      },
+      {
+        "heading": "Prioritize Utility Items",
+        "image": "path_to_utility_items_image.png",
+        "description": "When looting, focus on collecting utility items first such as grenades and healing items to progress in the mission."
+      },
+      {
+        "heading": "Check Drops and Airdrops",
+        "image": "path_to_airdrop_image.png",
+        "description": "Air drops often contain high-quality healing items and utility supplies such as Med Kits, Adrenaline Syringes, and Frag Grenades. Keep an eye on drop locations."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Pick Up All Listed Items",
+        "image": "path_to_item_list_image.png",
+        "icon_image": "path_to_item_list_icon.png",
+        "description": "You need to collect all the following items during a match: Stun Grenade, Smoke Grenade, Molotov Cocktail, Frag Grenade, Fuel Battery Pack, Energy Drink, Adrenaline Syringe, First Aid Kit, Painkillers, Bandage, and Med Kit."
+      }
+    ]
+  },
+  {
+    "name": "Armour Expert",
+    "image": "path_to_armour_expert_image.png",
+    "description": "Pick up the following weapon attachments during a single match: Muzzle, Stock, Magazine, Foregrip, and Scope.",
+    "points": 10,
+    "category": "matches",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Tactical Specialist",
+      "titleImage": "path_to_tactical_specialist_title_image.png",
+      "extra": "Earn the title 'Tactical Specialist' for collecting all weapon attachments listed in one match."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Loot High-Density Areas",
+        "image": "path_to_high_density_loot_area_image.png",
+        "description": "Focus on looting areas with high weapon spawn rates such as military bases, towns, and large settlements where weapon attachments are more likely to be found."
+      },
+      {
+        "heading": "Check Weapon Attachments in Buildings",
+        "image": "path_to_weapon_attachment_image.png",
+        "description": "Weapon attachments like Muzzles, Stocks, and Scopes can often be found inside buildings and weapon crates. Always inspect the loot in weapon supply areas."
+      },
+      {
+        "heading": "Loot Every Weapon You Find",
+        "image": "path_to_weapon_loot_image.png",
+        "description": "Whenever you find a weapon, pick it up and inspect its attachments. You may find Muzzles, Stocks, or Foregrips that you need for the mission."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Pick Up Weapon Attachments",
+        "image": "path_to_attachments_image.png",
+        "icon_image": "path_to_attachment_icon.png",
+        "description": "Pick up the following attachments during a single match: Muzzle, Stock, Magazine, Foregrip, and Scope. These attachments are typically found in supply crates or high-loot zones."
+      }
+    ]
   }
 ]
