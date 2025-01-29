@@ -16,20 +16,50 @@ const i18nDefaultValue = {
 };
 
 // Function to validate UTF-8 encoding and sanitize input
+// function validateAndSanitizeUtf8(value) {
+//   if (typeof value === "object" && value !== null) {
+//     for (const key in value) {
+//       // Ensure that the string is properly encoded
+//       if (!iconv.encodingExists("utf8")) {
+//         throw new Error(`Invalid encoding for language: ${key}`);
+//       }
+//       // Encode and decode to ensure valid UTF-8 characters
+//       const buffer = iconv.encode(value[key], "utf8");
+//       const utf8String = iconv.decode(buffer, "utf8");
+//       if (utf8String !== value[key]) {
+//         throw new Error(`Invalid UTF-8 string detected for language: ${key}`);
+//       }
+//       value[key] = utf8String; // Update the value with proper UTF-8 string
+//     }
+//   }
+// }
 function validateAndSanitizeUtf8(value) {
   if (typeof value === "object" && value !== null) {
     for (const key in value) {
-      // Ensure that the string is properly encoded
-      if (!iconv.encodingExists("utf8")) {
-        throw new Error(`Invalid encoding for language: ${key}`);
+      const originalString = value[key];
+      if (typeof originalString !== "string") {
+        throw new Error(`Value for language '${key}' must be a string.`);
       }
-      // Encode and decode to ensure valid UTF-8 characters
-      const buffer = iconv.encode(value[key], "utf8");
-      const utf8String = iconv.decode(buffer, "utf8");
-      if (utf8String !== value[key]) {
+
+      try {
+        // Ensure string is valid UTF-8 and preserve characters
+        const buffer = iconv.encode(originalString, "utf8");
+        const decodedString = buffer.toString("utf8");
+
+        if (decodedString !== originalString) {
+          console.warn(
+            `Sanitized invalid UTF-8 for '${key}': '${originalString}'`
+          );
+        }
+
+        // Update value with decoded string, preserving valid multilingual characters
+        value[key] = decodedString;
+      } catch (error) {
+        console.error(
+          `Error validating UTF-8 for '${key}': '${originalString}'`
+        );
         throw new Error(`Invalid UTF-8 string detected for language: ${key}`);
       }
-      value[key] = utf8String; // Update the value with proper UTF-8 string
     }
   }
 }
