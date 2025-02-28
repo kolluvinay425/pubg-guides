@@ -16,13 +16,15 @@
       }
       form {
         background-color: #ffffff;
-        padding: 20px;
+        padding: 30px;
         border-radius: 10px;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        width: 400px;
+        box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+        width: 600px;
+        max-width: 100%;
       }
       h3 {
         margin-top: 0;
+        color: #333;
       }
       label {
         display: block;
@@ -33,8 +35,8 @@
       textarea,
       button {
         width: 100%;
-        padding: 10px;
-        margin-bottom: 10px;
+        padding: 12px;
+        margin-bottom: 12px;
         border: 1px solid #ccc;
         border-radius: 5px;
         box-sizing: border-box;
@@ -44,6 +46,7 @@
         color: #fff;
         border: none;
         cursor: pointer;
+        transition: background-color 0.3s;
       }
       button:hover {
         background-color: #0056b3;
@@ -51,15 +54,19 @@
       .section {
         margin-bottom: 20px;
       }
-      .section div {
-        margin-bottom: 10px;
-      }
       .add-button {
         background-color: #28a745;
-        margin-bottom: 10px;
+        margin-bottom: 20px;
       }
       .add-button:hover {
         background-color: #218838;
+      }
+      .form-element {
+        background-color: #f9f9f9;
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        margin-bottom: 10px;
       }
     </style>
   </head>
@@ -94,6 +101,24 @@
         </button>
       </div>
 
+      <div class="section">
+        <h3>Rewards</h3>
+        <div class="form-element">
+          <label for="rewardTitle">Title:</label>
+          <input type="text" id="rewardTitle" name="rewardTitle" required />
+          <label for="rewardTitleImage">Title Image:</label>
+          <input
+            type="file"
+            id="rewardTitleImage"
+            name="rewardTitleImage"
+            accept="image/*"
+            required
+          />
+          <label for="rewardExtra">Extra:</label>
+          <textarea id="rewardExtra" name="rewardExtra" required></textarea>
+        </div>
+      </div>
+
       <button type="submit">Submit</button>
     </form>
 
@@ -103,31 +128,39 @@
           "requirementsSection"
         );
         const requirementDiv = document.createElement("div");
+        requirementDiv.className = "form-element";
         requirementDiv.innerHTML = `
-        <label>Heading:</label>
-        <input type="text" name="requirements[heading][]" required>
-        <label>Image:</label>
-        <input type="file" name="requirements[image][]" accept="image/*" required>
-        <label>Icon Image URL:</label>
-        <input type="text" name="requirements[icon_image][]" required>
-        <label>Description:</label>
-        <textarea name="requirements[description][]" required></textarea>
-      `;
-        requirementsSection.appendChild(requirementDiv);
+          <label>Heading:</label>
+          <input type="text" name="requirements[heading][]" >
+          <label>Image:</label>
+          <input type="file" name="requirements[image][]" accept="image/*" >
+          <label>Icon Image URL:</label>
+          <input type="text" name="requirements[icon_image][]" >
+          <label>Description:</label>
+          <textarea name="requirements[description][]" ></textarea>
+        `;
+        requirementsSection.insertBefore(
+          requirementDiv,
+          requirementsSection.firstChild
+        );
       }
 
       function addTipsTricks() {
         const tipsTricksSection = document.getElementById("tipsTricksSection");
         const tipsTricksDiv = document.createElement("div");
+        tipsTricksDiv.className = "form-element";
         tipsTricksDiv.innerHTML = `
-        <label>Heading:</label>
-        <input type="text" name="tipsTricks[heading][]" required>
-        <label>Image:</label>
-        <input type="file" name="tipsTricks[image][]" accept="image/*" required>
-        <label>Description:</label>
-        <textarea name="tipsTricks[description][]" required></textarea>
-      `;
-        tipsTricksSection.appendChild(tipsTricksDiv);
+          <label>Heading:</label>
+          <input type="text" name="tipsTricks[heading][]" required>
+          <label>Image:</label>
+          <input type="file" name="tipsTricks[image][]" accept="image/*" required>
+          <label>Description:</label>
+          <textarea name="tipsTricks[description][]" required></textarea>
+        `;
+        tipsTricksSection.insertBefore(
+          tipsTricksDiv,
+          tipsTricksSection.firstChild
+        );
       }
 
       document
@@ -137,7 +170,7 @@
           const formData = new FormData(event.target);
 
           try {
-            const response = await fetch("/api/achievements", {
+            const response = await fetch("/v1/api/achievements", {
               method: "POST",
               body: formData,
             });

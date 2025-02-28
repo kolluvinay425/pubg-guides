@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "superuser",
+    "database": "pubg guides",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432
+  },
+  "test": {
+    "username": "postgres",
+    "password": "superuser",
+    "database": "pubg guides test",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432
+  },
+  "production": {
+    "username": "postgres",
+    "password": "superuser",
+    "database": "pubg guides",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432
+  }
+}

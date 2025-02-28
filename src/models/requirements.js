@@ -1,6 +1,6 @@
 import { DataTypes } from "sequelize";
-import iconv from "iconv-lite";
 import sequelize from "../sequalize.js";
+import iconv from "iconv-lite";
 
 const i18nDefaultValue = {
   en: "",
@@ -15,7 +15,6 @@ const i18nDefaultValue = {
   ar: "",
 };
 
-// Function to validate UTF-8 encoding and sanitize input
 function validateAndSanitizeUtf8(value) {
   if (typeof value === "object" && value !== null) {
     for (const key in value) {
@@ -38,58 +37,39 @@ function validateAndSanitizeUtf8(value) {
   }
 }
 
-const Achievement = sequelize.define("Achievement", {
-  name: {
-    type: DataTypes.JSON,
-    allowNull: false,
+const Requirement = sequelize.define("Requirement", {
+  heading: {
+    type: DataTypes.JSONB,
+    allowNull: true,
     defaultValue: i18nDefaultValue,
     validate: {
       isUtf8: validateAndSanitizeUtf8,
     },
   },
   image: {
+    type: DataTypes.ARRAY(DataTypes.STRING), // Changed from STRING to ARRAY
+    allowNull: true,
+    defaultValue: [], // Ensuring it defaults to an empty array
+  },
+  icon_image: {
     type: DataTypes.STRING,
     allowNull: true,
   },
   description: {
-    type: DataTypes.JSON,
-    allowNull: false,
-    defaultValue: i18nDefaultValue,
-    validate: {
-      isUtf8: validateAndSanitizeUtf8,
-    },
-  },
-  points: {
-    type: DataTypes.INTEGER,
-    allowNull: false,
-  },
-  hardness: {
-    type: DataTypes.JSON,
-    allowNull: false,
-    defaultValue: i18nDefaultValue,
-    validate: {
-      isUtf8: validateAndSanitizeUtf8,
-    },
-  },
-  rewards: {
-    type: DataTypes.JSON,
+    type: DataTypes.JSONB,
     allowNull: true,
-    defaultValue: {
-      title: i18nDefaultValue,
-      titleImage: "",
-      extra: i18nDefaultValue,
-    },
+    defaultValue: i18nDefaultValue,
     validate: {
-      isUtf8(value) {
-        validateAndSanitizeUtf8(value.title);
-        validateAndSanitizeUtf8(value.extra);
-      },
+      isUtf8: validateAndSanitizeUtf8,
     },
   },
-  category: {
-    type: DataTypes.STRING,
-    allowNull: false,
+  achievementId: {
+    type: DataTypes.INTEGER,
+    references: {
+      model: "Achievements",
+      key: "id",
+    },
   },
 });
 
-export default Achievement;
+export default Requirement;

@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Chicken Expert",
+    "image": "",
+    "description": "Win 10 Solo Classic matches in the Platinum tier or higher, with each final kill made using a different weapon type.",
+    "points": 50,
+    "category": "glorious_moments",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Chicken Expert",
+      "titleImage": "",
+      "extra": "Achievement Points and possible in-game rewards"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Plan Ahead",
+        "image": "",
+        "description": "Before the final circle, ensure you have the specific weapon type needed for the final kill. Carry multiple weapons or loot specific items accordingly."
+      },
+      {
+        "heading": "Weaken the Final Opponent",
+        "image": "",
+        "description": "For harder kills like Melee or Crossbow, weaken the last enemy with other weapons before switching to the required weapon for the final blow."
+      },
+      {
+        "heading": "Utilize Bots",
+        "image": "",
+        "description": "Lower-tier matches may have bot opponents, making it easier to secure kills with less conventional weapons."
+      },
+      {
+        "heading": "Track Your Progress",
+        "image": "",
+        "description": "Keep a record of which weapon types you've used for final kills to ensure all categories are covered."
+      },
+      {
+        "heading": "Stay in Platinum Tier or Higher",
+        "image": "",
+        "description": "Make sure your rank remains in the Platinum tier or above, as dropping below will halt your progress toward this achievement."
+      },
+      {
+        "heading": "Prioritize Easier Weapons First",
+        "image": "",
+        "description": "Start with familiar weapons like ARs or SMGs, and save the challenging ones, like Melee or Crossbow, for later matches."
+      },
+      {
+        "heading": "Adapt Your Strategy",
+        "image": "",
+        "description": "Adjust your approach depending on the weapon needed. For vehicle kills, for example, fight in open areas to run over the final enemy."
+      },
+      {
+        "heading": "Stay Patient and Persistent",
+        "image": "",
+        "description": "This achievement requires skill and patience. Learn from each match and refine your strategy."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Final Kill with SMG",
+        "image": "",
+        "icon_image": "",
+        "description": "Secure the final kill using an SMG, such as UMP45, UZI, or Vector."
+      },
+      {
+        "heading": "Final Kill with Assault Rifle",
+        "image": "",
+        "icon_image": "",
+        "description": "Secure the final kill using an Assault Rifle, such as M416, AKM, or SCAR-L."
+      },
+      {
+        "heading": "Final Kill with Pistol",
+        "image": "",
+        "icon_image": "",
+        "description": "Secure the final kill using a Pistol, such as P1911, P92, or Desert Eagle."
+      },
+      {
+        "heading": "Final Kill with LMG",
+        "image": "",
+        "icon_image": "",
+        "description": "Secure the final kill using a Light Machine Gun, such as DP-28 or M249."
+      },
+      {
+        "heading": "Final Kill with Sniper Rifle",
+        "image": "",
+        "icon_image": "",
+        "description": "Secure the final kill using a Sniper Rifle, such as AWM, Kar98k, or M24."
+      },
+      {
+        "heading": "Final Kill with Shotgun",
+        "image": "",
+        "icon_image": "",
+        "description": "Secure the final kill using a Shotgun, such as S686, S1897, or S12K."
+      },
+      {
+        "heading": "Final Kill with Melee Weapon",
+        "image": "",
+        "icon_image": "",
+        "description": "Secure the final kill using a Melee Weapon, such as a Pan, Machete, or Crowbar."
+      },
+      {
+        "heading": "Final Kill with Crossbow",
+        "image": "",
+        "icon_image": "",
+        "description": "Secure the final kill using a Crossbow."
+      },
+      {
+        "heading": "Final Kill with Vehicle",
+        "image": "",
+        "icon_image": "",
+        "description": "Secure the final kill by eliminating the enemy with a vehicle."
+      },
+      {
+        "heading": "Final Kill with Throwable",
+        "image": "",
+        "icon_image": "",
+        "description": "Secure the final kill using a Throwable, such as a Grenade or Molotov Cocktail."
+      }
+    ]
+  }
+]

@@ -1,19 +1,25 @@
-import mongoose from "mongoose";
+import sequelize from "./sequalize.js"; // Your Sequelize configuration file
 import app from "./app.js";
 import listEndpoints from "express-list-endpoints";
 
-if (!process.env.MONGO_URI) {
-  throw new Error("No mongo url provided");
+if (!process.env.POSTGRES_URI) {
+  throw new Error("No PostgreSQL URL provided");
 }
 const port = process.env.PORT || 8081;
 
-const mongoConnection = mongoose.connect(process.env.MONGO_URI);
-
-mongoose.createConnection(process.env.MONGO_URI).asPromise();
-mongoConnection.then(() => {
-  app.listen(port, () => {
-    console.log(`Connected with mongoDB at ${process.env.MONGO_URI}`);
-    console.table(listEndpoints(app));
-    console.log(`server running on port ${port}`);
+// Connect to PostgreSQL
+sequelize
+  .authenticate()
+  .then(() => {
+    console.log("Connected with PostgreSQL at", process.env.POSTGRES_URI);
+    return sequelize.sync({ alter: true }); // Sync all models
+  })
+  .then(() => {
+    app.listen(port, () => {
+      console.table(listEndpoints(app));
+      console.log(`Server running on port ${port}`);
+    });
+  })
+  .catch((error) => {
+    console.error("Unable to connect to the database:", error);
   });
-});

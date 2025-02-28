@@ -1,0 +1,40 @@
+[
+  {
+    "name": "PUBG Elite IV",
+    "image": "",
+    "description": "Achieve a rating of 'SSS' or above twenty times in ranked matches to unlock this ultimate prestige achievement.",
+    "points": 20,
+    "category": "honor",
+    "hardness": "Legendary",
+    "rewards": {
+      "title": "PUBG Elite IV",
+      "titleImage": "",
+      "extra": "Exclusive and rare in-game rewards, such as legendary skins, titles, and badges."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Achieve Perfection",
+        "image": "",
+        "description": "To achieve an 'SSS' rating, you need to perform perfectly in nearly every match. This involves getting high kill counts, excellent survival, dealing massive damage, and making smart decisions throughout the game."
+      },
+      {
+        "heading": "Sharpen Your Skills",
+        "image": "",
+        "description": "Master every aspect of the game. Consistent high-level performance is key, so work on your shooting accuracy, positioning, and strategic decision-making to stay ahead."
+      },
+      {
+        "heading": "Solo or Squad, Consistency Matters",
+        "image": "",
+        "description": "Whether playing solo or in squads, maintain a high level of consistency across your matches. Always aim to deliver peak performance to ensure the rating is within reach."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Get a rating of 'SSS' or above",
+        "image": "",
+        "icon_image": "",
+        "description": "To complete this mission, you must achieve an 'SSS' rating or above in twenty separate ranked matches."
+      }
+    ]
+  }
+]

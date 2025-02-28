@@ -1,0 +1,1665 @@
+[
+  {
+    "name": "Ruler V",
+    "image": "https://example.com/ruler-v.png",
+    "description": "Prove your dominance in ranked matches by eliminating enemies and earning the Dominated Combat Medal.",
+    "points": 60,
+    "category": "honor",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Battleground Dominator",
+      "titleImage": "https://example.com/battleground-dominator.png",
+      "extra": "A prestigious title awarded for eliminating enemies and securing multiple Dominated Combat Medals."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Engage Smartly in Fights",
+        "image": "https://example.com/fight-tips.png",
+        "description": "Pick fights wisely—position yourself in cover, use grenades to flush out enemies, and avoid unnecessary risks."
+      },
+      {
+        "heading": "Choose High-Damage Weapons",
+        "image": "https://example.com/weapons-guide.png",
+        "description": "Use weapons like M416, AKM, or Beryl M762 for quick eliminations. Attach scopes and grips to improve accuracy."
+      },
+      {
+        "heading": "Play in Squads for Support",
+        "image": "https://example.com/squad-play.png",
+        "description": "Communicate with your team to strategize and take down enemies effectively. Having teammates can help secure more eliminations."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate More Than 10 Enemies in a Ranked Match",
+        "image": "https://example.com/elimination-goal.png",
+        "icon_image": "https://example.com/elimination-icon.png",
+        "description": "While playing in Gold tier or higher, eliminate at least 11 enemies in a single ranked match to progress."
+      },
+      {
+        "heading": "Win the Dominated Combat Medal 100 Times",
+        "image": "https://example.com/medal-requirement.png",
+        "icon_image": "https://example.com/medal-icon.png",
+        "description": "Earn the Dominated Combat Medal by securing multiple eliminations in ranked matches. You need to win it 100 times to complete this mission."
+      }
+    ]
+  },
+  {
+    "name": "Ruler IV",
+    "image": "https://example.com/ruler-iv.png",
+    "description": "Rise through the ranks and prove your skills by eliminating enemies and earning the Dominated Combat Medal in ranked matches.",
+    "points": 40,
+    "category": "honor",
+    "hardness": "Medium-Hard",
+    "rewards": {
+      "title": "Battleground Dominator",
+      "titleImage": "https://example.com/battleground-dominator.png",
+      "extra": "A special title granted to players who consistently eliminate enemies and win the Dominated Combat Medal."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Master Close-Range Combat",
+        "image": "https://example.com/close-range-tips.png",
+        "description": "Use shotguns like the DBS or high-DPS SMGs like the UMP45 for quick eliminations in close-range fights."
+      },
+      {
+        "heading": "Positioning is Key",
+        "image": "https://example.com/positioning-guide.png",
+        "description": "Stay inside buildings or use ridges for cover while taking fights. Avoid being caught in the open."
+      },
+      {
+        "heading": "Target Hot Zones",
+        "image": "https://example.com/hotzone.png",
+        "description": "Land in high-traffic areas like Pochinki, School, or Military Base for more enemy encounters."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate More Than 10 Enemies in a Ranked Match",
+        "image": "https://example.com/elimination-goal.png",
+        "icon_image": "https://example.com/elimination-icon.png",
+        "description": "While playing in Gold tier or higher, eliminate at least 11 enemies in a single ranked match."
+      },
+      {
+        "heading": "Win the Dominated Combat Medal 50 Times",
+        "image": "https://example.com/medal-requirement.png",
+        "icon_image": "https://example.com/medal-icon.png",
+        "description": "Earn the Dominated Combat Medal by securing multiple eliminations in ranked matches. You need to win it 50 times to complete this mission."
+      }
+    ]
+  },
+  {
+    "name": "Ruler III",
+    "image": "https://example.com/ruler-iii.png",
+    "description": "Show your dominance in ranked matches by eliminating multiple enemies and winning the Dominated Combat Medal multiple times.",
+    "points": 20,
+    "category": "honor",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Battleground Dominator",
+      "titleImage": "https://example.com/battleground-dominator.png",
+      "extra": "A prestigious title awarded to players who consistently secure high eliminations and earn the Dominated Combat Medal."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Focus on High-Kill Strategies",
+        "image": "https://example.com/high-kill-strategy.png",
+        "description": "Use high-fire rate weapons like the M416 or AKM with extended magazines to secure quick eliminations."
+      },
+      {
+        "heading": "Play in Aggressive Lobbies",
+        "image": "https://example.com/aggressive-play.png",
+        "description": "Land in high-traffic areas like School, Pochinki, or Military Base for more enemy encounters."
+      },
+      {
+        "heading": "Survive Longer for More Kills",
+        "image": "https://example.com/survival-tips.png",
+        "description": "Avoid unnecessary fights early on. Gear up properly before engaging in combat to maximize your eliminations."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate More Than 10 Enemies in a Ranked Match",
+        "image": "https://example.com/elimination-goal.png",
+        "icon_image": "https://example.com/elimination-icon.png",
+        "description": "While playing in Gold tier or higher, eliminate at least 11 enemies in a single ranked match."
+      },
+      {
+        "heading": "Win the Dominated Combat Medal 20 Times",
+        "image": "https://example.com/medal-requirement.png",
+        "icon_image": "https://example.com/medal-icon.png",
+        "description": "Earn the Dominated Combat Medal by securing multiple eliminations in ranked matches. You need to win it 20 times to complete this mission."
+      }
+    ]
+  },
+  {
+    "name": "Ruler II",
+    "image": "https://example.com/ruler-ii.png",
+    "description": "Prove your battle skills in ranked matches by eliminating multiple enemies and earning the prestigious Dominated Combat Medal.",
+    "points": 10,
+    "category": "honor",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Battleground Dominator",
+      "titleImage": "https://example.com/battleground-dominator.png",
+      "extra": "A special title awarded to players who excel in high-kill ranked matches and win the Dominated Combat Medal multiple times."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Choose Close-Combat Loadouts",
+        "image": "https://example.com/loadout-tips.png",
+        "description": "Use weapons like the UMP45, Vector, or M416 for close-range fights. Attach extended magazines to maximize eliminations."
+      },
+      {
+        "heading": "Drop in High-Density Areas",
+        "image": "https://example.com/hot-drop.png",
+        "description": "Land in locations like Pochinki, School, or Military Base to find more opponents early in the match."
+      },
+      {
+        "heading": "Use Grenades for Quick Kills",
+        "image": "https://example.com/grenade-tips.png",
+        "description": "Throw frag grenades into buildings or cover areas to eliminate multiple enemies at once."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate More Than 10 Enemies in a Ranked Match",
+        "image": "https://example.com/elimination-requirement.png",
+        "icon_image": "https://example.com/elimination-icon.png",
+        "description": "While playing in Gold tier or higher, achieve at least 11 eliminations in a single ranked match."
+      },
+      {
+        "heading": "Win the Dominated Combat Medal 10 Times",
+        "image": "https://example.com/medal-requirement.png",
+        "icon_image": "https://example.com/medal-icon.png",
+        "description": "Earn the Dominated Combat Medal by eliminating multiple enemies in ranked matches. You must win it 10 times to complete this mission."
+      }
+    ]
+  },
+  {
+    "name": "Ruler I",
+    "image": "https://example.com/ruler-i.png",
+    "description": "Prove your dominance in ranked matches by eliminating enemies efficiently and earning the prestigious Dominated Combat Medal.",
+    "points": 5,
+    "category": "honor",
+    "hardness": "Very Easy",
+    "rewards": {
+      "title": "Battleground Dominator",
+      "titleImage": "https://example.com/battleground-dominator.png",
+      "extra": "This title is awarded to skilled players who consistently eliminate multiple enemies in ranked matches."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Select High-Damage Weapons",
+        "image": "https://example.com/weapons-tips.png",
+        "description": "Use weapons like the M416, AKM, or DP-28 for balanced firepower and recoil control to secure more eliminations."
+      },
+      {
+        "heading": "Land in Popular Locations",
+        "image": "https://example.com/hot-drop.png",
+        "description": "Choose high-traffic areas like Pochinki, Military Base, or Hacienda del Patrón to engage in early fights and increase elimination chances."
+      },
+      {
+        "heading": "Use Vehicles Strategically",
+        "image": "https://example.com/vehicle-tips.png",
+        "description": "Use vehicles to rotate into fights quickly and run over enemies when necessary to secure easy kills."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate More Than 10 Enemies in a Ranked Match",
+        "image": "https://example.com/elimination-requirement.png",
+        "icon_image": "https://example.com/elimination-icon.png",
+        "description": "While playing in Gold tier or higher, secure at least 11 eliminations in a single ranked match."
+      },
+      {
+        "heading": "Win the Dominated Combat Medal 5 Times",
+        "image": "https://example.com/medal-requirement.png",
+        "icon_image": "https://example.com/medal-icon.png",
+        "description": "Earn the Dominated Combat Medal by eliminating multiple enemies in ranked matches. You need to win it 5 times to complete this mission."
+      }
+    ]
+  },
+  {
+    "name": "No Escape VI",
+    "image": "url_to_image_here",
+    "description": "Eliminate an enemy moving faster than 40km/h while at Gold tier or higher in a ranked match. Earn the Hawk-Eyed Combat Medal 200 times to complete the mission.",
+    "points": 80,
+    "category": "honor",
+    "hardness": "very hard",
+    "rewards": {
+      "title": "Hawk-Eyed",
+      "titleImage": "url_to_reward_image_here",
+      "extra": "Hawk-Eyed Combat Medal 200 times"
+    },
+    "tipsTricks": [
+      {
+        "heading": "How to identify enemies moving faster than 40km/h",
+        "image": "url_to_image_showing_high_speed_vehicles_or_sprints",
+        "description": "Enemies moving faster than 40km/h are typically using vehicles or engaging in high-speed movement like sprinting or driving motorcycles. Keep an eye on these players as they are more challenging to hit and eliminate. Use vehicles yourself to catch up with fast-moving enemies."
+      },
+      {
+        "heading": "Tips for Gold tier players",
+        "image": "url_to_gold_tier_ranking_image",
+        "description": "To complete this mission, you must be in Gold tier or higher. Make sure to focus on improving your rank before attempting to complete this mission. Play strategically, securing high-kill matches and focusing on winning to maintain your Gold status."
+      },
+      {
+        "heading": "Eliminating fast-moving enemies",
+        "image": "url_to_image_showing_long-range weapon and tracking",
+        "description": "Eliminating enemies that are moving at high speeds requires precision and good weapon control. Try to use weapons with high accuracy at long range, like the M416 or Kar98k, and focus on leading your shots. Tracking moving targets can be tough, so always aim a bit ahead of their movement trajectory."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate an enemy moving faster than 40km/h",
+        "image": "url_to_image_showing_moving_enemy",
+        "icon_image": "url_to_icon_image_for_speed",
+        "description": "You need to eliminate an enemy who is moving at more than 40km/h, either by vehicle or sprinting at high speed. Watch for players who are using motorcycles or vehicles to zip around the map."
+      },
+      {
+        "heading": "Be at Gold tier or higher in ranked mode",
+        "image": "url_to_gold_tier_badge",
+        "icon_image": "url_to_icon_image_for_rank",
+        "description": "Make sure you're playing in ranked mode and have reached Gold tier or higher. If you're not in Gold tier yet, focus on improving your skills and rank through ranked matches to reach this tier."
+      },
+      {
+        "heading": "Win the Hawk-Eyed Combat Medal 200 times",
+        "image": "url_to_image_for_medal",
+        "icon_image": "url_to_icon_image_for_medal",
+        "description": "Win the Hawk-Eyed Combat Medal a total of 200 times. This can be achieved by successfully completing missions or challenges that reward the medal, or through excellent combat performance in ranked matches."
+      }
+    ]
+  },
+  {
+    "name": "No Escape V",
+    "image": "url_to_image_here",
+    "description": "Eliminate an enemy moving faster than 40km/h while at Gold tier or higher in a ranked match. Earn the Hawk-Eyed Combat Medal 100 times to complete the mission.",
+    "points": 60,
+    "category": "honor",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Hawk-Eyed",
+      "titleImage": "url_to_reward_image_here",
+      "extra": "Hawk-Eyed Combat Medal 100 times"
+    },
+    "tipsTricks": [
+      {
+        "heading": "How to identify fast-moving enemies",
+        "image": "url_to_image_showing_high-speed_vehicles_or_sprints",
+        "description": "Enemies moving faster than 40km/h are typically using vehicles or engaging in high-speed movement like sprinting or driving motorcycles. Watch out for players using vehicles, as they will be harder to track and eliminate. Consider using a vehicle yourself to catch up with fast enemies."
+      },
+      {
+        "heading": "Tips for Gold tier players",
+        "image": "url_to_gold_tier_ranking_image",
+        "description": "To complete this mission, you must be in Gold tier or higher. Focus on improving your rank before attempting the mission. Participate in ranked matches to secure wins and maintain your Gold tier. A higher kill count and placement in these matches will also increase your chances of success."
+      },
+      {
+        "heading": "Eliminating fast-moving enemies",
+        "image": "url_to_image_showing_long-range weapon and tracking",
+        "description": "Eliminating fast-moving enemies requires precision and good weapon control. Use high-accuracy long-range weapons like M416 or AWM. Aim ahead of the target's movement to predict where they will be, and lead your shots accordingly."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate an enemy moving faster than 40km/h",
+        "image": "url_to_image_showing_moving_enemy",
+        "icon_image": "url_to_icon_image_for_speed",
+        "description": "You need to eliminate an enemy who is moving at more than 40km/h. This could be someone driving a vehicle or sprinting at high speed. Look for these fast-moving targets as they often require quicker reflexes and strategic positioning to take down."
+      },
+      {
+        "heading": "Achieve Gold tier or higher in ranked mode",
+        "image": "url_to_gold_tier_badge",
+        "icon_image": "url_to_icon_image_for_rank",
+        "description": "Make sure you're playing in ranked mode and have reached Gold tier or higher. If you're not in Gold tier yet, work on improving your ranking through focused efforts in ranked matches. Keep an eye on your win rate, kills, and placement."
+      },
+      {
+        "heading": "Win the Hawk-Eyed Combat Medal 100 times",
+        "image": "url_to_image_for_medal",
+        "icon_image": "url_to_icon_image_for_medal",
+        "description": "Win the Hawk-Eyed Combat Medal a total of 100 times by eliminating fast-moving enemies. This can be done during matches where you successfully kill enemies moving faster than 40km/h. Keep completing the objective to reach the 100 wins required."
+      }
+    ]
+  },
+  {
+    "name": "No Escape IV",
+    "image": "url_to_image_here",
+    "description": "Eliminate an enemy moving faster than 40km/h while at Gold tier or higher in a ranked match. Earn the Hawk-Eyed Combat Medal 50 times to complete the mission.",
+    "points": 40,
+    "category": "honor",
+    "hardness": "High",
+    "rewards": {
+      "title": "Hawk-Eyed",
+      "titleImage": "url_to_reward_image_here",
+      "extra": "Hawk-Eyed Combat Medal 50 times"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Identify Fast-Moving Enemies",
+        "image": "url_to_image_showing_high-speed_vehicles_or_sprints",
+        "description": "To complete this mission, focus on eliminating enemies moving at speeds faster than 40km/h. These could be players using vehicles like motorcycles or cars, or those sprinting at high speeds. Watch for fast-moving targets and stay alert when you spot them."
+      },
+      {
+        "heading": "Gold Tier Strategy",
+        "image": "url_to_gold_tier_ranking_image",
+        "description": "You must be in Gold tier or higher to participate in this mission. Focus on improving your rank in ranked matches by securing wins and consistently placing high in matches. Aiming for high-kill games will make it easier to achieve this requirement."
+      },
+      {
+        "heading": "Long-Range Weapons for Speedy Enemies",
+        "image": "url_to_image_of_weapons_suitable_for_long_range_combat",
+        "description": "Fast-moving enemies can be tricky to hit, so using long-range weapons like the M416 or Kar98k is crucial. These weapons offer good accuracy at long distances. Lead your shots when aiming at fast-moving players to account for their movement."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate an Enemy Moving Faster than 40km/h",
+        "image": "url_to_image_showing_moving_enemy",
+        "icon_image": "url_to_icon_image_for_speed",
+        "description": "The first requirement is to eliminate an enemy who is moving faster than 40km/h. Players using vehicles or running at full speed are ideal targets. They are harder to catch, so use quick reflexes and aim ahead to hit them."
+      },
+      {
+        "heading": "Achieve Gold Tier or Higher in Ranked Mode",
+        "image": "url_to_gold_tier_badge",
+        "icon_image": "url_to_icon_image_for_rank",
+        "description": "You need to be in Gold tier or higher to qualify for this mission. Work towards achieving this rank by playing ranked matches and focusing on maintaining a good kill count and survival rate. Once you're in Gold tier, you'll be eligible to complete this mission."
+      },
+      {
+        "heading": "Win the Hawk-Eyed Combat Medal 50 Times",
+        "image": "url_to_image_for_medal",
+        "icon_image": "url_to_icon_image_for_medal",
+        "description": "The final requirement is to win the Hawk-Eyed Combat Medal 50 times. Each time you eliminate an enemy moving faster than 40km/h, you'll earn this medal. Keep eliminating fast-moving enemies to accumulate enough wins and complete the mission."
+      }
+    ]
+  },
+  {
+    "name": "No Escape III",
+    "image": "url_to_image_here",
+    "description": "Eliminate an enemy moving faster than 40km/h while at Gold tier or higher in a ranked match. Earn the Hawk-Eyed Combat Medal 20 times to complete the mission.",
+    "points": 20,
+    "category": "honor",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Hawk-Eyed",
+      "titleImage": "url_to_reward_image_here",
+      "extra": "Hawk-Eyed Combat Medal 20 times"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Identify Fast-Moving Enemies",
+        "image": "url_to_image_showing_high-speed_vehicles_or_sprints",
+        "description": "To complete this mission, focus on enemies moving at high speeds. These can include players driving vehicles like motorcycles or cars, or those sprinting quickly. Look out for fast-moving targets, and be ready to engage them."
+      },
+      {
+        "heading": "Rank Up to Gold Tier",
+        "image": "url_to_gold_tier_ranking_image",
+        "description": "You must be in Gold tier or higher in ranked mode to qualify for this mission. To reach Gold, focus on consistent performance, high kill counts, and strategic gameplay. Play ranked matches, win games, and aim for a high rank."
+      },
+      {
+        "heading": "Use Long-Range Weapons for Accuracy",
+        "image": "url_to_image_of_weapons_suitable_for_long_range_combat",
+        "description": "Enemies moving faster than 40km/h can be difficult to hit. Use long-range weapons like the M416 or Kar98k for better accuracy at range. Practice leading your shots to anticipate their movement and increase your chances of eliminating them."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate an Enemy Moving Faster than 40km/h",
+        "image": "url_to_image_showing_moving_enemy",
+        "icon_image": "url_to_icon_image_for_speed",
+        "description": "The first requirement is to eliminate an enemy moving faster than 40km/h. Look for players using vehicles or sprinting at top speed. Use quick reflexes and accurate shots to secure the elimination."
+      },
+      {
+        "heading": "Achieve Gold Tier or Higher in Ranked Mode",
+        "image": "url_to_gold_tier_badge",
+        "icon_image": "url_to_icon_image_for_rank",
+        "description": "To be eligible for this mission, you must be in Gold tier or higher in ranked matches. Focus on improving your rank by consistently performing well, winning matches, and getting high kill counts."
+      },
+      {
+        "heading": "Win the Hawk-Eyed Combat Medal 20 Times",
+        "image": "url_to_image_for_medal",
+        "icon_image": "url_to_icon_image_for_medal",
+        "description": "The final requirement is to win the Hawk-Eyed Combat Medal 20 times. You earn this medal by eliminating fast-moving enemies. Keep tracking your eliminations and focus on getting the Hawk-Eyed medal in each match."
+      }
+    ]
+  },
+  {
+    "name": "No Escape II",
+    "image": "url_to_image_here",
+    "description": "Eliminate an enemy moving faster than 40km/h while at Gold tier or higher in a ranked match. Earn the Hawk-Eyed Combat Medal 10 times to complete the mission.",
+    "points": 10,
+    "category": "honor",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Hawk-Eyed",
+      "titleImage": "url_to_reward_image_here",
+      "extra": "Hawk-Eyed Combat Medal 10 times"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Identify Fast-Moving Enemies",
+        "image": "url_to_image_showing_high-speed_vehicles_or_sprints",
+        "description": "To complete this mission, target enemies moving at high speeds. This includes players in vehicles or those sprinting fast. Always look out for moving targets and be quick to eliminate them."
+      },
+      {
+        "heading": "Achieve Gold Tier or Higher",
+        "image": "url_to_gold_tier_ranking_image",
+        "description": "You must be at least in Gold tier or higher in ranked mode. Focus on your rank by playing well, getting kills, and working with your team to win matches. Aim to reach Gold tier by maintaining consistent high performance."
+      },
+      {
+        "heading": "Use Long-Range Weapons for Better Accuracy",
+        "image": "url_to_image_of_weapons_suitable_for_long_range_combat",
+        "description": "To improve your chances of eliminating fast-moving enemies, equip long-range weapons like the M416 or Kar98k. Lead your shots and adjust for distance to ensure you hit moving targets accurately."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate an Enemy Moving Faster than 40km/h",
+        "image": "url_to_image_showing_moving_enemy",
+        "icon_image": "url_to_icon_image_for_speed",
+        "description": "The first requirement is to eliminate an enemy who is moving faster than 40km/h. Look for enemies in vehicles or those sprinting at top speed. You need to stay alert and take quick shots to secure the elimination."
+      },
+      {
+        "heading": "Achieve Gold Tier or Higher in Ranked Mode",
+        "image": "url_to_gold_tier_badge",
+        "icon_image": "url_to_icon_image_for_rank",
+        "description": "You need to be in Gold tier or higher in ranked mode to qualify for this mission. Improve your rank by playing consistently and performing well in each match."
+      },
+      {
+        "heading": "Win the Hawk-Eyed Combat Medal 10 Times",
+        "image": "url_to_image_for_medal",
+        "icon_image": "url_to_icon_image_for_medal",
+        "description": "The final requirement is to win the Hawk-Eyed Combat Medal 10 times. You earn this medal by eliminating fast-moving enemies. Focus on getting the Hawk-Eyed medal in every match to complete this mission."
+      }
+    ]
+  },
+  {
+    "name": "No Escape I",
+    "image": "url_to_image_here",
+    "description": "Eliminate an enemy moving faster than 40km/h while at Gold tier or higher in a ranked match. Earn the Hawk-Eyed Combat Medal 5 times to complete the mission.",
+    "points": 5,
+    "category": "honor",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Hawk-Eyed",
+      "titleImage": "url_to_reward_image_here",
+      "extra": "Hawk-Eyed Combat Medal 5 times"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Identify Fast-Moving Enemies",
+        "image": "url_to_image_showing_high-speed_vehicles_or_sprints",
+        "description": "Eliminate enemies who are moving faster than 40km/h. This includes enemies in vehicles, on motorcycles, or those sprinting on foot. Keep an eye out for quick-moving targets."
+      },
+      {
+        "heading": "Achieve Gold Tier or Higher",
+        "image": "url_to_gold_tier_ranking_image",
+        "description": "To complete the mission, ensure you are in Gold tier or higher in ranked matches. Consistently perform well and aim for Gold or above to unlock this mission requirement."
+      },
+      {
+        "heading": "Earn the Hawk-Eyed Medal in Ranked Matches",
+        "image": "url_to_image_of_hawk_eyed_medal",
+        "description": "The Hawk-Eyed medal is awarded for eliminating fast-moving enemies. You need to achieve this 5 times in ranked matches to complete the mission. Focus on positioning and accuracy to increase your chances."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Eliminate an Enemy Moving Faster than 40km/h",
+        "image": "url_to_image_showing_moving_enemy",
+        "icon_image": "url_to_icon_image_for_speed",
+        "description": "You need to eliminate an enemy moving faster than 40km/h. This includes vehicles, motorcycles, or players sprinting. Be quick to engage and eliminate these fast-moving targets."
+      },
+      {
+        "heading": "Achieve Gold Tier or Higher in Ranked Mode",
+        "image": "url_to_gold_tier_badge",
+        "icon_image": "url_to_icon_image_for_rank",
+        "description": "Ensure you're in Gold tier or higher to meet this mission requirement. Play ranked matches consistently to achieve and maintain this tier."
+      },
+      {
+        "heading": "Win the Hawk-Eyed Combat Medal 5 Times",
+        "image": "url_to_image_for_medal",
+        "icon_image": "url_to_icon_image_for_medal",
+        "description": "The Hawk-Eyed medal is awarded for eliminating fast-moving enemies. You need to earn this medal 5 times in ranked matches to complete the mission. Focus on staying sharp and targeting fast-moving enemies."
+      }
+    ]
+  },
+  {
+    "name": "Triple Elimination I",
+    "image": "https://example.com/triple_elimination_image.jpg",
+    "description": "Eliminate 3 enemies consecutively within 1 minute while at Gold tier or higher in a ranked match to earn the Triple Elimination Combat Medal.",
+    "points": 5,
+    "category": "honor",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Triple Eliminator",
+      "titleImage": "https://example.com/triple_eliminator_title.jpg",
+      "extra": "Achievement badge and XP boost"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Drop in High-Action Zones",
+        "image": "https://example.com/drop_zones.jpg",
+        "description": "Land in locations with high player density like Pochinki, Bootcamp, or Hacienda del Patrón to find quick engagements."
+      },
+      {
+        "heading": "Choose High-Damage Weapons",
+        "image": "https://example.com/high_damage_weapons.jpg",
+        "description": "Pick up weapons with fast fire rates and high damage output such as M762, AKM, or shotguns to eliminate enemies quickly."
+      },
+      {
+        "heading": "Engage in Close-Quarters Combat",
+        "image": "https://example.com/cqc_tips.jpg",
+        "description": "Stick to buildings and narrow areas to maximize damage and reduce enemy escape routes."
+      },
+      {
+        "heading": "Use Grenades and Utilities",
+        "image": "https://example.com/grenades_tips.jpg",
+        "description": "Throw grenades or Molotovs into crowded areas to weaken enemies before finishing them off."
+      },
+      {
+        "heading": "Stay Aggressive and Take Risks",
+        "image": "https://example.com/aggressive_play.jpg",
+        "description": "Don't hesitate—push enemies quickly, take advantage of surprise, and chain eliminations efficiently."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Gold Tier or Higher in Ranked Matches",
+        "image": "https://example.com/gold_tier_requirement.jpg",
+        "icon_image": "https://example.com/gold_tier_icon.jpg",
+        "description": "You must be at least Gold tier in ranked mode to qualify for this achievement."
+      },
+      {
+        "heading": "Eliminate 3 Enemies Consecutively Within 1 Minute of Landing",
+        "image": "https://example.com/triple_kill_requirement.jpg",
+        "icon_image": "https://example.com/kill_icon.jpg",
+        "description": "Secure 3 eliminations within 60 seconds of landing at the start of the game in a ranked match to earn the Triple Elimination Combat Medal."
+      }
+    ]
+  },
+  {
+    "name": "Triple Elimination II",
+    "image": "https://example.com/triple_elimination_ii_image.jpg",
+    "description": "Eliminate 3 enemies consecutively within 1 minute of starting the game while at Gold tier or higher in a ranked match to earn the Triple Elimination Combat Medal. Achieve this 5 times to complete the mission.",
+    "points": 10,
+    "category": "honor",
+    "hardness": "Very Hard",
+    "rewards": {
+      "title": "Elite Triple Eliminator",
+      "titleImage": "https://example.com/elite_triple_eliminator_title.jpg",
+      "extra": "Exclusive badge and extra BP rewards"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Drop in High-Engagement Zones",
+        "image": "https://example.com/drop_zones.jpg",
+        "description": "Land in crowded areas like Pochinki, Bootcamp, or Hacienda del Patrón to find quick enemy encounters."
+      },
+      {
+        "heading": "Prioritize Fast-Kill Weapons",
+        "image": "https://example.com/high_damage_weapons.jpg",
+        "description": "Use weapons with high fire rates and damage, such as M762, AKM, or shotguns, to secure rapid eliminations."
+      },
+      {
+        "heading": "Master Quick Movement and Reflexes",
+        "image": "https://example.com/movement_tips.jpg",
+        "description": "Improve your movement skills and reaction time to swiftly eliminate enemies before they can react."
+      },
+      {
+        "heading": "Use Grenades for Instant Knockouts",
+        "image": "https://example.com/grenades_tips.jpg",
+        "description": "Toss grenades or Molotovs into high-traffic areas to weaken multiple opponents before engaging."
+      },
+      {
+        "heading": "Keep Track of Your Medal Progression",
+        "image": "https://example.com/medal_progress.jpg",
+        "description": "Check your progress frequently and adjust your strategy to secure the medal five times."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Gold Tier or Higher in Ranked Matches",
+        "image": "https://example.com/gold_tier_requirement.jpg",
+        "icon_image": "https://example.com/gold_tier_icon.jpg",
+        "description": "You must be at least Gold tier in ranked mode to qualify for this achievement."
+      },
+      {
+        "heading": "Eliminate 3 Enemies Consecutively Within 1 Minute of Starting the Game",
+        "image": "https://example.com/triple_kill_requirement.jpg",
+        "icon_image": "https://example.com/kill_icon.jpg",
+        "description": "Secure 3 eliminations within the first 60 seconds of the match in a ranked game to earn the Triple Elimination Combat Medal."
+      },
+      {
+        "heading": "Win the Triple Elimination Combat Medal 5 Times",
+        "image": "https://example.com/medal_requirement.jpg",
+        "icon_image": "https://example.com/medal_icon.jpg",
+        "description": "Repeat the challenge five times to complete the mission and unlock rewards."
+      }
+    ]
+  },
+  {
+    "name": "Triple Elimination III",
+    "image": "https://example.com/triple_elimination_iii_image.jpg",
+    "description": "Eliminate 3 enemies consecutively within 1 minute of starting the game while at Gold tier or higher in a ranked match to earn the Triple Elimination Combat Medal. Achieve this 20 times to complete the mission.",
+    "points": 20,
+    "category": "honor",
+    "hardness": "Extremely Hard",
+    "rewards": {
+      "title": "Legendary Triple Eliminator",
+      "titleImage": "https://example.com/legendary_triple_eliminator_title.jpg",
+      "extra": "Exclusive badge, special outfit, and extra BP rewards"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Land in High-Combat Areas",
+        "image": "https://example.com/drop_zones.jpg",
+        "description": "Drop in locations like Pochinki, Bootcamp, or Hacienda del Patrón where multiple enemies land for quick engagements."
+      },
+      {
+        "heading": "Use Fast and High-Damage Weapons",
+        "image": "https://example.com/high_damage_weapons.jpg",
+        "description": "Prioritize picking up weapons like M762, AKM, DBS, or shotguns to secure rapid eliminations within the first minute."
+      },
+      {
+        "heading": "Improve Your Reaction Speed",
+        "image": "https://example.com/movement_tips.jpg",
+        "description": "Work on quick reflexes and fast aiming to outplay enemies and secure three eliminations efficiently."
+      },
+      {
+        "heading": "Utilize Grenades and Utilities",
+        "image": "https://example.com/grenades_tips.jpg",
+        "description": "Throw grenades or Molotovs into enemy clusters to weaken them before rushing for the final kills."
+      },
+      {
+        "heading": "Track Your Medal Progress",
+        "image": "https://example.com/medal_progress.jpg",
+        "description": "Monitor your progress in the achievements tab and adjust your landing and engagement strategies accordingly."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Gold Tier or Higher in Ranked Matches",
+        "image": "https://example.com/gold_tier_requirement.jpg",
+        "icon_image": "https://example.com/gold_tier_icon.jpg",
+        "description": "You must be at least Gold tier in ranked mode to qualify for this achievement."
+      },
+      {
+        "heading": "Eliminate 3 Enemies Consecutively Within 1 Minute of Starting the Game",
+        "image": "https://example.com/triple_kill_requirement.jpg",
+        "icon_image": "https://example.com/kill_icon.jpg",
+        "description": "Secure 3 eliminations within the first 60 seconds of the match in a ranked game to earn the Triple Elimination Combat Medal."
+      },
+      {
+        "heading": "Win the Triple Elimination Combat Medal 20 Times",
+        "image": "https://example.com/medal_requirement.jpg",
+        "icon_image": "https://example.com/medal_icon.jpg",
+        "description": "Repeat the challenge 20 times to complete the mission and unlock exclusive rewards."
+      }
+    ]
+  },
+  {
+    "name": "Triple Elimination IV",
+    "image": "https://example.com/triple_elimination_iv_image.jpg",
+    "description": "Eliminate 3 enemies consecutively within 1 minute of starting the game while at Gold tier or higher in a ranked match to earn the Triple Elimination Combat Medal. Achieve this 60 times to complete the mission.",
+    "points": 40,
+    "category": "honor",
+    "hardness": "Insanely Hard",
+    "rewards": {
+      "title": "Ultimate Triple Eliminator",
+      "titleImage": "https://example.com/ultimate_triple_eliminator_title.jpg",
+      "extra": "Exclusive legendary outfit, rare achievement badge, and high BP rewards"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Drop in High-Engagement Areas",
+        "image": "https://example.com/drop_zones.jpg",
+        "description": "Land in areas with intense action such as Pochinki, Bootcamp, or Hacienda del Patrón to find enemies quickly."
+      },
+      {
+        "heading": "Utilize High-Damage Weapons",
+        "image": "https://example.com/high_damage_weapons.jpg",
+        "description": "Equip weapons with rapid fire rates and strong damage output, like M762, AKM, DBS, or UMP45 for effective eliminations."
+      },
+      {
+        "heading": "Master Quick Reflexes and Movement",
+        "image": "https://example.com/movement_tips.jpg",
+        "description": "Improve your movement skills and reaction time to secure multiple kills swiftly before the timer runs out."
+      },
+      {
+        "heading": "Use Grenades and Other Utilities",
+        "image": "https://example.com/grenades_tips.jpg",
+        "description": "Throw grenades or Molotovs into crowded areas to weaken enemies before rushing in for the final kills."
+      },
+      {
+        "heading": "Monitor Your Medal Progression",
+        "image": "https://example.com/medal_progress.jpg",
+        "description": "Track your progress frequently and refine your strategy to ensure consistent medal completions."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Gold Tier or Higher in Ranked Matches",
+        "image": "https://example.com/gold_tier_requirement.jpg",
+        "icon_image": "https://example.com/gold_tier_icon.jpg",
+        "description": "You must be at least Gold tier in ranked mode to qualify for this achievement."
+      },
+      {
+        "heading": "Eliminate 3 Enemies Consecutively Within 1 Minute of Starting the Game",
+        "image": "https://example.com/triple_kill_requirement.jpg",
+        "icon_image": "https://example.com/kill_icon.jpg",
+        "description": "Secure 3 eliminations within the first 60 seconds of the match in a ranked game to earn the Triple Elimination Combat Medal."
+      },
+      {
+        "heading": "Win the Triple Elimination Combat Medal 60 Times",
+        "image": "https://example.com/medal_requirement.jpg",
+        "icon_image": "https://example.com/medal_icon.jpg",
+        "description": "Repeat the challenge 60 times to complete the mission and unlock exclusive rewards."
+      }
+    ]
+  },
+  {
+    "name": "Triple Elimination V",
+    "image": "https://example.com/triple_elimination_v_image.jpg",
+    "description": "Eliminate 3 enemies consecutively within 1 minute of starting the game while at Gold tier or higher in a ranked match to earn the Triple Elimination Combat Medal. Achieve this 120 times to complete the mission.",
+    "points": 60,
+    "category": "honor",
+    "hardness": "Insanely Difficult",
+    "rewards": {
+      "title": "Mythic Triple Eliminator",
+      "titleImage": "https://example.com/mythic_triple_eliminator_title.jpg",
+      "extra": "Exclusive mythic outfit, elite achievement badge, and high BP rewards"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Land in High-Engagement Areas",
+        "image": "https://example.com/drop_zones.jpg",
+        "description": "Choose hot-drop locations like Pochinki, Bootcamp, or Hacienda del Patrón to ensure immediate combat engagements."
+      },
+      {
+        "heading": "Use High-Damage and Fast Weapons",
+        "image": "https://example.com/high_damage_weapons.jpg",
+        "description": "Equip weapons such as M762, AKM, DBS, or UMP45 to maximize your chances of quick eliminations."
+      },
+      {
+        "heading": "Enhance Reflexes and Movement Skills",
+        "image": "https://example.com/movement_tips.jpg",
+        "description": "Improve your movement skills and reaction time to outplay enemies and secure three kills swiftly."
+      },
+      {
+        "heading": "Utilize Grenades and Molotovs",
+        "image": "https://example.com/grenades_tips.jpg",
+        "description": "Use explosives to damage enemies before engaging to increase your chances of fast eliminations."
+      },
+      {
+        "heading": "Monitor Your Progress",
+        "image": "https://example.com/medal_progress.jpg",
+        "description": "Keep track of your medal count and refine your strategy accordingly to achieve consistent success."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Gold Tier or Higher in Ranked Matches",
+        "image": "https://example.com/gold_tier_requirement.jpg",
+        "icon_image": "https://example.com/gold_tier_icon.jpg",
+        "description": "You must be at least Gold tier in ranked mode to qualify for this achievement."
+      },
+      {
+        "heading": "Eliminate 3 Enemies Consecutively Within 1 Minute of Starting the Game",
+        "image": "https://example.com/triple_kill_requirement.jpg",
+        "icon_image": "https://example.com/kill_icon.jpg",
+        "description": "Secure 3 eliminations within the first 60 seconds of the match in a ranked game to earn the Triple Elimination Combat Medal."
+      },
+      {
+        "heading": "Win the Triple Elimination Combat Medal 120 Times",
+        "image": "https://example.com/medal_requirement.jpg",
+        "icon_image": "https://example.com/medal_icon.jpg",
+        "description": "Repeat the challenge 120 times to complete the mission and unlock exclusive rewards."
+      }
+    ]
+  },
+  {
+    "name": "Triple Elimination VI",
+    "image": "https://example.com/triple_elimination_vi_image.jpg",
+    "description": "Eliminate 3 enemies consecutively within 1 minute of starting the game while at Gold tier or higher in a ranked match to earn the Triple Elimination Combat Medal. Achieve this 300 times to complete the mission.",
+    "points": 80,
+    "category": "honor",
+    "hardness": "Mythically Difficult",
+    "rewards": {
+      "title": "Godlike Triple Eliminator",
+      "titleImage": "https://example.com/godlike_triple_eliminator_title.jpg",
+      "extra": "Exclusive god-tier outfit, legendary achievement badge, and massive BP rewards"
+    },
+    "tipsTricks": [
+      {
+        "heading": "Drop in High-Combat Areas",
+        "image": "https://example.com/drop_zones.jpg",
+        "description": "Land in high-action zones like Pochinki, Bootcamp, or Hacienda del Patrón for immediate enemy encounters."
+      },
+      {
+        "heading": "Use the Best Early-Game Weapons",
+        "image": "https://example.com/high_damage_weapons.jpg",
+        "description": "Prioritize powerful weapons such as M762, AKM, DBS, or Vector to secure rapid eliminations."
+      },
+      {
+        "heading": "Master Speed and Accuracy",
+        "image": "https://example.com/movement_tips.jpg",
+        "description": "Enhance reflexes and movement techniques to quickly eliminate enemies before the timer expires."
+      },
+      {
+        "heading": "Utilize Explosives Wisely",
+        "image": "https://example.com/grenades_tips.jpg",
+        "description": "Throw grenades or Molotovs at crowded spots to weaken enemies before engaging."
+      },
+      {
+        "heading": "Track Your Achievement Progress",
+        "image": "https://example.com/medal_progress.jpg",
+        "description": "Monitor your medal count frequently to fine-tune your strategies and improve consistency."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Gold Tier or Higher in Ranked Matches",
+        "image": "https://example.com/gold_tier_requirement.jpg",
+        "icon_image": "https://example.com/gold_tier_icon.jpg",
+        "description": "You must be at least Gold tier in ranked mode to qualify for this achievement."
+      },
+      {
+        "heading": "Eliminate 3 Enemies Consecutively Within 1 Minute of Starting the Game",
+        "image": "https://example.com/triple_kill_requirement.jpg",
+        "icon_image": "https://example.com/kill_icon.jpg",
+        "description": "Secure 3 eliminations within the first 60 seconds of the match in a ranked game to earn the Triple Elimination Combat Medal."
+      },
+      {
+        "heading": "Win the Triple Elimination Combat Medal 300 Times",
+        "image": "https://example.com/medal_requirement.jpg",
+        "icon_image": "https://example.com/medal_icon.jpg",
+        "description": "Repeat the challenge 300 times to complete the mission and unlock exclusive rewards."
+      }
+    ]
+  },
+  {
+    "name": "PUBG Elite I",
+    "image": "",
+    "description": "Achieve a rating of 'A' or above three times in ranked matches to earn this prestigious title.",
+    "points": 5,
+    "category": "honor",
+    "hardness": "Intermediate",
+    "rewards": {
+      "title": "PUBG Elite",
+      "titleImage": "",
+      "extra": "Special in-game rewards such as exclusive skins and badges."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Play Strategically",
+        "image": "",
+        "description": "To get an 'A' rating, you must perform well in multiple aspects of the game, such as kills, survival time, and teamwork. Focus on consistent performance."
+      },
+      {
+        "heading": "Squad Cooperation",
+        "image": "",
+        "description": "Communicate and cooperate with your squad for better positioning, tactical advantages, and support, which will improve your chances of getting higher ratings."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Get a rating of 'A' or above",
+        "image": "",
+        "icon_image": "",
+        "description": "To complete this mission, you must get a rating of 'A' or above in three separate ranked matches."
+      }
+    ]
+  },
+  {
+    "name": "PUBG Elite II",
+    "image": "",
+    "description": "Achieve a rating of 'S' or above five times in ranked matches to unlock this prestigious achievement.",
+    "points": 10,
+    "category": "honor",
+    "hardness": "Advanced",
+    "rewards": {
+      "title": "PUBG Elite II",
+      "titleImage": "",
+      "extra": "Exclusive in-game rewards, such as special skins and enhanced badges."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Master High-Pressure Situations",
+        "image": "",
+        "description": "To achieve an 'S' rating, you need to perform exceptionally well under pressure. Focus on getting high kill counts, excellent survival time, and superior damage output in intense situations."
+      },
+      {
+        "heading": "Optimal Strategy and Teamplay",
+        "image": "",
+        "description": "Collaborate closely with your squad. Strategy, teamwork, and smart positioning are key. Aim for team eliminations and avoid unnecessary risks."
+      },
+      {
+        "heading": "Consistency Is Key",
+        "image": "",
+        "description": "To achieve an 'S' rating, you need to perform consistently well across different matches. Regularly refine your skills and avoid falling into bad habits."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Get a rating of 'S' or above",
+        "image": "",
+        "icon_image": "",
+        "description": "To complete this mission, you must achieve an 'S' rating or above in five separate ranked matches."
+      }
+    ]
+  },
+  {
+    "name": "PUBG Elite III",
+    "image": "",
+    "description": "Achieve a rating of 'SS' or above ten times in ranked matches to unlock this ultimate achievement.",
+    "points": 15,
+    "category": "honor",
+    "hardness": "Expert",
+    "rewards": {
+      "title": "PUBG Elite III",
+      "titleImage": "",
+      "extra": "Exclusive, high-tier rewards such as rare skins, badges, and other in-game items."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Maximize Your Performance",
+        "image": "",
+        "description": "To earn an 'SS' rating, you need to perform exceptionally well in almost every aspect of the game. Focus on getting high kills, surviving the longest, and dealing significant damage."
+      },
+      {
+        "heading": "Play Aggressively, But Smartly",
+        "image": "",
+        "description": "You need to eliminate enemies efficiently while maintaining great survival time. Use your aggression strategically and avoid unnecessary risks that might hurt your rating."
+      },
+      {
+        "heading": "Master the Mechanics and Map Knowledge",
+        "image": "",
+        "description": "Maximize your effectiveness by mastering the game's mechanics, weapons, and maps. Knowledge of terrain, loot spots, and positioning will give you a critical advantage."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Get a rating of 'SS' or above",
+        "image": "",
+        "icon_image": "",
+        "description": "To complete this mission, you must achieve an 'SS' rating or above in ten separate ranked matches."
+      }
+    ]
+  },
+  {
+    "name": "PUBG Elite IV",
+    "image": "",
+    "description": "Achieve a rating of 'SSS' or above twenty times in ranked matches to unlock this ultimate prestige achievement.",
+    "points": 20,
+    "category": "honor",
+    "hardness": "Legendary",
+    "rewards": {
+      "title": "PUBG Elite IV",
+      "titleImage": "",
+      "extra": "Exclusive and rare in-game rewards, such as legendary skins, titles, and badges."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Achieve Perfection",
+        "image": "",
+        "description": "To achieve an 'SSS' rating, you need to perform perfectly in nearly every match. This involves getting high kill counts, excellent survival, dealing massive damage, and making smart decisions throughout the game."
+      },
+      {
+        "heading": "Sharpen Your Skills",
+        "image": "",
+        "description": "Master every aspect of the game. Consistent high-level performance is key, so work on your shooting accuracy, positioning, and strategic decision-making to stay ahead."
+      },
+      {
+        "heading": "Solo or Squad, Consistency Matters",
+        "image": "",
+        "description": "Whether playing solo or in squads, maintain a high level of consistency across your matches. Always aim to deliver peak performance to ensure the rating is within reach."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Get a rating of 'SSS' or above",
+        "image": "",
+        "icon_image": "",
+        "description": "To complete this mission, you must achieve an 'SSS' rating or above in twenty separate ranked matches."
+      }
+    ]
+  },
+  {
+    "name": "PUBG Elite V",
+    "image": "",
+    "description": "Achieve a rating of 'SSS' or above fifty times in ranked matches to unlock the ultimate level of elite status.",
+    "points": 40,
+    "category": "honor",
+    "hardness": "Godlike",
+    "rewards": {
+      "title": "PUBG Elite V",
+      "titleImage": "",
+      "extra": "The most exclusive rewards, including legendary skins, titles, and badges not available anywhere else."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Perfection in Every Match",
+        "image": "",
+        "description": "To achieve an 'SSS' rating 50 times, you must maintain perfect performance in a large number of matches. Focus on eliminating opponents efficiently, surviving until the end, and maximizing damage output."
+      },
+      {
+        "heading": "Master Every Aspect of Gameplay",
+        "image": "",
+        "description": "SSS ratings require you to be exceptional in all areas of the game. Work on perfecting your aiming, map knowledge, strategy, teamwork (if in squads), and decision-making. Consistency is crucial."
+      },
+      {
+        "heading": "Adapt to Different Scenarios",
+        "image": "",
+        "description": "Each match is different, so flexibility is key. Whether you are playing aggressive or defensive, adapting to various situations will help you maintain high performance, and therefore, higher ratings."
+      },
+      {
+        "heading": "Stay Calm and Focused",
+        "image": "",
+        "description": "SSS ratings come from consistently great decision-making under pressure. Focus on your strategy and avoid panicking during intense moments."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Get a rating of 'SSS' or above",
+        "image": "",
+        "icon_image": "",
+        "description": "To complete this mission, you must achieve an 'SSS' rating or above in fifty separate ranked matches."
+      }
+    ]
+  },
+  {
+    "name": "Chicken Bucket I",
+    "image": "",
+    "description": "Win a match in Classic mode to unlock this achievement. Celebrate your first victory with a bucket of chicken!",
+    "points": 5,
+    "category": "honor",
+    "hardness": "Easy",
+    "rewards": {
+      "title": "Chicken Winner",
+      "titleImage": "",
+      "extra": "Unlock a special in-game badge to show off your victory."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Play It Safe and Smart",
+        "image": "",
+        "description": "Focus on survival and take your time to gather resources. Avoid unnecessary fights and focus on positioning yourself for the final stages of the match."
+      },
+      {
+        "heading": "Teamwork in Squads",
+        "image": "",
+        "description": "If playing in a squad, communication and cooperation are key. Work together to eliminate enemies and stay alive until the final circle."
+      },
+      {
+        "heading": "Know the Map",
+        "image": "",
+        "description": "Familiarize yourself with the map to know where to find the best loot, safe zones, and ideal places to hide or ambush opponents."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Win 1 time in Classic mode",
+        "image": "",
+        "icon_image": "",
+        "description": "To complete this mission, you simply need to win one match in Classic mode, either solo or with a squad."
+      }
+    ]
+  },
+  {
+    "name": "Chicken Bucket II",
+    "image": "",
+    "description": "Win 5 matches in Classic mode (Solo, Duo, or Squad) to unlock this achievement and prove you're a true winner in PUBG.",
+    "points": 10,
+    "category": "honor",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Chicken Champion",
+      "titleImage": "",
+      "extra": "Unlock a special badge to show off your expertise in securing multiple wins."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Consistency Is Key",
+        "image": "",
+        "description": "Winning five times requires consistent performance. Focus on staying alive, improving your shooting accuracy, and learning the best spots to loot and hide."
+      },
+      {
+        "heading": "Work With Your Team",
+        "image": "",
+        "description": "In Squads or Duos, teamwork is essential. Make sure to communicate with your team, plan strategies, and support each other to secure victories."
+      },
+      {
+        "heading": "Stay Calm in the Final Zones",
+        "image": "",
+        "description": "As the play zone shrinks, it's important to stay calm and avoid panicking. Focus on your positioning and use cover effectively to outlast your opponents."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Win 5 times in Classic mode",
+        "image": "",
+        "icon_image": "",
+        "description": "To complete this mission, you need to win five matches in Classic mode, whether playing Solo, Duo, or Squad."
+      }
+    ]
+  },
+  {
+    "name": "Chicken Bucket III",
+    "image": "",
+    "description": "Win 10 matches in Classic mode (Solo, Duo, Squad) to unlock this prestigious achievement and show your mastery in PUBG. Play unranked matches for rating protection while working toward your victory!",
+    "points": 15,
+    "category": "honor",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Chicken King",
+      "titleImage": "",
+      "extra": "Unlock an exclusive badge and additional in-game rewards, such as rare skins or other prestigious items."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Master Your Gameplay",
+        "image": "",
+        "description": "To win 10 times, you'll need to refine your gameplay. Focus on perfecting your combat, positioning, and decision-making across multiple matches."
+      },
+      {
+        "heading": "Cooperate and Communicate",
+        "image": "",
+        "description": "Especially in Duo or Squad modes, communication and teamwork are essential. Share your resources, cover your teammates, and plan your strategy to increase your chances of victory."
+      },
+      {
+        "heading": "Adapt to the Circle",
+        "image": "",
+        "description": "As the play zone shrinks, positioning becomes crucial. Learn how to adapt to the changing zones, anticipate enemy movements, and use cover to your advantage."
+      },
+      {
+        "heading": "Play Unranked Matches for Rating Protection",
+        "image": "",
+        "description": "If you’re concerned about your ranking or just want to practice, consider playing unranked matches. This will allow you to focus on improving your skills without affecting your rating."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Classic mode (Solo, Duo, Squad, or Quad)",
+        "image": "",
+        "icon_image": "",
+        "description": "This achievement applies to Classic mode matches, whether played Solo, Duo, Squad, or Quad."
+      },
+      {
+        "heading": "Win 10 Classic matches",
+        "image": "",
+        "icon_image": "",
+        "description": "To complete this mission, you need to win 10 matches in Classic mode, whether playing Solo, Duo, Squad, or Quad."
+      },
+      {
+        "heading": "Play Unranked Matches for Rating Protection",
+        "image": "",
+        "icon_image": "",
+        "description": "While working toward your wins, you may choose to play unranked matches for rating protection. This ensures that you can play without affecting your rank while still focusing on improving your skills."
+      }
+    ]
+  },
+  {
+    "name": "Chicken Bucket IV",
+    "image": "",
+    "description": "Win 20 matches in Classic mode (Solo, Duo, or Squad) to unlock this advanced achievement. Prove that you're a true PUBG champion with multiple wins!",
+    "points": 20,
+    "category": "honor",
+    "hardness": "Very Hard",
+    "rewards": {
+      "title": "Chicken Master",
+      "titleImage": "",
+      "extra": "Unlock an exclusive in-game badge and possibly some rare loot or skins to show off your top-tier achievements."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Stay Persistent and Adapt",
+        "image": "",
+        "description": "Winning 20 times will take time and persistence. Stay adaptable and refine your strategies as you progress. Understand how to rotate, manage resources, and position yourself to outlast opponents."
+      },
+      {
+        "heading": "Play Smart, Not Just Hard",
+        "image": "",
+        "description": "Focus on survival and strategy, rather than aggressive play. Carefully analyze the circle's movement and avoid rushing into risky fights. Take your time and plan your engagements."
+      },
+      {
+        "heading": "Team Synergy is Crucial (Duo/Squad)",
+        "image": "",
+        "description": "In Duo or Squad mode, effective communication and coordination are key to securing victories. Work with your team to control areas, revive teammates, and cover each other."
+      },
+      {
+        "heading": "Use Unranked Matches for Practice",
+        "image": "",
+        "description": "If you're struggling to win or need to practice, consider playing unranked matches. This allows you to improve your skills without affecting your ranking."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Classic mode (Solo, Duo, or Squad)",
+        "image": "",
+        "icon_image": "",
+        "description": "This achievement applies to Classic mode matches, whether played Solo, Duo, or Squad."
+      },
+      {
+        "heading": "Win 20 Classic matches",
+        "image": "",
+        "icon_image": "",
+        "description": "To complete this mission, you need to win 20 matches in Classic mode. This can be done across Solo, Duo, or Squad matches."
+      }
+    ]
+  },
+  {
+    "name": "Chicken Bucket V",
+    "image": "",
+    "description": "Win 50 matches in Classic mode (Solo, Duo, or Squad) to unlock this ultimate achievement. Prove yourself as a PUBG legend by dominating the battlefield with numerous victories!",
+    "points": 40,
+    "category": "honor",
+    "hardness": "Very Hard",
+    "rewards": {
+      "title": "PUBG Legend",
+      "titleImage": "",
+      "extra": "Unlock an exclusive in-game title and unique rewards such as legendary skins or other prestigious items to showcase your elite status."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Consistent Strategy is Key",
+        "image": "",
+        "description": "Winning 50 times is a long-term commitment. Stay consistent in your strategy, adapt to the changing play zones, and avoid unnecessary risks. Focus on survival and efficient resource management."
+      },
+      {
+        "heading": "Enhance Your Teamplay",
+        "image": "",
+        "description": "Especially in Duo or Squad modes, teamwork is essential. Build a reliable team, communicate effectively, and share resources to maximize your chances of winning."
+      },
+      {
+        "heading": "Practice Makes Perfect",
+        "image": "",
+        "description": "If you're struggling to win, practice your shooting, positioning, and map awareness in unranked or low-pressure matches. Every small improvement counts toward reaching your 50 wins."
+      },
+      {
+        "heading": "Take Advantage of Safe Zones",
+        "image": "",
+        "description": "Master the art of positioning. Familiarize yourself with the shrinking safe zones and learn how to stay inside them while taking advantage of the terrain and cover."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Classic mode (Solo, Duo, or Squad)",
+        "image": "",
+        "icon_image": "",
+        "description": "This achievement applies to Classic mode matches, whether played Solo, Duo, or Squad."
+      },
+      {
+        "heading": "Win 50 Classic matches",
+        "image": "",
+        "icon_image": "",
+        "description": "To complete this mission, you need to win 50 matches in Classic mode. This can be done across Solo, Duo, or Squad matches."
+      }
+    ]
+  },
+  {
+    "name": "Master Sniper I",
+    "image": "",
+    "description": "Eliminate an enemy from a distance of 250 meters or more while at Gold tier or higher in a ranked Classic mode match to unlock the prestigious Long Bomber title. Additionally, win the Sharpshooter Combat Medal 1 time to complete this mission.",
+    "points": 5,
+    "category": "honor",
+    "hardness": "Medium",
+    "rewards": {
+      "title": "Long Bomber",
+      "titleImage": "",
+      "extra": "Unlock the prestigious Long Bomber title and in-game rewards like special sniper skins or other exclusive items."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Get to Gold Tier or Higher",
+        "image": "",
+        "description": "To complete this achievement, you must be in Gold tier or higher in a ranked Classic mode match. Focus on climbing the ranks and winning matches to reach Gold and beyond."
+      },
+      {
+        "heading": "Master Long-Range Sniping",
+        "image": "",
+        "description": "To eliminate an enemy from 250 meters or more, practice long-range sniping with high-powered scopes like the 8x or 15x. Ensure you have a good understanding of bullet drop and leading your target."
+      },
+      {
+        "heading": "Use the Right Equipment",
+        "image": "",
+        "description": "Make sure you are equipped with the best sniper rifles, such as the Kar98k, M24, or AWM, which offer high damage and accuracy at long ranges."
+      },
+      {
+        "heading": "Sharpshooter Combat Medal",
+        "image": "",
+        "description": "Win the Sharpshooter Combat Medal by getting multiple eliminations using precision shots. Focus on taking down enemies with headshots or quick eliminations to unlock this medal."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Ranked Classic Mode",
+        "image": "",
+        "icon_image": "",
+        "description": "This achievement can only be completed in **Ranked Classic Mode** matches, whether Solo, Duo, or Squad."
+      },
+      {
+        "heading": "Eliminate an Enemy from 250 meters",
+        "image": "",
+        "icon_image": "",
+        "description": "To complete this achievement, eliminate an enemy from a distance of 250 meters or more while in Gold tier or higher in a ranked Classic mode match."
+      },
+      {
+        "heading": "Win the Sharpshooter Combat Medal 1 time",
+        "image": "",
+        "icon_image": "",
+        "description": "Win the Sharpshooter Combat Medal by eliminating an enemy with precision shots in the match."
+      }
+    ]
+  },
+  {
+    "name": "Master Sniper II",
+    "image": "",
+    "description": "Eliminate an enemy from a distance of 250 meters or more while at Gold tier or higher in a ranked Classic mode match to unlock the prestigious Long Bomber title. Additionally, win the Sharpshooter Combat Medal 5 times to complete this advanced mission.",
+    "points": 10,
+    "category": "honor",
+    "hardness": "Hard",
+    "rewards": {
+      "title": "Long Bomber II",
+      "titleImage": "",
+      "extra": "Unlock the advanced Long Bomber II title and exclusive rewards, including special sniper skins and other high-level achievements."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Achieve Gold Tier or Higher in Ranked Classic Mode",
+        "image": "",
+        "description": "To complete this mission, you must reach Gold tier or higher in **Ranked Classic Mode**. Focus on playing matches with high placement and eliminations to boost your rank. Prioritize teamwork in squads or duos for better coordination, and aim for a consistent top-tier performance to climb the ranks faster."
+      },
+      {
+        "heading": "Master Sniping from 250 Meters or More",
+        "image": "",
+        "description": "To eliminate enemies from 250 meters or more, you need to master sniper rifles with high accuracy. Weapons like the **AWM**, **M24**, and **Kar98k** with scopes like **8x** or **15x** will help. **Compensate for bullet drop** by aiming slightly above your target, especially in longer ranges. Practice on smaller maps with long sightlines to get a feel for the distance and drop."
+      },
+      {
+        "heading": "Understanding Bullet Drop and Range",
+        "image": "",
+        "description": "At long ranges (250 meters or more), bullet drop becomes a significant factor. **Aim higher** than the target’s head to account for the drop. Try using training mode to test distances and adjust your aim accordingly. Practice at different distances to get a feel for bullet travel time, drop, and leading moving targets."
+      },
+      {
+        "heading": "Winning the Sharpshooter Combat Medal",
+        "image": "",
+        "description": "The **Sharpshooter Combat Medal** is earned by getting accurate eliminations, often with headshots or well-timed shots. **Use high-powered scopes** for better accuracy, and keep your crosshair aimed at enemy head height when engaging. **Eliminate players with precision** from mid to long-range and avoid missing your shots to maximize your chances of earning the medal multiple times."
+      },
+      {
+        "heading": "Maximize Your Positioning for Long-Range Shots",
+        "image": "",
+        "description": "Positioning is key for long-range sniping. Always find **high ground** or areas with a clear line of sight to enemies. This allows you to engage enemies from a safe distance without being exposed. **Keep moving** between shots to avoid being detected by enemy players looking for snipers."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Ranked Classic Mode",
+        "image": "",
+        "icon_image": "",
+        "description": "This achievement must be completed in **Ranked Classic Mode** matches, whether Solo, Duo, or Squad."
+      },
+      {
+        "heading": "Eliminate an Enemy from 250 meters",
+        "image": "",
+        "icon_image": "",
+        "description": "Eliminate an enemy from a distance of 250 meters or more while at Gold tier or higher in a ranked Classic mode match."
+      },
+      {
+        "heading": "Win the Sharpshooter Combat Medal 5 times",
+        "image": "",
+        "icon_image": "",
+        "description": "To complete this achievement, you need to win the Sharpshooter Combat Medal 5 times by securing eliminations with precision shots."
+      }
+    ]
+  },
+  {
+    "name": "Master Sniper III",
+    "image": "",
+    "description": "Eliminate an enemy from a distance of 250 meters or more while at Gold tier or higher in a ranked match to earn the prestigious Long Bomber title. Additionally, win the Sharpshooter Combat Medal 20 times to fully complete this challenging mission.",
+    "points": 20,
+    "category": "honor",
+    "hardness": "Extremely Hard",
+    "rewards": {
+      "title": "Long Bomber III",
+      "titleImage": "",
+      "extra": "Unlock the elite Long Bomber III title, exclusive sniper skins, and special in-game rewards that mark your sniping expertise."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Climbing to Gold Tier or Higher in Ranked Matches",
+        "image": "",
+        "description": "You must reach **Gold tier or higher** in **Ranked Matches** to start the mission. Rank up by consistently performing well and surviving in matches, focusing on placing in the top spots and getting eliminations. Solo or Duo mode is easier for personal performance, while Squad mode offers more opportunities for teamwork and achieving high placements."
+      },
+      {
+        "heading": "Sharpshooter Combat Medal 20 Times",
+        "image": "",
+        "description": "To win the **Sharpshooter Combat Medal** 20 times, you need to make consistent **precise long-range shots**. Focus on sniping with rifles like the **AWM** and **M24**. Prioritize accuracy over speed, aiming for **headshots** or **clean kills** at long distances. The more headshots you land, the more likely you are to win the medal."
+      },
+      {
+        "heading": "Long-Range Eliminations (250 Meters or More)",
+        "image": "",
+        "description": "You need to **eliminate an enemy from 250 meters or more** using sniper rifles like **AWM**, **M24**, or **Kar98k**. For long-range kills, use **8x** or **15x scopes** to get a clear line of sight. Remember, **bullet drop** and **wind** affect your shot at such distances. Aim above the target's head to compensate for drop and lead your shots if the enemy is moving."
+      },
+      {
+        "heading": "Sniping Locations and Positioning",
+        "image": "",
+        "description": "For long-range eliminations, position yourself on **high ground** or **hillsides** where you have clear visibility. Choose spots that are far from enemy lines of sight to avoid getting detected after a shot. Always use **natural cover** like rocks or trees to stay hidden and relocate after each kill to avoid being tracked."
+      },
+      {
+        "heading": "Using Sniper Rifles Effectively",
+        "image": "",
+        "description": "Master sniper rifles such as the **AWM**, **M24**, and **Kar98k**. The **AWM** is the most powerful sniper, while the **M24** and **Kar98k** are more common but still very effective. Practice compensating for bullet drop, especially at distances of 250 meters or more. **Slow and steady shots** are more effective than quick, rushed shots when sniping."
+      },
+      {
+        "heading": "Bullet Drop",
+        "image": "",
+        "description": "When shooting at distances of **250 meters or more**, you must account for **bullet drop**. The higher the distance, the more your bullet will fall, so aim **above** your target to compensate for this. As a rule of thumb, start by aiming at the **top of the enemy's head** and adjust according to how far they are. The **AWM** drops less than other rifles, but all sniper rifles require this adjustment at long range."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Ranked Mode (Solo, Duo, Squad)",
+        "image": "",
+        "icon_image": "",
+        "description": "This achievement must be completed in **Ranked Mode**, either in **Solo**, **Duo**, or **Squad** mode. Focus on maintaining a **Gold tier or higher** rank to achieve this mission."
+      },
+      {
+        "heading": "Eliminate at 250 Meters or More",
+        "image": "",
+        "icon_image": "",
+        "description": "Eliminate an enemy from **250 meters or more** using sniper rifles while at **Gold tier or higher** in a **Ranked Match**."
+      },
+      {
+        "heading": "Win Sharpshooter Combat Medal 20 Times",
+        "image": "",
+        "icon_image": "",
+        "description": "Win the **Sharpshooter Combat Medal** 20 times by getting clean, accurate eliminations with sniper rifles, especially at long range."
+      }
+    ]
+  },
+  {
+    "name": "Master Sniper IV",
+    "image": "",
+    "description": "Eliminate an enemy from a distance of 250 meters or more while at **Gold tier or higher** in a **Ranked Match** to earn the prestigious **Long Bomber** title. Additionally, win the **Sharpshooter Combat Medal 50 times** to fully complete this challenging achievement and prove your mastery in sniping.",
+    "points": 40,
+    "category": "honor",
+    "hardness": "Very Hard",
+    "rewards": {
+      "title": "Long Bomber IV",
+      "titleImage": "",
+      "extra": "Unlock the elite **Long Bomber IV** title, sniper-specific skins, and exclusive in-game rewards that reflect your sniping dominance."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Climbing to Gold Tier or Higher in Ranked Matches",
+        "image": "",
+        "description": "To participate in this achievement, you must be at **Gold tier or higher** in **Ranked Matches**. Focus on consistently placing in the **top positions** and getting **kills**. Solo or Duo mode might be more manageable for maintaining a high rank, but Squad mode can offer more opportunities for kills and teamwork."
+      },
+      {
+        "heading": "Sharpshooter Combat Medal 50 Times",
+        "image": "",
+        "description": "You need to win the **Sharpshooter Combat Medal** **50 times**. This requires you to perform **precise long-range eliminations** consistently. Aim for **headshots** from long distances and use sniper rifles like the **AWM**, **M24**, or **Kar98k** for clean kills. The more **headshots** you get, the quicker you’ll rack up these medals."
+      },
+      {
+        "heading": "Long-Range Eliminations (250 Meters or More)",
+        "image": "",
+        "description": "You need to **eliminate an enemy from 250 meters or more** in **Ranked matches** while at **Gold tier or higher**. For accurate long-range shots, use **8x**, **15x**, or higher scopes. Ensure you’re compensating for **bullet drop** and **wind** while aiming above the target to increase your chances of landing the shot."
+      },
+      {
+        "heading": "Using Sniper Rifles Effectively",
+        "image": "",
+        "description": "Master sniper rifles like the **AWM**, **M24**, and **Kar98k** for long-range shots. The **AWM** offers the highest damage, but the **M24** and **Kar98k** are reliable and easier to find. For **250-meter eliminations**, you need to understand **bullet drop** and **lead your shots**. Stay patient and only shoot when you're confident in your aim."
+      },
+      {
+        "heading": "Bullet Drop",
+        "image": "",
+        "description": "When shooting at **250 meters or more**, consider **bullet drop**. At these distances, your bullet will naturally fall, so aim **above** the target's head. The **AWM** has the least bullet drop, but even with this weapon, the adjustment is still necessary. Practice in training mode or on custom maps to get a feel for how much to aim above your target at longer distances."
+      },
+      {
+        "heading": "Positioning and Stealth",
+        "image": "",
+        "description": "For long-range eliminations, always choose spots that give you a **clear line of sight** while staying hidden. **High ground** or **hillsides** offer the best visibility. After each elimination, move positions to avoid getting spotted by enemies. Consider using **natural cover** like rocks, trees, or terrain features."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Ranked Mode (Solo, Duo, Squad)",
+        "image": "",
+        "icon_image": "",
+        "description": "This achievement must be completed in **Ranked Mode**. You must be in **Gold tier or higher** to be eligible. Focus on consistent performance and winning in **Solo**, **Duo**, or **Squad** modes."
+      },
+      {
+        "heading": "Eliminate at 250 Meters or More",
+        "image": "",
+        "icon_image": "",
+        "description": "Eliminate an enemy from **250 meters or more** using sniper rifles while at **Gold tier or higher** in a **Ranked Match**."
+      },
+      {
+        "heading": "Win Sharpshooter Combat Medal 50 Times",
+        "image": "",
+        "icon_image": "",
+        "description": "Win the **Sharpshooter Combat Medal** **50 times** by consistently getting long-range eliminations with sniper rifles."
+      }
+    ]
+  },
+  {
+    "name": "Master Sniper V",
+    "image": "",
+    "description": "Eliminate an enemy from a distance of 250 meters or more while at Gold tier or higher in a Ranked Match to earn the prestigious Long Bomber title. Additionally, win the Sharpshooter Combat Medal 100 times to fully complete this elite-level achievement and solidify your mastery in sniping.",
+    "points": 60,
+    "category": "honor",
+    "hardness": "Extremely Hard",
+    "rewards": {
+      "title": "Long Bomber V",
+      "titleImage": "",
+      "extra": "Unlock the elite Long Bomber V title, sniper-exclusive skins, and significant in-game rewards that showcase your dominance in long-range eliminations."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Climbing to Gold Tier or Higher in Ranked Matches",
+        "image": "",
+        "description": "To complete this achievement, you must be at Gold tier or higher in Ranked Matches. Maintain consistent performance by securing high placements and making long-range eliminations. Solo or Duo mode can be easier for individual performance, but Squad mode gives you more opportunities to get eliminations and work with teammates."
+      },
+      {
+        "heading": "Sharpshooter Combat Medal 100 Times",
+        "image": "",
+        "description": "Winning the Sharpshooter Combat Medal 100 times requires consistently securing long-range eliminations, especially with headshots. The more precise your shots are, the faster you’ll accumulate these medals. Use sniper rifles like AWM, M24, and Kar98k for the best performance."
+      },
+      {
+        "heading": "Long-Range Eliminations (250 Meters or More)",
+        "image": "",
+        "description": "For a 250-meter or more elimination, use high magnification scopes like 8x, 15x, or even higher. AWM, M24, and Kar98k are recommended. Learn the nuances of bullet drop and adjust your aim accordingly. Taking shots from elevated positions like hills or rooftops can help you get the necessary range."
+      },
+      {
+        "heading": "Sniper Rifle Mastery",
+        "image": "",
+        "description": "Master sniper rifles like the AWM, M24, and Kar98k. The AWM is the most powerful sniper, capable of one-shot kills from long distances. The M24 and Kar98k are easier to find and still very effective. Focus on aiming for headshots as they will get you medals faster and increase your eliminations."
+      },
+      {
+        "heading": "Bullet Drop and Wind Factor Tip",
+        "image": "",
+        "description": "At 250 meters, always account for bullet drop. Aim above the target to compensate for this. Wind can also affect your shot, so try to lead your target and adjust for the wind's direction. AWM has the least bullet drop, but regardless of the sniper, always practice this skill in training or custom matches."
+      },
+      {
+        "heading": "Positioning for Long-Range Shots",
+        "image": "",
+        "description": "When attempting long-range eliminations, positioning is key. Find high ground or areas with clear lines of sight to your target. After getting an elimination, change positions quickly to avoid being detected by other players. Use natural cover like rocks or trees to keep yourself hidden."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Ranked Mode (Solo, Duo, Squad)",
+        "image": "",
+        "icon_image": "",
+        "description": "This achievement must be completed in Ranked Mode while being in Gold tier or higher. Make sure you're consistently placing high and getting eliminations in Solo, Duo, or Squad mode."
+      },
+      {
+        "heading": "Eliminate at 250 Meters or More",
+        "image": "",
+        "icon_image": "",
+        "description": "You must eliminate an enemy from 250 meters or more with a sniper rifle while at Gold tier or higher in a Ranked Match."
+      },
+      {
+        "heading": "Win Sharpshooter Combat Medal 100 Times",
+        "image": "",
+        "icon_image": "",
+        "description": "You need to win the Sharpshooter Combat Medal 100 times by consistently getting long-range eliminations with sniper rifles."
+      }
+    ]
+  },
+  {
+    "name": "Master Sniper VI",
+    "image": "",
+    "description": "Eliminate an enemy from a distance of 250 meters or more while at Gold tier or higher in a Ranked Match to earn the prestigious Long Bomber title. Additionally, win the Sharpshooter Combat Medal 200 times to solidify your status as a true master of long-range eliminations in PUBG.",
+    "points": 80,
+    "category": "honor",
+    "hardness": "Extremely Difficult",
+    "rewards": {
+      "title": "Long Bomber VI",
+      "titleImage": "",
+      "extra": "Unlock the exclusive Long Bomber VI title, rare sniper skins, and major in-game rewards as you prove your dominance with 250-meter eliminations and countless Sharpshooter Medals."
+    },
+    "tipsTricks": [
+      {
+        "heading": "Sharpshooter Combat Medal 200 Times",
+        "image": "",
+        "description": "Winning the Sharpshooter Combat Medal 200 times requires consistent long-range eliminations. Prioritize headshots and aim for moving targets. The faster you eliminate, the more medals you’ll win. Choose sniper rifles like AWM, M24, and Kar98k for maximum efficiency in ranked matches."
+      },
+      {
+        "heading": "Mastering 250m Eliminations",
+        "image": "",
+        "description": "Eliminate enemies at 250 meters or more by using high-powered sniper rifles and long-range scopes like 8x or 15x. Always account for bullet drop at such long distances, and adjust your aim accordingly. You can practice your range accuracy in training modes or custom matches to improve your shooting distance."
+      },
+      {
+        "heading": "Ranked Matches and Gold Tier",
+        "image": "",
+        "description": "This achievement requires you to be at Gold tier or higher in Ranked Mode. Focus on improving your overall placement in matches and consistent kills. Aim for high positions, and ensure you're taking out enemies at long distances to boost your medal count and help you progress toward the next Sharpshooter Combat Medal."
+      },
+      {
+        "heading": "Optimal Sniper Rifle Setup",
+        "image": "",
+        "description": "Use powerful sniper rifles like AWM, M24, or Kar98k for the best performance. Equip them with high-zoom scopes like 8x, 15x, or 20x to maximize your distance advantage. Remember to practice controlling the rifle recoil and bullet drop to consistently hit your targets at long distances."
+      },
+      {
+        "heading": "Positional Awareness",
+        "image": "",
+        "description": "High ground gives you a clear line of sight for long-range eliminations. Consider positioning yourself on rooftops, hills, or other elevated areas. Once you spot a target, take your shot, but immediately relocate to avoid being spotted by enemies. Movement and stealth are key when engaging from 250 meters or more."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Ranked Mode (Solo, Duo, Squad)",
+        "image": "",
+        "icon_image": "",
+        "description": "This achievement must be completed in Ranked Mode while being in Gold tier or higher. Make sure you’re performing consistently well in these matches."
+      },
+      {
+        "heading": "Eliminate at 250 Meters or More",
+        "image": "",
+        "icon_image": "",
+        "description": "You must eliminate an enemy from 250 meters or more in a Ranked Match while at Gold tier or higher."
+      },
+      {
+        "heading": "Win Sharpshooter Combat Medal 200 Times",
+        "image": "",
+        "icon_image": "",
+        "description": "You need to win the Sharpshooter Combat Medal 200 times by consistently securing long-range eliminations with sniper rifles."
+      }
+    ]
+  }
+]
