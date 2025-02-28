@@ -37,7 +37,7 @@
     "sequelize": "^6.37.5"
   },
   "engines": {
-    "node": ">=22.7.0"
+    "node": "23.9.0"
   },
   "devDependencies": {
     "dotenv": "^16.4.7",
