@@ -150,70 +150,118 @@
   },
   {
     "name": "Chicken Expert",
-    "image": "path/to/image.jpg",
-    "description": "Chicken Expert achievement showcases a player's skill and versatility in PUBG. To earn this title, players must win 10 Solo Classic matches in the Platinum tier or higher, with each final kill made using a different weapon type. These include SMG, Assault Rifle, Pistol, LMG, Sniper Rifle, Shotgun, Melee Weapons, Crossbow, Vehicle, and Throwable. This achievement tests adaptability and weapon proficiency, highlighting strategic gameplay and mastery of PUBG.",
+    "image": "",
+    "description": "Win 10 Solo Classic matches in the Platinum tier or higher, with each final kill made using a different weapon type.",
     "points": 50,
+    "category": "honor",
     "hardness": "Hard",
     "rewards": {
-      "title": "Chicken Master",
-      "titleImage": "path/to/titleImage.jpg",
-      "extra": "Special Badge awarded for mastering the Chicken Dinner strategy."
+      "title": "Chicken Expert",
+      "titleImage": "",
+      "extra": "Achievement Points and possible in-game rewards"
     },
-    "category": "glorious_moments",
-    "requirements": [
-      {
-        "heading": "Win 10 Solo Classic Matches",
-        "image": "path/to/requirementImage1.jpg",
-        "icon_image": "path/to/iconImage1.png",
-        "description": "You need to win 10 Solo Classic matches while being in the Platinum tier or higher. This demonstrates consistent performance and mastery of the game mechanics."
-      },
-      {
-        "heading": "Different Weapons for Final Kills",
-        "image": "path/to/requirementImage2.jpg",
-        "icon_image": "path/to/iconImage2.png",
-        "description": "Each match must end with a final kill using a different weapon type. The required weapons include SMG, Assault Rifle, Pistol, LMG, Sniper Rifle, Shotgun, Melee Weapons, Crossbow, Vehicle, and Throwable (grenades, molotovs, etc.)."
-      }
-    ],
     "tipsTricks": [
       {
-        "heading": "Choose Your Landing Spot Wisely",
-        "image": "path/to/tipsImage1.jpg",
-        "description": "Opt for less crowded areas to avoid early fights and gather loot safely. This gives you a better chance of surviving the initial stages of the game."
+        "heading": "Plan Ahead",
+        "image": "",
+        "description": "Before the final circle, ensure you have the specific weapon type needed for the final kill. Carry multiple weapons or loot specific items accordingly."
       },
       {
-        "heading": "Master the Art of Looting",
-        "image": "path/to/tipsImage2.jpg",
-        "description": "Prioritize finding Tier 2 or Tier 3 armor and essential weapons. Efficient looting ensures you're well-prepared for engagements."
+        "heading": "Weaken the Final Opponent",
+        "image": "",
+        "description": "For harder kills like Melee or Crossbow, weaken the last enemy with other weapons before switching to the required weapon for the final blow."
       },
       {
-        "heading": "Stay Within the Safe Zone",
-        "image": "path/to/tipsImage3.jpg",
-        "description": "Keep an eye on the shrinking circle and plan your movements accordingly. Staying within the safe zone is crucial to avoid unnecessary damage."
+        "heading": "Utilize Bots",
+        "image": "",
+        "description": "Lower-tier matches may have bot opponents, making it easier to secure kills with less conventional weapons."
       },
       {
-        "heading": "Use Sound to Your Advantage",
-        "image": "path/to/tipsImage4.jpg",
-        "description": "Wear a headset to listen for enemy movements and gunshots. Sound can give you a significant tactical advantage."
+        "heading": "Track Your Progress",
+        "image": "",
+        "description": "Keep a record of which weapon types you've used for final kills to ensure all categories are covered."
       },
       {
-        "heading": "Play with Caution and Patience",
-        "image": "path/to/tipsImage5.jpg",
-        "description": "Evaluate situations before engaging in combat. Sometimes, avoiding a fight is the best strategy to ensure your survival until the end."
+        "heading": "Stay in Platinum Tier or Higher",
+        "image": "",
+        "description": "Make sure your rank remains in the Platinum tier or above, as dropping below will halt your progress toward this achievement."
       },
       {
-        "heading": "Team Up with a Friend",
-        "image": "path/to/tipsImage6.jpg",
-        "description": "If possible, team up with a friend who is also aiming for the Chicken Master title. Coordinating efforts can increase your chances of survival."
+        "heading": "Prioritize Easier Weapons First",
+        "image": "",
+        "description": "Start with familiar weapons like ARs or SMGs, and save the challenging ones, like Melee or Crossbow, for later matches."
       },
       {
-        "heading": "Communicate with the Last Opponent",
-        "image": "path/to/tipsImage7.jpg",
-        "description": "In certain matches, try to communicate with the last opponent and form a temporary team to choose the right weapon for the final kill."
+        "heading": "Adapt Your Strategy",
+        "image": "",
+        "description": "Adjust your approach depending on the weapon needed. For vehicle kills, for example, fight in open areas to run over the final enemy."
       },
       {
-        "heading": "Practice and Patience",
-        "image": "path/to/tipsImage8.jpg",
-        "description": "The more you play, the better you'll become at predicting enemy movements and surviving until the end. Practice makes perfect!"
+        "heading": "Stay Patient and Persistent",
+        "image": "",
+        "description": "This achievement requires skill and patience. Learn from each match and refine your strategy."
+      }
+    ],
+    "requirements": [
+      {
+        "heading": "Final Kill with SMG",
+        "image": "",
+        "icon_image": "",
+        "description": "Secure the final kill using an SMG, such as UMP45, UZI, or Vector."
+      },
+      {
+        "heading": "Final Kill with Assault Rifle",
+        "image": "",
+        "icon_image": "",
+        "description": "Secure the final kill using an Assault Rifle, such as M416, AKM, or SCAR-L."
+      },
+      {
+        "heading": "Final Kill with Pistol",
+        "image": "",
+        "icon_image": "",
+        "description": "Secure the final kill using a Pistol, such as P1911, P92, or Desert Eagle."
+      },
+      {
+        "heading": "Final Kill with LMG",
+        "image": "",
+        "icon_image": "",
+        "description": "Secure the final kill using a Light Machine Gun, such as DP-28 or M249."
+      },
+      {
+        "heading": "Final Kill with Sniper Rifle",
+        "image": "",
+        "icon_image": "",
+        "description": "Secure the final kill using a Sniper Rifle, such as AWM, Kar98k, or M24."
+      },
+      {
+        "heading": "Final Kill with Shotgun",
+        "image": "",
+        "icon_image": "",
+        "description": "Secure the final kill using a Shotgun, such as S686, S1897, or S12K."
+      },
+      {
+        "heading": "Final Kill with Melee Weapon",
+        "image": "",
+        "icon_image": "",
+        "description": "Secure the final kill using a Melee Weapon, such as a Pan, Machete, or Crowbar."
+      },
+      {
+        "heading": "Final Kill with Crossbow",
+        "image": "",
+        "icon_image": "",
+        "description": "Secure the final kill using a Crossbow."
+      },
+      {
+        "heading": "Final Kill with Vehicle",
+        "image": "",
+        "icon_image": "",
+        "description": "Secure the final kill by eliminating the enemy with a vehicle."
+      },
+      {
+        "heading": "Final Kill with Throwable",
+        "image": "",
+        "icon_image": "",
+        "description": "Secure the final kill using a Throwable, such as a Grenade or Molotov Cocktail."
       }
     ]
   },
@@ -374,64 +422,59 @@
   },
   {
     "name": "Well-Liked",
-    "image": "",
-    "description": "Complete the Well-Liked Achievement Mission to become a popular player in PUBG Mobile.",
-    "points": 50,
-    "category": "glorious_moments",
+    "image": "image_url_here",
+    "description": "Earn 1000 likes in total from other players to achieve the Well-Liked title.",
+    "points": 30,
+    "category": "honor",
     "hardness": "Medium",
     "rewards": {
       "title": "Well-Liked",
-      "titleImage": "",
-      "extra": "Unlock special skins and badges"
+      "titleImage": "title_image_url_here",
+      "extra": "Earn the Well-Liked achievement and gain recognition from the PUBG community."
     },
     "tipsTricks": [
       {
-        "heading": "Play with Friends",
-        "image": "",
-        "description": "Team up with friends and ask them to give you likes at the end of each match. This can help you accumulate likes faster."
+        "heading": "Increase Your Visibility",
+        "image": "tip_image_url_here",
+        "description": "Engage with others by playing team-oriented roles, communicating effectively, and making positive contributions during matches to encourage likes from teammates."
       },
       {
-        "heading": "Stay Active",
-        "image": "",
-        "description": "Participate in as many matches as possible to increase your chances of getting likes."
+        "heading": "Perform Well in Matches",
+        "image": "tip_image_url_here",
+        "description": "Consistently perform well in matches, especially in high-stakes situations. The better you perform, the more likely you are to earn likes from others. Aim for strategic kills, surviving longer, and supporting your team."
       },
       {
-        "heading": "Be Friendly",
-        "image": "",
-        "description": "Engage with other players in a positive manner. Being kind and helpful can encourage others to like you."
+        "heading": "Be a Good Teammate",
+        "image": "tip_image_url_here",
+        "description": "PUBG is a team-based game, and showing strong teamwork will help you gain more likes. Support your team, share resources, revive fallen teammates, and coordinate strategies for victory."
       },
       {
-        "heading": "Complete Tasks",
-        "image": "",
-        "description": "Focus on completing tasks that are easier to achieve and grant likes."
+        "heading": "Be Positive and Encouraging",
+        "image": "tip_image_url_here",
+        "description": "Players are more likely to give likes to those who maintain a positive attitude. Encourage your teammates, even when the situation looks tough. Positive comments and good sportsmanship are key to earning likes."
       },
       {
-        "heading": "Use Social Media",
-        "image": "",
-        "description": "Share your PUBG Mobile achievements on social media to attract more likes from the community."
+        "heading": "Help New Players",
+        "image": "tip_image_url_here",
+        "description": "If you see a new player struggling, offer guidance. Whether it's tips on controls, gameplay strategies, or map knowledge, helping others not only creates a great community but also increases your chances of earning likes."
       },
       {
-        "heading": "Join Communities",
-        "image": "",
-        "description": "Be part of PUBG Mobile communities and forums where you can interact with other players and gain more visibility."
+        "heading": "Don’t Rage Quit",
+        "image": "tip_image_url_here",
+        "description": "Staying calm and not rage quitting when things don't go your way can help you maintain a positive reputation. Players appreciate consistency, and staying in the game shows maturity."
       },
       {
-        "heading": "Play Regularly",
-        "image": "",
-        "description": "Consistency is key. Regularly playing and interacting with other players will help you reach your goal faster."
-      },
-      {
-        "heading": "Celebrate Wins",
-        "image": "",
-        "description": "Celebrate your wins and achievements with your team, which can lead to more likes from teammates."
+        "heading": "Maximize Squad Interactions",
+        "image": "tip_image_url_here",
+        "description": "Play with a squad and make the most of your interactions. Communicate with your squad using voice or ping markers, coordinate movements, and help each other out during critical moments."
       }
     ],
     "requirements": [
       {
-        "heading": "Get 1000 Likes",
-        "image": "",
-        "icon_image": "",
-        "description": "Accumulate 1000 likes from other players by consistently playing matches, engaging positively with the community, and completing tasks that grant likes."
+        "heading": "Earn 1000 Likes",
+        "image": "like_image_url_here",
+        "icon_image": "like_icon_image_url_here",
+        "description": "Receive 1000 likes from other players across multiple matches. Likes are given by other players based on your behavior, teamwork, and overall gameplay."
       }
     ]
   },

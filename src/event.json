@@ -1,0 +1,356 @@
+{
+  "event": "Sacred Quartet",
+  "version": "3.6",
+  "description": "An immersive PUBG Mobile event introducing elemental powers, floating islands, and exclusive rewards.",
+  "features": {
+    "elemental_powers": {
+      "description": "Players can master unique elemental arts by selecting one of four abilities on Spawn Island.",
+
+      "abilities": [
+        {
+          "name": {
+            "en": "Flaming Phoenix",
+            "images": [
+              "https://example.com/flaming_phoenix_main.jpg",
+              "https://example.com/flaming_phoenix_action.jpg"
+            ]
+          },
+          "effect": "Unleashes powerful offensive fire attacks, dealing continuous burn damage to enemies.",
+          "where_to_select": {
+            "en": "Chosen on Spawn Island before the match starts.",
+            "images": ["https://example.com/spawn_island.jpg"]
+          },
+          "usage": {
+            "en": "Best used in aggressive combat situations to deal high damage over time.",
+            "images": ["https://example.com/flaming_phoenix_combat.jpg"]
+          },
+          "tips": [
+            {
+              "en": "Pair with explosive weapons like grenades or Molotovs for area denial.",
+              "images": ["https://example.com/explosive_weapon_combo.jpg"]
+            },
+            {
+              "en": "Use it in confined spaces to maximize damage output.",
+              "images": ["https://example.com/close_combat_fire.jpg"]
+            },
+            {
+              "en": "Target groups of enemies to spread burn damage efficiently.",
+              "images": ["https://example.com/group_attack_fire.jpg"]
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Aqua Dragon",
+            "images": [
+              "https://example.com/aqua_dragon_main.jpg",
+              "https://example.com/aqua_dragon_defense.jpg"
+            ]
+          },
+          "effect": "Creates defensive water barriers that absorb enemy fire and reduce incoming damage.",
+          "where_to_select": {
+            "en": "Chosen on Spawn Island before the match starts.",
+            "images": ["https://example.com/spawn_island.jpg"]
+          },
+          "usage": {
+            "en": "Use when engaging in mid-range fights to shield against enemy fire.",
+            "images": ["https://example.com/aqua_dragon_battle.jpg"]
+          },
+          "tips": [
+            {
+              "en": "Combine with healing items to maximize durability in fights.",
+              "images": ["https://example.com/healing_combo.jpg"]
+            },
+            {
+              "en": "Deploy barriers before reviving teammates to reduce vulnerability.",
+              "images": ["https://example.com/revive_protection.jpg"]
+            },
+            {
+              "en": "Use in open areas to block sniper shots and create temporary cover.",
+              "images": ["https://example.com/sniper_cover.jpg"]
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Whirlwind Tiger",
+            "images": [
+              "https://example.com/whirlwind_tiger_main.jpg",
+              "https://example.com/whirlwind_tiger_speed.jpg"
+            ]
+          },
+          "effect": "Enhances movement speed with wind energy, allowing rapid repositioning.",
+          "where_to_select": {
+            "en": "Chosen on Spawn Island before the match starts.",
+            "images": ["https://example.com/spawn_island.jpg"]
+          },
+          "usage": {
+            "en": "Useful for quick rotations, escaping enemies, or flanking opponents.",
+            "images": ["https://example.com/flanking_move.jpg"]
+          },
+          "tips": [
+            {
+              "en": "Activate before rushing enemies to gain a positioning advantage.",
+              "images": ["https://example.com/rush_tactics.jpg"]
+            },
+            {
+              "en": "Use it to quickly reposition after taking a sniper shot.",
+              "images": ["https://example.com/sniper_reposition.jpg"]
+            },
+            {
+              "en": "Ideal for escaping the blue zone or rotating into the final circles.",
+              "images": ["https://example.com/zone_escape.jpg"]
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Naturespirit Deer",
+            "images": [
+              "https://example.com/naturespirit_deer_main.jpg",
+              "https://example.com/naturespirit_deer_teleport.jpg"
+            ]
+          },
+          "effect": "Grants summoning and teleportation abilities for rapid repositioning.",
+          "where_to_select": {
+            "en": "Chosen on Spawn Island before the match starts.",
+            "images": ["https://example.com/spawn_island.jpg"]
+          },
+          "usage": {
+            "en": "Best for repositioning, surprise attacks, or quick escapes.",
+            "images": ["https://example.com/teleport_escape.jpg"]
+          },
+          "tips": [
+            {
+              "en": "Teleport to high ground for better sniping opportunities.",
+              "images": ["https://example.com/high_ground_sniping.jpg"]
+            },
+            {
+              "en": "Use teleportation to flank enemies during team fights.",
+              "images": ["https://example.com/teleport_flank.jpg"]
+            },
+            {
+              "en": "Escape from heavy crossfire by instantly relocating.",
+              "images": ["https://example.com/teleport_escape.jpg"]
+            }
+          ]
+        }
+      ]
+    },
+    "event_locations": {
+      "description": {
+        "en": "Key battlegrounds in the Sacred Quartet event, each offering unique challenges, loot, and strategic advantages.",
+        "images": ["https://example.com/sacred_quartet_event.jpg"]
+      },
+      "locations": [
+        {
+          "name": {
+            "en": "Four Guardians Sect",
+            "images": ["https://example.com/four_guardians_sect.jpg"]
+          },
+          "description": {
+            "en": "A massive floating fortress at the mountain’s peak, offering high-tier loot, strategic high-ground advantages, and intense battles.",
+            "images": ["https://example.com/four_guardians_desc.jpg"]
+          },
+          "access_method": {
+            "en": "Players can reach the sect by approaching the mountain’s base, triggering an automatic lift to the top.",
+            "images": ["https://example.com/four_guardians_access.jpg"]
+          },
+          "features": {
+            "elemental_devices": [
+              {
+                "name": {
+                  "en": "Fire Stones",
+                  "images": ["https://example.com/fire_stones.jpg"]
+                },
+                "effect": {
+                  "en": "Boosts movement speed.",
+                  "images": ["https://example.com/fire_stones_effect.jpg"]
+                }
+              },
+              {
+                "name": {
+                  "en": "Water Geysers",
+                  "images": ["https://example.com/water_geysers.jpg"]
+                },
+                "effect": {
+                  "en": "Allows mid-air gliding.",
+                  "images": ["https://example.com/water_geysers_effect.jpg"]
+                }
+              },
+              {
+                "name": {
+                  "en": "Wood Vines",
+                  "images": ["https://example.com/wood_vines.jpg"]
+                },
+                "effect": {
+                  "en": "Enables climbing to higher ground.",
+                  "images": ["https://example.com/wood_vines_effect.jpg"]
+                }
+              }
+            ],
+            "high_tier_loot": true,
+            "strategic_value": {
+              "en": "Provides superior positioning for long-range engagements.",
+              "images": ["https://example.com/strategic_positioning.jpg"]
+            }
+          },
+          "tips": [
+            {
+              "en": "Expect intense fights early in the game due to high-tier loot.",
+              "images": ["https://example.com/intense_fight.jpg"]
+            },
+            {
+              "en": "Utilize elemental devices for mobility and combat advantages.",
+              "images": ["https://example.com/mobility_advantages.jpg"]
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Elemental Mastery Pavilion",
+            "images": ["https://example.com/elemental_mastery_pavilion.jpg"]
+          },
+          "description": {
+            "en": "Previously a sacred training ground, this area contains elemental trials and teleportation gateways to the Four Guardians Sect.",
+            "images": ["https://example.com/elemental_pavilion_desc.jpg"]
+          },
+          "features": {
+            "elemental_trials": {
+              "en": "Mini-challenges granting powerful buffs and loot upon completion.",
+              "images": ["https://example.com/elemental_trials.jpg"]
+            },
+            "secret_treasures": {
+              "en": "Environmental puzzles leading to hidden rewards.",
+              "images": ["https://example.com/secret_treasures.jpg"]
+            },
+            "spirit_gates": {
+              "en": "Teleporters that instantly transport players to the Four Guardians Sect.",
+              "images": ["https://example.com/spirit_gates.jpg"]
+            }
+          },
+          "tips": [
+            {
+              "en": "Complete trials early for buffs that provide an advantage in combat.",
+              "images": ["https://example.com/trial_buffs.jpg"]
+            },
+            {
+              "en": "Use Spirit Gates for rapid repositioning to gain high ground.",
+              "images": ["https://example.com/spirit_gates_usage.jpg"]
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Mystic Scrolls & Serene Bamboo Forest",
+            "images": ["https://example.com/mystic_scrolls_bamboo_forest.jpg"]
+          },
+          "description": {
+            "en": "A collection of mystical locations offering hidden loot, teleportation mechanics, and unique rewards.",
+            "images": ["https://example.com/mystic_scrolls_desc.jpg"]
+          },
+          "features": {
+            "mystic_scrolls": {
+              "effect": {
+                "en": "Transports players to the Mystic Enclave, a secret loot-filled location.",
+                "images": ["https://example.com/mystic_scrolls_effect.jpg"]
+              },
+              "return_mechanic": {
+                "en": "Players return to their original location after collecting items.",
+                "images": ["https://example.com/mystic_return.jpg"]
+              }
+            },
+            "serene_bamboo_forest": {
+              "special_interaction": {
+                "en": "Players can interact with pandas to unlock exclusive rewards.",
+                "images": ["https://example.com/panda_interaction.jpg"]
+              },
+              "panda_vehicle": {
+                "en": "A two-seater transport with rolling capabilities for fast movement and extra defense.",
+                "images": ["https://example.com/panda_vehicle.jpg"]
+              }
+            }
+          },
+          "tips": [
+            {
+              "en": "Use Mystic Scrolls to teleport between safe zones while securing loot.",
+              "images": ["https://example.com/mystic_scrolls_teleport.jpg"]
+            },
+            {
+              "en": "Interact with pandas for hidden bonuses and the Panda Vehicle.",
+              "images": ["https://example.com/panda_bonus.jpg"]
+            }
+          ]
+        }
+      ]
+    },
+    "exclusive_rewards": {
+      "description": "Special rewards and collectibles for participating in the event.",
+      "items": [
+        {
+          "name": "Two-Seater Panda Mount",
+          "description": "Feed resting pandas in serene bamboo forests to earn this exclusive mount.",
+          "tip": "Find pandas in isolated jungle areas to avoid enemy encounters.",
+          "image": "https://example.com/two_seater_panda.jpg"
+        },
+        {
+          "name": "Dumpling Healing Items",
+          "description": "Fully restore health and energy.",
+          "tip": "Keep dumplings for late-game battles to survive longer.",
+          "image": "https://example.com/dumpling_healing.jpg"
+        },
+        {
+          "name": "Year of the Snake Fireworks",
+          "description": "Trigger spectacular firework displays in the main Sacred Quartet area.",
+          "tip": "Use fireworks as a distraction to lure enemies out of hiding.",
+          "image": "https://example.com/snake_fireworks.jpg"
+        },
+        {
+          "name": "Lion Dance Activation",
+          "description": "Experience vibrant performances in the Mystic Enclave.",
+          "tip": "Use the dance as a cover while teammates move undetected.",
+          "image": "https://example.com/lion_dance.jpg"
+        }
+      ]
+    }
+  },
+  "tips_and_tricks": {
+    "general_tips": [
+      {
+        "tip": "Choose the right elemental power based on your playstyle.",
+        "explanation": "Fire is best for aggressive players, Water for defense, Wind for mobility, and Nature for tactical play.",
+        "image": "https://example.com/elemental_guide.jpg"
+      },
+      {
+        "tip": "Master the Floating Islands' jump mechanics.",
+        "explanation": "Use geysers and jump pads to quickly move across the map.",
+        "image": "https://example.com/floating_jump.jpg"
+      },
+      {
+        "tip": "Control high-ground locations.",
+        "explanation": "Higher terrain gives a better view of enemies and reduces the chance of getting ambushed.",
+        "image": "https://example.com/high_ground.jpg"
+      },
+      {
+        "tip": "Use environmental traps.",
+        "explanation": "Fire Stones, water barriers, and wind tunnels can be used strategically against enemies.",
+        "image": "https://example.com/environmental_traps.jpg"
+      },
+      {
+        "tip": "Save Mystic Scrolls for critical moments.",
+        "explanation": "Teleportation can be the difference between victory and defeat, so use scrolls wisely.",
+        "image": "https://example.com/mystic_scroll.jpg"
+      }
+    ]
+  },
+  "event_period": {
+    "start_date": "2025-01-23",
+    "end_date": "2025-02-05",
+    "image": "https://example.com/spring_festival.jpg"
+  },
+  "gameplay_video": {
+    "title": "PUBG Mobile Sacred Quartet Event Gameplay",
+    "url": "https://www.youtube.com/watch?v=nTJlM8eIAfc",
+    "image": "https://example.com/gameplay_thumbnail.jpg"
+  }
+}

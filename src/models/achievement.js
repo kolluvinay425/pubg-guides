@@ -19,17 +19,21 @@ const i18nDefaultValue = {
 function validateAndSanitizeUtf8(value) {
   if (typeof value === "object" && value !== null) {
     for (const key in value) {
-      // Ensure that the string is properly encoded
-      if (!iconv.encodingExists("utf8")) {
-        throw new Error(`Invalid encoding for language: ${key}`);
+      if (typeof value[key] === "string") {
+        // Step 2: Ensure UTF-8 encoding
+        if (!iconv.encodingExists("utf8")) {
+          throw new Error(`Invalid encoding for language: ${key}`);
+        }
+        const buffer = iconv.encode(value[key], "utf8");
+        const utf8String = iconv.decode(buffer, "utf8");
+
+        if (utf8String !== value[key]) {
+          throw new Error(`Invalid UTF-8 string detected for language: ${key}`);
+        }
+
+        // Step 3: Assign sanitized value
+        value[key] = utf8String;
       }
-      // Encode and decode to ensure valid UTF-8 characters
-      const buffer = iconv.encode(value[key], "utf8");
-      const utf8String = iconv.decode(buffer, "utf8");
-      if (utf8String !== value[key]) {
-        throw new Error(`Invalid UTF-8 string detected for language: ${key}`);
-      }
-      value[key] = utf8String; // Update the value with proper UTF-8 string
     }
   }
 }

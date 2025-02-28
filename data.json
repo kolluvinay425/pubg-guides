@@ -1,20 +1,16 @@
 
-how to complete pubg "Armour Expert" mission which has requirements: Pick up the following attachments.
-Muzzle
-Stock
-Magazine
-Foregrip
-Scope
+how to complete pubg "Master Sniper VI" achievement mission which has requirements: Eliminate an enemy from a distance of 250 meters or more while at Gold tier or
+higher in a ranked match to get Long Bomber.
 
+Win the Sharpshooter Combat Medal 200 time.
 
-//matche 2 json data generated
-//problem 
+the information must be more clear ,update the above info in this object
 {
     "name": "",
     "image": "",
     "description": "",
-    "points": 10,
-    "category": "matches",
+    "points": 80,
+    "category": "honor",
     "hardness": "",
     "rewards": {
       "title": "",
@@ -26,7 +22,7 @@ Scope
         "heading": "",
         "image": "",
         "description": ""
-      }
+      } 
     ],
     "requirements": [
       {

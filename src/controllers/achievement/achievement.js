@@ -1,7 +1,7 @@
 import stream from "stream";
-import sequelize from "../sequalize.js";
-
-import { Achievement, TipsTricks, Requirement } from "../models/index.js";
+import sequelize from "../../sequalize.js";
+import { Op, Sequelize } from "sequelize";
+import { Achievement, TipsTricks, Requirement } from "../../models/index.js";
 import fs from "fs";
 import { drive } from "googleapis/build/src/apis/drive/index.js";
 const postAchievement = async (req, res) => {
@@ -153,9 +153,74 @@ const updateAchievement = async (req, res) => {
   }
 };
 
+const updateAchievementById = async (req, res) => {
+  try {
+    // Find all achievements in the "Achievements" category
+    const achievement = await Achievement.findByPk(req.params.id);
+
+    await achievement.update({ category: "glorious_moments" });
+
+    res.status(200).json({ message: "Achievements updated successfully!" });
+  } catch (error) {
+    console.error("Error updating achievements:", error);
+    res.status(500).json({ error: error.message });
+  }
+};
+const deleteAchievementById = async (req, res) => {
+  try {
+    const deletedCount = await Achievement.destroy({
+      where: { id: req.params.id }, // Correct usage
+    });
+
+    if (deletedCount === 0) {
+      return res.status(404).json({ message: "Achievement not found" });
+    }
+
+    res.status(200).json({ message: "Achievement deleted successfully!" });
+  } catch (error) {
+    console.error("Error deleting achievement:", error);
+    res.status(500).json({ error: error.message });
+  }
+};
+
 const getAchievements = async (req, res) => {
+  const { name } = req.query;
+
   try {
     const achievements = await Achievement.findAll({
+      where: name
+        ? Sequelize.where(
+            Sequelize.json("name.en"),
+            { [Op.regexp]: `(?i)${name}` } // Corrected null and added proper regex syntax
+          )
+        : null,
+      include: [
+        {
+          model: Requirement, // Model name here
+          as: "requirements", // Alias should match the association alias
+        },
+        {
+          model: TipsTricks, // Model name here
+          as: "tipsTricks", // Alias should match the association alias
+        },
+      ],
+    });
+
+    if (achievements.length > 0) {
+      res.json({ count: achievements.length, achievements });
+    } else {
+      res.status(404).json({ message: "No achievements found" });
+    }
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+};
+
+const getAchievementsByCategory = async (req, res) => {
+  console.log("first------>", req.body.category);
+  try {
+    const achievements = await Achievement.findAll({
+      where: { category: req.body.category },
       include: [
         {
           model: Requirement, // Model name here
@@ -179,10 +244,15 @@ const getAchievements = async (req, res) => {
 };
 
 const getAchievementByName = async (req, res) => {
+  const { name } = req.query;
   console.log("first------>", req.query.name);
   try {
     const achievement = await Achievement.findOne({
-      where: sequelize.where(sequelize.json("name.en"), req.query.name),
+      where: Sequelize.where(
+        Sequelize.json("name.en"),
+        { [Op.regexp]: `(?i)${name}` } // Adding (?i) for case-insensitive regex
+      ),
+      // where: sequelize.where(sequelize.json("name.en"), req.query.name),
       include: [
         {
           model: Requirement, // Model name here
@@ -252,11 +322,35 @@ const deleteInvalidAchievements = async (req, res) => {
     res.status(500).json({ error: error.message });
   }
 };
+const deleteAchievementsByCategory = async (req, res) => {
+  try {
+    const { category } = req.params; // Get category from request parameters
 
+    const deletedCount = await Achievement.destroy({
+      where: { category }, // Delete all records with this category
+    });
+
+    if (deletedCount === 0) {
+      return res
+        .status(404)
+        .json({ message: "No achievements found for this category" });
+    }
+
+    res.status(200).json({
+      message: `Successfully deleted ${deletedCount} achievements in category '${category}'`,
+    });
+  } catch (error) {
+    console.error("Error deleting achievements by category:", error);
+    res.status(500).json({ error: error.message });
+  }
+};
 export {
   updateAchievement,
   postAchievement,
   getAchievements,
   getAchievementByName,
   deleteInvalidAchievements,
+  getAchievementsByCategory,
+  deleteAchievementById,
+  deleteAchievementsByCategory,
 };

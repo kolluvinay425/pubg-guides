@@ -1,9 +1,7 @@
-import { jsonAchievements } from "./helper.js";
-import { Achievement, Requirement, TipsTricks } from "../models/index.js";
-import sequelize from "../sequalize.js";
 import { translateText } from "./helper.js";
-// Function to create and translate achievement
-async function createAchievement(achievementData, options) {
+import { Achievement, TipsTricks, Requirement } from "../../models/index.js";
+import e from "express";
+async function createAchievement(achievementData, options, isUpdate) {
   const {
     name,
     description,
@@ -14,18 +12,27 @@ async function createAchievement(achievementData, options) {
     tipsTricks,
     requirements,
   } = achievementData;
-
+  console.log("name------>", name);
   // Check if the achievement already exists in the database
-  const existingAchievement = await Achievement.findOne({
+  const existingAchievement = await Achievement.findAll({
     where: { "name.en": name },
   });
 
-  if (existingAchievement) {
-    console.log(`Achievement "${name.en}" already exists. Skipping creation.`);
+  if (existingAchievement.length > 0 && !isUpdate) {
+    console.log(
+      `Achievement "${existingAchievement.map(
+        (a) => a.name.en
+      )}" already exists. Skipping creation.`
+    );
     return;
   }
+  // if (isUpdate && existingAchievement.length > 0) {
+  //   existingAchievement.map(async (a) => {
+  //     await a.destroy();
+  //     console.log("achievement", a.name.en, "deleted");
+  //   });
+  // }
 
-  console.log("------------------>", name);
   let achievement = {
     name: {},
     image: "",
@@ -80,7 +87,7 @@ async function createAchievement(achievementData, options) {
   for (let requirement of requirements) {
     let translatedRequirement = {
       heading: {},
-      image: requirement.image,
+      image: [],
       icon_image: requirement.icon_image,
       description: {},
       achievementId: newAchievement.id, // Add foreign key
@@ -117,7 +124,7 @@ async function createAchievement(achievementData, options) {
   for (let tipsTrick of tipsTricks) {
     let translatedTipsTrick = {
       heading: {},
-      image: tipsTrick.image,
+      image: [],
       description: {},
       achievementId: newAchievement.id, // Add foreign key
     };
@@ -147,26 +154,6 @@ async function createAchievement(achievementData, options) {
 
   console.log(`Achievement created successfully!`);
 }
-
-// Express route to handle achievement data from JSON file
-const automateAchievements = async (req, res) => {
-  const achievementsData = JSON.parse(jsonAchievements);
-  console.log("length", achievementsData.length);
-  try {
-    // Start a transaction to ensure atomicity
-    await sequelize.transaction(async (t) => {
-      for (let achievementData of achievementsData) {
-        await createAchievement(achievementData, { transaction: t });
-      }
-    });
-    res.status(200).send("Achievements created successfully!");
-  } catch (error) {
-    console.error("Error during transaction:", error); // Log error for debugging
-    res.status(500).send("Error creating achievements");
-  }
-};
-
-// Function to update achievement translations
 async function updateAchievementTranslations(achievementData, options) {
   let { name, description, hardness } = achievementData;
 
@@ -214,21 +201,4 @@ async function updateAchievementTranslations(achievementData, options) {
   console.log("After Save:", existingAchievement);
 }
 
-const updateBulkAchievements = async (req, res) => {
-  const achievementsData = JSON.parse(jsonAchievements);
-  try {
-    await sequelize.transaction(async (t) => {
-      for (let achievementData of achievementsData) {
-        await updateAchievementTranslations(achievementData, {
-          transaction: t,
-        });
-      }
-    });
-    res.status(200).send("Achievements updated successfully!");
-  } catch (error) {
-    console.error("Error during transaction:", error);
-    res.status(500).send("Error updating achievements");
-  }
-};
-
-export { automateAchievements, updateBulkAchievements };
+export { createAchievement, updateAchievementTranslations };
