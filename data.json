@@ -1,35 +1,28 @@
-
-how to complete pubg "Master Sniper VI" achievement mission which has requirements: Eliminate an enemy from a distance of 250 meters or more while at Gold tier or
-higher in a ranked match to get Long Bomber.
-
-Win the Sharpshooter Combat Medal 200 time.
-
-the information must be more clear ,update the above info in this object
 {
-    "name": "",
-    "image": "",
-    "description": "",
-    "points": 80,
-    "category": "honor",
-    "hardness": "",
-    "rewards": {
-      "title": "",
-      "titleImage": "",
-      "extra": ""
-    },
-    "tipsTricks": [
-      {
-        "heading": "",
-        "image": "",
-        "description": ""
-      } 
-    ],
-    "requirements": [
-      {
-        "heading": "",
-        "image": "",
-        "icon_image": "",
-        "description": ""
-      }
-    ]
+  "name": "",
+  "image": "",
+  "description": "",
+  "points": 80,
+  "category": "honor",
+  "hardness": "",
+  "rewards": {
+    "title": "",
+    "titleImage": "",
+    "extra": ""
   },
+  "tipsTricks": [
+    {
+      "heading": "",
+      "image": "",
+      "description": ""
+    }
+  ],
+  "requirements": [
+    {
+      "heading": "",
+      "image": "",
+      "icon_image": "",
+      "description": ""
+    }
+  ]
+}

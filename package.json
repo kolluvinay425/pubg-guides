@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "postinstall": "npm cache clean --force",
     "start": "node -r dotenv/config ./src/index.js",
-    "server": "nodemon -r dotenv/config ./src/index.js",
-    "test": "jest --detectOpenHandles src/test/",
-    "build": "npm install && npm run start"
+    "build": "npm install && npm run start",
+    "test": "jest --detectOpenHandles src/test/"
   },
   "keywords": [],
   "author": "",
