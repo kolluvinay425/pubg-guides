@@ -5,7 +5,7 @@ import listEndpoints from "express-list-endpoints";
 if (!process.env.POSTGRES_URI) {
   throw new Error("No PostgreSQL URL provided");
 }
-const port = process.env.PORT || 8081;
+const PORT = process.env.PORT || 8081;
 
 // Connect to PostgreSQL
 sequelize
@@ -15,9 +15,9 @@ sequelize
     return sequelize.sync({ alter: true }); // Sync all models
   })
   .then(() => {
-    app.listen(port, () => {
+    app.listen(PORT, "0.0.0.0", () => {
       console.table(listEndpoints(app));
-      console.log(`Server running on port ${port}`);
+      console.log(`Server running on port ${PORT}`);
     });
   })
   .catch((error) => {
