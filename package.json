@@ -5,7 +5,7 @@
   "scripts": {
     "postinstall": "npm cache clean --force",
     "start": "node -r dotenv/config ./src/index.js",
-    "build": "npm ci && npm run start",
+    "build": "npm ci",
     "test": "jest --detectOpenHandles src/test/"
   },
   "type": "module",
